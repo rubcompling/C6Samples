@@ -5,9 +5,33 @@ Manually annotated data sets from project C6 (SFB 1102)
 
 Corpus | Time period | #Tokens | Annotations
 :------ | :-----------: | -------: | :------------
-DTAmedical | 17th-20th century | 1,083,720 | Sentences (automatic), tokens (automatic), lemmas (automatic), STTS-POS (automatic/manually corrected), antecedents, citations, moving elements, orthographic correction (automatic), topological fields (sentence brackets only)
-DTAtheological | 17th-20th century | 778,976 | Sentences (automatic), tokens (automatic), lemmas (automatic), STTS-POS (automatic/manually corrected), antecedents, citations, moving elements, orthographic correction (automatic), topological fields (sentence brackets only)
+[DTAmedical](#dtamedical) | 17th-20th century | 1,083,720 | sentences (automatic), tokens (automatic), lemmas (automatic), STTS-POS (automatic/manually corrected), [antecedents](#antecedents), [citations](#citations), [moving elements](#moving-elements), orthographic correction (automatic), [topological fields](#topological-fields) (sentence brackets only)
+[DTAtheological](#dtatheological) | 17th-20th century | 778,976 | sentences (automatic), tokens (automatic), lemmas (automatic), STTS-POS (automatic/manually corrected), [antecedents](#antecedents), [citations](#citations), [moving elements](#moving-elements), orthographic correction (automatic), [topological fields](#topological-fields) (sentence brackets only)
 
+### DTAmedical
+
+The sample contains sentences from 11 medical texts from the DTA [(German Text Archive; BBAW, 2019)](http://www.deutschestextarchiv.de/).
+
+Sentence boundaries, tokens, lemmas, orthographic normalization, and POS tags are taken from the automatic annotations of the DTA.
+To date, POS tags are manually corrected for the following texts:
+- abel_leibmedicus_1699
+- braeuner_pest_1714
+- purmann_feldscher_1680
+- unzer_gedanken_1746
+
+### DTAtheological
+
+The sample contains sentences from 13 theological texts from the DTA [(German Text Archive; BBAW, 2019)](http://www.deutschestextarchiv.de/).
+
+Sentence boundaries, tokens, lemmas, orthographic normalization, and POS tags are taken from the automatic annotations of the DTA.
+To date, POS tags are manually corrected for the following texts:
+- bengel_abriss01_1751
+- benner_meineid_1739
+- dilger_arndes_1620_1
+- hanssen_grundfragen_1731
+- nividandts_schwerd_1708
+- rotth_bedencken_1692
+- spener_piadesideria_1676
 
 ## Data Format
 
@@ -27,13 +51,15 @@ Letter | Meaning
 
 A span can also include one or more other spans. In this case, annotations are ordered hierarchically from the longest span to the left to the shortest, most deeply embedded span to the right. Multiple spans are seperated by a pipe `|`, e.g., `I-NF|B-LK`.
 
-For more complex annotations, the BIO-tags can also be extended with more information. For details on the different annotations, cf. the sections below.
+For more complex annotations, the BIO-tags can also be extended with more information, e.g., `B-RELC-extrap-1`. For details on the different annotations, cf. the sections below.
 
 #### Antecedents
 
 #### Chunks
 
 #### Citations
+
+Citations, e.g., from the Bible, are marked with `B-Citation` and `I-Citation`. Tokens that are not part of a citation are labeled with `_`.
 
 #### Moving Elements
 
@@ -54,3 +80,9 @@ RK | Rechte Satzklammer (*right sentence bracket*)
 NF | Nachfeld (*post-field*)
 
 For data sets that only contain sentence brackets, the remaining tokens are labeled with `_` instead of `O`.
+
+## References
+
+BBAW. 2019. Deutsches Textarchiv. Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache. Berlin-Brandenburgische Akademie der Wissenschaften; http://www.deutschestextarchiv.de/.
+
+Anne Schiller, Simone Teufel, Christine Stöckert, and Christine Thielen. 1999. *Guidelines für das Tagging deutscher Textcorpora mit STTS (Kleines und großes Tagset)*. Retrieved from http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf.
