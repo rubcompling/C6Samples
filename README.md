@@ -1,12 +1,30 @@
 # C6Samples
 Manually annotated data sets from project C6 (SFB 1102)
 
+## Content
+
+1. [Data sets](#data-sets)  
+   1.1 [DTAmedical and DTAtheological](#dtamedical-and-dtatheological)  
+2. [Data format](#data-format)  
+3. [Span annotations](#span-annotations)  
+   3.1 [Antecedents](#antecedents)  
+   3.2 [Chunks](#chunks)  
+   3.3 [Citations](#citations)  
+   3.4 [Moving elements](#moving-elements)  
+   3.5 [Phrases](#phrases)  
+   3.6 [Topological fields](#topological-fields)  
+4. [References](#references)  
+
+- - - - - - - - - - - - - - - - 
+
 ## Data Sets
 
 Corpus | Time period | #Tokens | Annotations  | License 
 :------ | :-----------: | -------: | :------------ | :------
 [DTAmedical](#dtamedical-and-dtatheological) | 17th-20th century | 1,083,720 | sentences (automatic), tokens (automatic), lemmas (automatic), STTS-POS (automatic/manually corrected), [antecedents](#antecedents), [citations](#citations), [moving elements](#moving-elements), orthographic correction (automatic), [topological fields](#topological-fields) (sentence brackets only) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 [DTAtheological](#dtamedical-and-dtatheological) | 17th-20th century | 778,976 | sentences (automatic), tokens (automatic), lemmas (automatic), STTS-POS (automatic/manually corrected), [antecedents](#antecedents), [citations](#citations), [moving elements](#moving-elements), orthographic correction (automatic), [topological fields](#topological-fields) (sentence brackets only) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+- - - - - - - - - - - - - - - - 
 
 ### DTAmedical and DTAtheological
 
@@ -52,6 +70,7 @@ Antecedents are annotated for all relative clauses and comparative elements. The
 
 4. [*Citations*](#citations)
 
+- - - - - - - - - - - - - - - - 
 
 ## Data Format
 
@@ -73,6 +92,8 @@ The following example shows the head of the file abel_leibmedicus_1699 from the 
 > 4	Abelii	Abelii	_	NE	_	_	_	_	_	I-Antec	_	_	_	_	_  
 > 5	,	,	_	$,	_	_	_	_	_	I-Antec	_	_	_	_	_  
 
+- - - - - - - - - - - - - - - - 
+
 ## Span Annotations
 
 Span annotations are encoded with a modified version of BIO-tags. The first letter of the tag specifies the position inside/outside of the span:
@@ -88,6 +109,15 @@ Letter | Meaning
 A span can also include one or more other spans. In this case, annotations are ordered hierarchically from the longest span to the left to the shortest, most deeply embedded span to the right. Multiple spans are seperated by a pipe `|`, e.g., `I-NF|B-LK`.
 
 For more complex annotations, the BIO-tags can also be extended with more information, e.g., `B-RELC-extrap-1`. For details on the different annotations, cf. the sections below.
+
+1. [Antecedents](#antecedents)
+2. [Chunks](#chunks)
+3. [Citations](#citations)
+4. [Moving elements](#moving-elements)
+5. [Phrases](#phrases)
+6. [Topological fields](#topological-fields)
+
+- - - - - - - - - - - - - - - - 
 
 ### Antecedents
 
@@ -107,6 +137,8 @@ Additional remarks:
 - If the same token span serves as antecedent for multiple moving elements, this is annotated as if there were two distinct antecedents, e.g. `B-Antec-1|B-Antec-2`.
 - Tokens that are not part of an antecedent are labeled with `_`.
 
+- - - - - - - - - - - - - - - - 
+
 ### Chunks
 
 Chunks are non-recursive, non-overlapping constituents from a sentence's parse tree. Chunk annotations are included in the `CHUNK` column. The following chunk labels are used:
@@ -122,9 +154,13 @@ sPC | Stranded prepositional chunk
 
 Stranded chunks occur when the beginning of a chunk is separated from the rest of the chunk by pre-modifying elements. For more information, cf. [Ortmann (2021)](https://aclanthology.org/2021.nodalida-main.19/).
 
+- - - - - - - - - - - - - - - - 
+
 ### Citations
 
 Citations, e.g., from the Bible, are marked with `B-Citation` and `I-Citation` in the `Cite` column. Tokens that are not part of a citation are labeled with `_`.
+
+- - - - - - - - - - - - - - - - 
 
 ### Moving Elements
 
@@ -167,6 +203,8 @@ Additional remarks:
 - `IDs` are unique within a given sentence, starting at index 1. Only elements with an [antecedent](#antecedents) get an `ID`.
 - Tokens outside of moving elements are labeled with `_`.
 
+- - - - - - - - - - - - - - - - 
+
 ### Phrases
 
 In the context of this project, phrases are understood as non-overlapping constituents from a sentence's parse tree. They are annotated in the `PHRASE` column. Only the highest non-terminal nodes of the following types are included:
@@ -179,6 +217,8 @@ AP | Adjective phrase
 ADVP | Adverb phrase
 
 Phrases are expected to not cross topological field boundaries. This means that they can be located within a field or contain one or more fields, but the may not be part of two neighbouring fields and the fields they contain may not stretch across the boundaries of the phrase. For more information, cf. [Ortmann (2021b)](https://konvens2021.phil.hhu.de/wp-content/uploads/2021/09/2021.KONVENS-1.11.pdf).
+
+- - - - - - - - - - - - - - - - 
 
 ### Topological Fields
 
@@ -198,6 +238,7 @@ The annotations are derived from the annotation scheme of the TüBa-D/Z corpus (
 
 For data sets that only contain sentence bracket annotations, the remaining tokens are labeled with `_` instead of `O`.
 
+- - - - - - - - - - - - - - - - 
 
 ## References
 BBAW. 2019. Deutsches Textarchiv. Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache. Berlin-Brandenburgische Akademie der Wissenschaften; http://www.deutschestextarchiv.de/.
