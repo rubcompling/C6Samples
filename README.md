@@ -54,13 +54,13 @@ In addition, the sentences are manually annotated with the following linguistic 
 
 Label | Element | Annotation
 :---: | :------ | :---------
-`NP`  | noun phrase | Every extraposed `NP` + one comparable in-situ `NP` with the same length
-`PP`  | prepositional phrase | Every extraposed `PP` + one comparable in-situ `PP` with the same pronoun and length
-`AP`  | adjective phrase | Every extraposed `AP` + one comparable in-situ `AP` with the same length
-`ADVP` | adverb phrase | Every extraposed `ADVP` + one comparable in-situ `ADVP` with the same length
-`CMPP` | comparative element | All comparative elements with adjectival antecedent (in comparative or superlative)
-`RELC` | relative clause | All attributive relative clauses with (pro)nominal antecedent
-`ADVC` | adverbial clause | All causal clauses
+NP  | noun phrase | Every extraposed `NP` + one comparable in-situ `NP` with the same length
+PP  | prepositional phrase | Every extraposed `PP` + one comparable in-situ `PP` with the same pronoun and length
+AP  | adjective phrase | Every extraposed `AP` + one comparable in-situ `AP` with the same length
+ADVP | adverb phrase | Every extraposed `ADVP` + one comparable in-situ `ADVP` with the same length
+CMPP | comparative element | All comparative elements with adjectival antecedent (in comparative or superlative)
+RELC | relative clause | All attributive relative clauses with (pro)nominal antecedent
+ADVC | adverbial clause | All causal clauses
 
 2. [*Antecedents*](#antecedents)
 
@@ -168,13 +168,13 @@ Moving elements are phrases/clauses that are or can be extraposed, i.e., moved t
 
 Label | Element | 
 :---: | :------ |
-`NP`  | noun phrase |
-`PP`  | prepositional phrase | 
-`AP`  | adjective phrase | 
-`ADVP` | adverb phrase | 
-`CMPP` | comparative element (with adjectival antecedent in comparative or superlative) |
-`RELC` | relative clause | 
-`ADVC` | adverbial (causal) clause |
+NP  | noun phrase |
+PP  | prepositional phrase | 
+AP  | adjective phrase | 
+ADVP | adverb phrase | 
+CMPP | comparative element (with adjectival antecedent in comparative or superlative) |
+RELC | relative clause | 
+ADVC | adverbial (causal) clause |
 
 Moving elements can contain other moving elements, e.g., a relative clause with embedded noun phrases.
 
