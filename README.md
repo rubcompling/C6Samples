@@ -91,9 +91,21 @@ For more complex annotations, the BIO-tags can also be extended with more inform
 
 ### Antecedents
 
-Antecedents are annotated in the `Antec` column.
+Antecedents are annotated in the `Antec` column. Antecedents can be nested, i.e., contain other antecedents. They usually have one (or possibly more) head token(s) and they are always linked to a [moving element](#moving-elements) via an ID. The label thus consists of up to 4 parts, separated by dashes. Empty parts are ommited.
 
+BIO letter | Antecedent | ID | Head |
+:--------: | :---------- | :------ | :----- |
+ B         |  Antec | 1, 2, ... | Head 
+ I         |  Antec | -- | Head |
+ 
+The beginning of an antecedent could thus be: `B-Antec-1` or `B-Antec-2-Head`  
+A token inside of an antecedent could be annotated with: `I-Antec` or `I-Antec-Head`.
 
+Additional remarks:
+- `Head` is only annotated for the head token(s) of the antecedent.
+- `IDs` are unique within a given sentence, starting at index 1. They always refer unambiguously to a [moving element](#moving-elements) in the same sentence.
+- Tokens that are not part of an antecedent are labeled with `_`.
+ 
 ### Chunks
 
 Chunks are non-recursive, non-overlapping constituents from a sentence's parse tree. Chunk annotations are included in the `CHUNK` column. The following chunk labels are used:
@@ -137,7 +149,7 @@ The label of a moving elements can consist of up to 5 parts, separated by dashes
     * For `ADVCs`, the third part specifies the position of the verb as verb-second `V2` or verb-last `VL` order.
     * For other moving elements, the third part specifies the position `extrap`, `insitu`, or `ambig`.
 4. The fourth part marks the `Head` token.
-5. The fifth part specifies the ID, if the element has an antecedent. It is only annotated for the first token of a moving element.
+5. The fifth part specifies the ID, if the element has an [antecedent](#antecedents). It is only annotated for the first token of a moving element.
 
 BIO letter | Element type | Position | Head | ID |
 :--------: | :---------- | :------ | :----- | :--- |
@@ -146,12 +158,12 @@ BIO letter | Element type | Position | Head | ID |
  I         |  NP, PP, AP, ADVP, CMPP, RELC | -- | -- | --
  I         |  ADVC        |   --     | Head | --
 
-Exemplary labels for the beginning of a moving element could be: `B-NP-insitu`, `B-RELC-ambig-1`, `B-ADVC-VL`, `B-ADVC-V2-Head-3`
+Exemplary labels for the beginning of a moving element could be: `B-NP-insitu`, `B-RELC-ambig-1`, `B-ADVC-VL`, `B-ADVC-V2-Head-3`  
 Labels inside of moving elements could be: `I-AP`, `I-ADVC`, `I-ADVC-Head`
 
 Additional remarks:
 - `Head` is only annotated for the head token of `ADVCs`, usually the finite verb.
-- `IDs` are unique within a given sentence, starting at index 1. Only elements with an antecedent get an `ID`.
+- `IDs` are unique within a given sentence, starting at index 1. Only elements with an [antecedent](#antecedents) get an `ID`.
 - Tokens outside of moving elements are labeled with `_`.
 
 ### Phrases
