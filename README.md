@@ -91,9 +91,12 @@ For more complex annotations, the BIO-tags can also be extended with more inform
 
 ### Antecedents
 
+Antecedents are annotated in the `Antec` column.
+
+
 ### Chunks
 
-Chunks are non-recursive, non-overlapping constituents from a sentence's parse tree. The following chunk labels are used:
+Chunks are non-recursive, non-overlapping constituents from a sentence's parse tree. Chunk annotations are included in the `CHUNK` column. The following chunk labels are used:
 
 Label | Chunk 
 :---: | :----
@@ -108,13 +111,49 @@ Stranded chunks occur when the beginning of a chunk is separated from the rest o
 
 ### Citations
 
-Citations, e.g., from the Bible, are marked with `B-Citation` and `I-Citation`. Tokens that are not part of a citation are labeled with `_`.
+Citations, e.g., from the Bible, are marked with `B-Citation` and `I-Citation` in the `Cite` column. Tokens that are not part of a citation are labeled with `_`.
 
 ### Moving Elements
 
+Moving elements are phrases/clauses that are or can be extraposed, i.e., moved to the post-field of the sentence. They are annotated in the `MovElem` column. The following types are considered in this project:
+
+Label | Element | 
+:---: | :------ |
+`NP`  | noun phrase |
+`PP`  | prepositional phrase | 
+`AP`  | adjective phrase | 
+`ADVP` | adverb phrase | 
+`CMPP` | comparative element (with adjectival antecedent in comparative or superlative) |
+`RELC` | relative clause | 
+`ADVC` | adverbial (causal) clause |
+
+Moving elements can contain other moving elements, e.g., a relative clause with embedded noun phrases.
+
+The label of a moving elements can consist of up to 5 parts, separated by dashes. Empty parts are ommited.
+
+1. The first part specifies, whether the token is at the beginning `B` or inside `I` of the moving element.
+2. The second part gives the type of moving element, e.g., `NP` or `RELC`.
+3. The third part is only present for the beginning of moving elements:
+    * For `ADVCs`, the third part specifies the position of the verb as verb-second `V2` or verb-last `VL` order.
+    * For other moving elements, the third part specifies the position `extrap`, `insitu`, or `ambig`.
+4. The fourth part indicates the `Head` token.
+5. The fifth part specifies the ID, if the element has an antecedent. It is only annotated for the first token of a moving element.
+
+BIO letter | Element type | Position | Head | ID |
+:--------: | :---------- | :------ | :----- | :--- |
+ B         |  NP, PP, AP, ADVP, CMPP, RELC | extrap, insitu, ambig | -- | 1, 2, ...
+ B         |  ADVC        | V2, VL   | Head | 1, 2, ...
+ I         |  NP, PP, AP, ADVP, CMPP, RELC | -- | -- | --
+ I         |  ADVC        |   --     | Head | --
+ 
+Additional remarks:
+- `Head` is only annotated for the head token of `ADVCs`, usually the finite verb.
+- `IDs` are unique within a given sentence, starting at index 1. Only elements with an antecedent get an `ID`.
+- Tokens outside of moving elements are labeled with `_`.
+
 ### Phrases
 
-In the context of this project, phrases are understood as non-overlapping constituents from a sentence's parse tree. Only the highest non-terminal nodes of the following types are included:
+In the context of this project, phrases are understood as non-overlapping constituents from a sentence's parse tree. They are annotated in the `PHRASE` column. Only the highest non-terminal nodes of the following types are included:
 
 Label | Phrase 
 :---: | :----
@@ -123,7 +162,7 @@ PP | Prepositional phrase
 AP | Adjective phrase
 ADVP | Adverb phrase
 
-Phrases are expected to not cross topological field boundaries. This means that they can be located within a field or contain one or more fields, but the may not be part of two neighbouring fields and the fields they contain may not stretch across the boundaries of the phrase. For more information, cf. [Ortmann (2021b)](https://konvens2021.phil.hhu.de/wp-content/uploads/2021/09/2021.KONVENS-1.11.pdf)
+Phrases are expected to not cross topological field boundaries. This means that they can be located within a field or contain one or more fields, but the may not be part of two neighbouring fields and the fields they contain may not stretch across the boundaries of the phrase. For more information, cf. [Ortmann (2021b)](https://konvens2021.phil.hhu.de/wp-content/uploads/2021/09/2021.KONVENS-1.11.pdf).
 
 ### Topological Fields
 
