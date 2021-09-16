@@ -136,7 +136,7 @@ The label of a moving elements can consist of up to 5 parts, separated by dashes
 3. The third part is only present for the beginning of moving elements:
     * For `ADVCs`, the third part specifies the position of the verb as verb-second `V2` or verb-last `VL` order.
     * For other moving elements, the third part specifies the position `extrap`, `insitu`, or `ambig`.
-4. The fourth part indicates the `Head` token.
+4. The fourth part marks the `Head` token.
 5. The fifth part specifies the ID, if the element has an antecedent. It is only annotated for the first token of a moving element.
 
 BIO letter | Element type | Position | Head | ID |
@@ -145,7 +145,10 @@ BIO letter | Element type | Position | Head | ID |
  B         |  ADVC        | V2, VL   | Head | 1, 2, ...
  I         |  NP, PP, AP, ADVP, CMPP, RELC | -- | -- | --
  I         |  ADVC        |   --     | Head | --
- 
+
+Exemplary labels for the beginning of a moving element could be: `B-NP-insitu`, `B-RELC-ambig-1`, `B-ADVC-VL`, `B-ADVC-V2-Head-3`
+Labels inside of moving elements could be: `I-AP`, `I-ADVC`, `I-ADVC-Head`
+
 Additional remarks:
 - `Head` is only annotated for the head token of `ADVCs`, usually the finite verb.
 - `IDs` are unique within a given sentence, starting at index 1. Only elements with an antecedent get an `ID`.
