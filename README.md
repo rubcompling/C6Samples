@@ -93,6 +93,19 @@ For more complex annotations, the BIO-tags can also be extended with more inform
 
 ### Chunks
 
+Chunks are non-recursive, non-overlapping constituents from a sentence's parse tree. The following chunk labels are used:
+
+Label | Chunk 
+:---: | :----
+NC | Noun chunk
+PC | Prepositional chunk
+AC | Adjective chunk
+ADVC | Adverb chunk
+sNC | Stranded noun chunk
+sPC | Stranded prepositional chunk
+
+Stranded chunks occur when the beginning of a chunk is separated from the rest of the chunk by pre-modifying elements. For more information, cf. [Ortmann (2021)](https://aclanthology.org/2021.nodalida-main.19/).
+
 ### Citations
 
 Citations, e.g., from the Bible, are marked with `B-Citation` and `I-Citation`. Tokens that are not part of a citation are labeled with `_`.
@@ -101,9 +114,20 @@ Citations, e.g., from the Bible, are marked with `B-Citation` and `I-Citation`. 
 
 ### Phrases
 
+In the context of this project, phrases are understood as non-overlapping constituents from a sentence's parse tree. Only the highest non-terminal nodes of the following types are included:
+
+Label | Phrase 
+:---: | :----
+NP | Noun phrase
+PP | Prepositional phrase
+AP | Adjective phrase
+ADVP | Adverb phrase
+
+Phrases are expected to not cross topological field boundaries. This means that they can be located within a field or contain one or more fields, but the may not be part of two neighbouring fields and the fields they contain may not stretch across the boundaries of the phrase.
+
 ### Topological Fields
 
-The following field labels are used:
+The topological field annotation is included in the `TOPF` column. Fields can - and often are - nested, i.e., one filed can encompass one or more (possibly complex) other fields. The following field labels are used:
 
 Label | Field 
 :---: | :----
@@ -115,10 +139,12 @@ MF | Mittelfeld (*middle field*)
 RK | Rechte Satzklammer (*right sentence bracket*)
 NF | Nachfeld (*post-field*)
 
-For data sets that only contain sentence brackets, the remaining tokens are labeled with `_` instead of `O`.
+For data sets that only contain sentence bracket annotations, the remaining tokens are labeled with `_` instead of `O`.
 
 ## References
 
 BBAW. 2019. Deutsches Textarchiv. Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache. Berlin-Brandenburgische Akademie der Wissenschaften; http://www.deutschestextarchiv.de/.
+
+Katrin Ortmann. 2021. Chunking Historical German. In: Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa), Reykjavik, Iceland (online), pp. 190-199. [PDF](https://aclanthology.org/2021.nodalida-main.19/) [Github](https://github.com/rubcompling/nodalida2021)
 
 Anne Schiller, Simone Teufel, Christine Stöckert, and Christine Thielen. 1999. *Guidelines für das Tagging deutscher Textcorpora mit STTS (Kleines und großes Tagset)*. Retrieved from http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf.
