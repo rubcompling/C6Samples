@@ -10,9 +10,9 @@ Corpus | Time period | #Tokens | Annotations
 
 ### DTAmedical and DTAtheological
 
-The sample contains sentences from 11 medical texts and 13 theological texts from the DTA [(German Text Archive; BBAW, 2019)](http://www.deutschestextarchiv.de/).
+The sample contains sentences from 11 medical texts and 13 theological texts from the [DTA](http://www.deutschestextarchiv.de/ "Deutsches Textarchiv (German Text Archive)").
 
-Sentence boundaries, tokens, lemmas, orthographic normalization, and POS tags are taken from the automatic annotations of the DTA.
+Sentence boundaries, tokens, lemmas, orthographic normalization, and POS tags are taken from the automatic annotations of the [DTA](http://www.deutschestextarchiv.de/ "Deutsches Textarchiv (German Text Archive)").
 To date, POS tags are manually corrected for the following texts:
 
 *Medical*
@@ -123,7 +123,7 @@ PP | Prepositional phrase
 AP | Adjective phrase
 ADVP | Adverb phrase
 
-Phrases are expected to not cross topological field boundaries. This means that they can be located within a field or contain one or more fields, but the may not be part of two neighbouring fields and the fields they contain may not stretch across the boundaries of the phrase.
+Phrases are expected to not cross topological field boundaries. This means that they can be located within a field or contain one or more fields, but the may not be part of two neighbouring fields and the fields they contain may not stretch across the boundaries of the phrase. For more information, cf. [Ortmann (2021b)](https://konvens2021.phil.hhu.de/wp-content/uploads/2021/09/2021.KONVENS-1.11.pdf)
 
 ### Topological Fields
 
@@ -145,11 +145,14 @@ For data sets that only contain sentence bracket annotations, the remaining toke
 
 
 ## References
+BBAW. 2019. Deutsches Textarchiv. Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache. Berlin-Brandenburgische Akademie der Wissenschaften; http://www.deutschestextarchiv.de/.
 
-^1 BBAW. 2019. Deutsches Textarchiv. Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache. Berlin-Brandenburgische Akademie der Wissenschaften; http://www.deutschestextarchiv.de/.
+Katrin Ortmann. 2020. Automatic Topological Field Identification in (Historical) German Texts. In *Proceedings of the The 4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL)*, Barcelona, Spain (online), pp. 10-18. [[PDF]](https://aclanthology.org/2020.latechclfl-1.2.pdf) [[Github]](https://github.com/rubcompling/latech2020)
 
-Katrin Ortmann. 2020. Automatic Topological Field Identification in (Historical) German Texts. In: *Proceedings of the The 4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL)*, Barcelona, Spain (online), pp. 10-18. [PDF](https://aclanthology.org/2020.latechclfl-1.2.pdf) [Github](https://github.com/rubcompling/latech2020)
+Katrin Ortmann. 2021. Chunking Historical German. In *Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa)*, Reykjavik, Iceland (online), pp. 190-199. [[PDF]](https://aclanthology.org/2021.nodalida-main.19/) [[Github]](https://github.com/rubcompling/nodalida2021)
 
-Katrin Ortmann. 2021. Chunking Historical German. In: *Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa)*, Reykjavik, Iceland (online), pp. 190-199. [PDF](https://aclanthology.org/2021.nodalida-main.19/) [Github](https://github.com/rubcompling/nodalida2021)
+Katrin Ortmann. 2021b. Automatic Phrase Recognition in Historical German. In *Proceedings of the Conference on Natural Language Processing (KONVENS)*, Düsseldorf, Germany. [[PDF]](https://konvens2021.phil.hhu.de/wp-content/uploads/2021/09/2021.KONVENS-1.11.pdf) [[Github]](https://github.com/rubcompling/konvens2021)
 
 Anne Schiller, Simone Teufel, Christine Stöckert, and Christine Thielen. 1999. *Guidelines für das Tagging deutscher Textcorpora mit STTS (Kleines und großes Tagset)*. Retrieved from http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf.
+
+Heike Telljohann, Erhard W. Hinrichs, Sandra Kübler, Heike Zinsmeister, and Kathrin Beck. 2017. *Stylebook for the Tübingen Treebank of Written German (TüBa-D/Z)*. Seminar fur Sprachwissenschaft, Universität Tübingen, Germany.
