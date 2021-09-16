@@ -139,12 +139,17 @@ MF | Mittelfeld (*middle field*)
 RK | Rechte Satzklammer (*right sentence bracket*)
 NF | Nachfeld (*post-field*)
 
+The annotations are derived from the annotation scheme of the TüBa-D/Z corpus (Telljohann et al., 2017). For more information, cf. [Ortmann (2020)](https://aclanthology.org/2020.latechclfl-1.2.pdf)
+
 For data sets that only contain sentence bracket annotations, the remaining tokens are labeled with `_` instead of `O`.
+
 
 ## References
 
-BBAW. 2019. Deutsches Textarchiv. Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache. Berlin-Brandenburgische Akademie der Wissenschaften; http://www.deutschestextarchiv.de/.
+^1 BBAW. 2019. Deutsches Textarchiv. Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache. Berlin-Brandenburgische Akademie der Wissenschaften; http://www.deutschestextarchiv.de/.
 
-Katrin Ortmann. 2021. Chunking Historical German. In: Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa), Reykjavik, Iceland (online), pp. 190-199. [PDF](https://aclanthology.org/2021.nodalida-main.19/) [Github](https://github.com/rubcompling/nodalida2021)
+Katrin Ortmann. 2020. Automatic Topological Field Identification in (Historical) German Texts. In: *Proceedings of the The 4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL)*, Barcelona, Spain (online), pp. 10-18. [PDF](https://aclanthology.org/2020.latechclfl-1.2.pdf) [Github](https://github.com/rubcompling/latech2020)
+
+Katrin Ortmann. 2021. Chunking Historical German. In: *Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa)*, Reykjavik, Iceland (online), pp. 190-199. [PDF](https://aclanthology.org/2021.nodalida-main.19/) [Github](https://github.com/rubcompling/nodalida2021)
 
 Anne Schiller, Simone Teufel, Christine Stöckert, and Christine Thielen. 1999. *Guidelines für das Tagging deutscher Textcorpora mit STTS (Kleines und großes Tagset)*. Retrieved from http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf.
