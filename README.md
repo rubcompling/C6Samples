@@ -104,8 +104,9 @@ A token inside of an antecedent could be annotated with: `I-Antec` or `I-Antec-H
 Additional remarks:
 - `Head` is only annotated for the head token(s) of the antecedent.
 - `IDs` are unique within a given sentence, starting at index 1. They always refer unambiguously to a [moving element](#moving-elements) in the same sentence.
+- If the same token span serves as antecedent for multiple moving elements, this is annotated as if there were two distinct antecedents, e.g. `B-Antec-1|B-Antec-2`.
 - Tokens that are not part of an antecedent are labeled with `_`.
- 
+
 ### Chunks
 
 Chunks are non-recursive, non-overlapping constituents from a sentence's parse tree. Chunk annotations are included in the `CHUNK` column. The following chunk labels are used:
