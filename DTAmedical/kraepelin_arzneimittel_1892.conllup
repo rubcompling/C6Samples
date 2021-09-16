@@ -4276,11 +4276,11 @@
 37	sie	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 38	uns	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 39	vielleicht	vielleicht	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-40	einen	eine	_	ART	_	_	_	_	_	B-Antec-_	_	_	_	_	_
+40	einen	eine	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 41	gewissen	gewiß	_	ADJA	_	_	_	_	_	I-Antec	_	_	_	_	_
 42	Aufschluss	Aufschluß	_	NN	_	_	_	_	_	I-Antec	_	_	_	_	_
 43	geben	geben	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
-44	über	über	_	APPR	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
+44	über	über	_	APPR	_	_	_	_	_	_	B-PP-extrap-1	_	_	_	_
 45	die	d	_	ART	_	_	_	_	_	_	I-PP	_	_	_	_
 46	augenblickliche	augenblicklich	_	ADJA	_	_	_	_	_	_	I-PP	_	_	_	_
 47	Disposition	Disposition	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
@@ -17081,7 +17081,7 @@
 24	es	es	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 25	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
 26	wol	wohl	_	ADV	_	_	_	_	_	_	_	wohl	replace	*	_
-27	um	um	_	APPR	_	_	_	_	_	B-Antec-_	B-PP-insitu	_	_	_	_
+27	um	um	_	APPR	_	_	_	_	_	B-Antec-1	B-PP-insitu	_	_	_	_
 28	die	d	_	ART	_	_	_	_	_	I-Antec	I-PP	_	_	_	_
 29	erleichterte	erleichtert	_	ADJA	_	_	_	_	_	I-Antec	I-PP	_	_	_	_
 30	Auslösung	Auslösung	_	NN	_	_	_	_	_	I-Antec	I-PP	_	_	_	_
@@ -17090,7 +17090,7 @@
 33	selber	selber	_	ADV	_	_	_	_	_	I-Antec	I-PP	_	_	_	_
 34	handeln	handeln	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 35	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-36	um	um	_	KOUI	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
+36	um	um	_	KOUI	_	_	_	_	_	_	B-PP-extrap-1	_	_	_	_
 37	eine	eine	_	ART	_	_	_	_	_	_	I-PP	_	_	_	_
 38	beschleunigte	beschleunigt	_	ADJA	_	_	_	_	_	_	I-PP	_	_	_	_
 39	Umsetzung	Umsetzung	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
@@ -22899,7 +22899,7 @@
 16	unberücksichtigt	unberücksichtigt	_	ADJD	_	_	_	_	_	_	_	_	_	_	B-RK
 17	lassen	lassen	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
 18	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-19	durch	durch	_	APPR	_	_	_	_	_	B-Antec-_	_	_	_	_	_
+19	durch	durch	_	APPR	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 20	zwei	zwei	_	CARD	_	_	_	_	_	I-Antec	_	_	_	_	_
 21	wesentlich	wesentlich	_	ADJD	_	_	_	_	_	I-Antec	_	_	_	_	_
 22	verschiedene	verschieden	_	ADJA	_	_	_	_	_	I-Antec	_	_	_	_	_
@@ -22907,7 +22907,7 @@
 24	gesteigert	steigern	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 25	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
 26	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-27	durch	durch	_	APPR	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
+27	durch	durch	_	APPR	_	_	_	_	_	_	B-PP-extrap-1	_	_	_	_
 28	eine	eine	_	ART	_	_	_	_	_	_	I-PP	_	_	_	_
 29	raschere	rasch	_	ADJA	_	_	_	_	_	_	I-PP	_	_	_	_
 30	centrale	Centrale	_	NE	_	_	_	_	_	_	I-PP	_	_	_	_
@@ -24853,12 +24853,12 @@
 14	wenn	wenn	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 15	sie	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 16	einigermassen	einigermaßen	_	ADV	_	_	_	_	_	_	_	einigermaßen	replace	*	_
-17	in	in	_	APPR	_	_	_	_	_	B-Antec-_	_	_	_	_	_
+17	in	in	_	APPR	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 18	Beziehung	Beziehung	_	NN	_	_	_	_	_	I-Antec	_	_	_	_	_
 19	gesetzt	setzen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 20	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
 21	kann	können	_	VMFIN	_	_	_	_	_	_	_	_	_	_	I-RK
-22	zu	zu	_	APPR	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
+22	zu	zu	_	APPR	_	_	_	_	_	_	B-PP-extrap-1	_	_	_	_
 23	den	d	_	ART	_	_	_	_	_	_	I-PP	_	_	_	_
 24	übrigen	übrig	_	ADJA	_	_	_	_	_	_	I-PP	_	_	_	_
 25	Eigenthümlichkeiten	Eigentümlichkeit	_	NN	_	_	_	_	_	_	I-PP	Eigentümlichkeiten	replace	*	_

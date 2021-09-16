@@ -20455,8 +20455,8 @@
 5	Brambilla	Brambilla	_	NE	_	_	_	_	_	_	_	_	_	_	_
 6	haͤlt	halten	_	VVFIN	_	_	_	_	_	_	_	hält	replace	*	B-LK
 7	keine	keine	_	PIAT	_	_	_	_	_	B-Antec-2	_	_	_	_	_
-8	andere	ander	_	ADJA	_	_	_	_	_	B-Antec-_	_	_	_	_	_
-9	Arzney	Arznei	_	NN	_	_	_	_	_	B-Antec-2	_	Arznei	replace	*	_
+8	andere	ander	_	ADJA	_	_	_	_	_	I-Antec|B-Antec-1	_	_	_	_	_
+9	Arzney	Arznei	_	NN	_	_	_	_	_	I-Antec	_	Arznei	replace	*	_
 10	gegen	gegen	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 11	dieſes	diese	_	PDAT	_	_	_	_	_	_	_	dieses	replace	*	_
 12	ſchmerzhafte	schmerzhaft	_	ADJA	_	_	_	_	_	_	_	schmerzhafte	replace	*	_

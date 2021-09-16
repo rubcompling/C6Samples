@@ -377,7 +377,7 @@
 25	trewlich	treulich	_	ADJD	_	_	_	_	_	_	_	I-RELC	treulich	replace	*	_
 26	nach	nach	_	APPR	_	_	_	_	_	_	_	I-RELC	_	_	_	_
 27	dem	d	_	ART	_	_	_	_	_	B-Antec-2	_	I-RELC	_	_	_	_
-28	vermoͤgen	vermögen	_	NN	_	_	_	_	_	B-Antec-_	_	I-RELC	vermögen	replace	*	_
+28	vermoͤgen	vermögen	_	NN	_	_	_	_	_	I-Antec	_	I-RELC	vermögen	replace	*	_
 29	/	/	_	$(	_	_	_	_	_	_	_	I-RELC	_	_	_	_
 30	das	d	_	PRELS	_	_	_	_	_	_	_	I-RELC|B-RELC-insitu-2	_	_	_	_
 31	Gott	Gott	_	NN	_	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_

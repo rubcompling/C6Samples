@@ -8243,11 +8243,11 @@
 1	Das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 2	Netze	Netz	_	NN	_	_	_	_	_	_	_	_	_	_	_
 3	iſt	sein	_	VAFIN	_	_	_	_	_	_	_	ist	replace	*	B-LK
-4	ein	eine	_	ART	_	_	_	_	_	B-Antec-_	_	_	_	_	_
+4	ein	eine	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 5	zweyfaches	zweifach	_	ADJA	_	_	_	_	_	I-Antec	_	zweifaches	replace	*	_
 6	Pergamenthaͤutlein	Pergamenthautlein	_	NN	_	_	_	_	_	I-Antec	_	Pergamenthäutlein	replace	*	_
 7	verſehen	versehen	_	VVPP	_	_	_	_	_	_	_	versehen	replace	*	B-RK
-8	mit	mit	_	APPR	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
+8	mit	mit	_	APPR	_	_	_	_	_	_	B-PP-extrap-1	_	_	_	_
 9	Fett	Fett	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
 10	und	und	_	KON	_	_	_	_	_	_	I-PP	_	_	_	_
 11	vielen	viel	_	PIAT	_	_	_	_	_	_	I-PP	_	_	_	_
@@ -11977,17 +11977,17 @@
 # sent_id = 175
 # sent_id(TSV) = 175
 # text = Einige Unterſcheide kan man nochmachen / von dem Orte / wo der Bruch geſchehen :
-1	Einige	einige	_	PIAT	_	_	_	_	_	B-Antec-_	_	_	_	_	_
+1	Einige	einige	_	PIAT	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 2	Unterſcheide	Unterscheide	_	NN	_	_	_	_	_	I-Antec	_	Unterscheide	replace	*	_
 3	kan	können	_	VMFIN	_	_	_	_	_	_	_	kann	replace	*	B-LK
 4	man	man	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 5	nochmachen	nachmachen	_	VVINF	_	_	_	_	_	_	_	nachmachen	replace	*	B-RK
 6	/	/	_	$(	_	_	_	_	_	_	_	_	_	_	_
-7	von	von	_	APPR	_	_	_	_	_	B-Antec-1	B-PP-extrap	_	_	_	_
+7	von	von	_	APPR	_	_	_	_	_	B-Antec-2	B-PP-extrap-1	_	_	_	_
 8	dem	d	_	ART	_	_	_	_	_	I-Antec	I-PP	_	_	_	_
 9	Orte	Ort	_	NN	_	_	_	_	_	I-Antec	I-PP	_	_	_	_
 10	/	/	_	$(	_	_	_	_	_	_	I-PP	_	_	_	_
-11	wo	wo	_	PWAV	_	_	_	_	_	_	I-PP|B-RELC-ambig-1	_	_	_	B-LK
+11	wo	wo	_	PWAV	_	_	_	_	_	_	I-PP|B-RELC-ambig-2	_	_	_	B-LK
 12	der	d	_	ART	_	_	_	_	_	_	I-PP|I-RELC	_	_	_	_
 13	Bruch	Bruch	_	NN	_	_	_	_	_	_	I-PP|I-RELC	_	_	_	_
 14	geſchehen	geschehen	_	VVPP	_	_	_	_	_	_	I-PP|I-RELC	geschehen	replace	*	B-RK
@@ -19010,11 +19010,11 @@
 30	geſchiehet	geschehen	_	VVFIN	_	_	_	_	_	_	_	geschieht	replace	*	B-LK
 31	vieleicht	vielleicht	_	ADV	_	_	_	_	_	_	_	vielleicht	replace	*	_
 32	deßwegen	deswegen	_	PAV	_	_	_	_	_	_	_	deswegen	replace	*	_
-33	einen	eine	_	ART	_	_	_	_	_	B-Antec-_	_	_	_	_	_
+33	einen	eine	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 34	Unterſcheid	Unterschied	_	NN	_	_	_	_	_	I-Antec	_	Unterschied	replace	*	_
 35	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
 36	machen	machen	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
-37	in	in	_	APPR	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
+37	in	in	_	APPR	_	_	_	_	_	_	B-PP-extrap-1	_	_	_	_
 38	denen	die	_	PDAT	_	_	_	_	_	_	I-PP	_	_	_	_
 39	Geſchwulſten	Geschwülst	_	NN	_	_	_	_	_	_	I-PP	Geschwülsten	replace	*	_
 40	und	und	_	KON	_	_	_	_	_	_	I-PP	_	_	_	_

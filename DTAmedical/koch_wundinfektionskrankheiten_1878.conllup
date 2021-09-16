@@ -11063,13 +11063,13 @@
 3	Fällen	Fall	_	NN	_	_	_	_	_	I-Antec	_	_	_	_	_	_
 4	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_	_
 5	die	die	_	PRELS	_	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
-6	zu	zu	_	APPR	_	_	_	_	_	B-Antec-_	_	I-RELC	_	_	_	_
+6	zu	zu	_	APPR	_	_	_	_	_	B-Antec-2	_	I-RELC	_	_	_	_
 7	einer	eine	_	ART	_	_	_	_	_	I-Antec	_	I-RELC	_	_	_	_
 8	bestimmten	bestimmt	_	ADJA	_	_	_	_	_	I-Antec	_	I-RELC	_	_	_	_
 9	Krankheit	Krankheit	_	NN	_	_	_	_	_	I-Antec	_	I-RELC	_	_	_	_
 10	gehören	gehören	_	VVFIN	_	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 11	,	,	_	$,	_	_	_	_	_	_	_	I-RELC	_	_	_	_
-12	z.	z.	_	APPRART	_	_	_	_	_	_	_	I-RELC|B-PP-extrap	_	_	_	_
+12	z.	z.	_	APPRART	_	_	_	_	_	_	_	I-RELC|B-PP-extrap-2	_	_	_	_
 13	B.	B.	_	NN	_	_	_	_	_	_	_	I-RELC|I-PP	_	_	_	_
 14	zur	zur	_	APPRART	_	_	_	_	_	_	_	I-RELC|I-PP	_	_	_	_
 15	Septicämie	Septicämie	_	NN	_	_	_	_	_	_	_	I-RELC|I-PP	_	_	_	_

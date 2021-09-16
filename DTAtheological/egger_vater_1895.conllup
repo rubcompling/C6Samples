@@ -32742,13 +32742,13 @@
 # sent_id = 909
 # sent_id(TSV) = 909
 # text = Vater unser , der Du bist im Himmel .
-1	Vater	Vater	_	NN	_	_	_	_	_	B-Antec-_-Head	_	_	_	_	_	_
+1	Vater	Vater	_	NN	_	_	_	_	_	B-Antec-1-Head	_	_	_	_	_	_
 2	unser	unsere	_	PPOSAT	_	_	_	_	_	I-Antec	_	_	_	_	_	_
 3	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_	_
 4	der	die	_	PRELS	_	_	_	_	_	_	_	_	_	_	_	B-LK
 5	Du	du	_	PPER	_	_	_	_	_	_	_	_	_	_	_	_
 6	bist	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	_	B-RK
-7	im	im	_	APPRART	_	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
+7	im	im	_	APPRART	_	_	_	_	_	_	_	B-PP-extrap-1	_	_	_	_
 8	Himmel	Himmel	_	NN	_	_	_	_	_	_	_	I-PP	_	_	_	_
 9	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_	_
 

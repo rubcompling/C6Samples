@@ -7747,9 +7747,9 @@
 3	Muͤſſe	müssen	_	VMFIN	_	_	_	_	_	_	_	Müsse	replace	*	B-LK
 4	dieſelbe	dieselbe	_	PDAT	_	_	_	_	_	_	_	dieselbe	replace	*	_
 5	Kirch	Kirche	_	NN	_	_	_	_	_	_	_	Kirche	replace	*	_
-6	einig	einig	_	ADJD	_	_	_	_	_	B-Antec-_	_	_	_	_	_
+6	einig	einig	_	ADJD	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 7	ſeyn	sein	_	VAINF	_	_	_	_	_	_	_	sein	replace	*	B-RK
-8	in	in	_	APPR	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
+8	in	in	_	APPR	_	_	_	_	_	_	B-PP-extrap-1	_	_	_	_
 9	der	d	_	ART	_	_	_	_	_	_	I-PP	_	_	_	_
 10	Lehr	Lehre	_	NN	_	_	_	_	_	_	I-PP	Lehre	replace	*	_
 11	deß	d	_	ART	_	_	_	_	_	_	I-PP	des	replace	*	_
@@ -7783,9 +7783,9 @@
 39	/	/	_	$(	_	_	_	_	_	_	_	_	_	_	_
 40	kan	können	_	VMFIN	_	_	_	_	_	_	_	kann	replace	*	B-LK
 41	foͤlglich	folglich	_	ADV	_	_	_	_	_	_	_	folglich	replace	*	_
-42	keiner	keine	_	PIS	_	_	_	_	_	B-Antec-1	_	_	_	_	_
+42	keiner	keine	_	PIS	_	_	_	_	_	B-Antec-2	_	_	_	_	_
 43	/	/	_	$(	_	_	_	_	_	_	_	_	_	_	_
-44	ſo	so	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	so	replace	*	B-LK
+44	ſo	so	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-2	so	replace	*	B-LK
 45	dieſen	diese	_	PDAT	_	_	_	_	_	_	I-RELC	diesen	replace	*	_
 46	Glauben	Glauben	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 47	nit	nicht	_	PTKNEG	_	_	_	_	_	_	I-RELC	nicht	replace	*	_
