@@ -3,10 +3,10 @@ Manually annotated data sets from project C6 (SFB 1102)
 
 ## Data Sets
 
-Corpus | Time period | #Tokens | Annotations
-:------ | :-----------: | -------: | :------------
-[DTAmedical](#dtamedical-and-dtatheological) | 17th-20th century | 1,083,720 | sentences (automatic), tokens (automatic), lemmas (automatic), STTS-POS (automatic/manually corrected), [antecedents](#antecedents), [citations](#citations), [moving elements](#moving-elements), orthographic correction (automatic), [topological fields](#topological-fields) (sentence brackets only)
-[DTAtheological](#dtamedical-and-dtatheological) | 17th-20th century | 778,976 | sentences (automatic), tokens (automatic), lemmas (automatic), STTS-POS (automatic/manually corrected), [antecedents](#antecedents), [citations](#citations), [moving elements](#moving-elements), orthographic correction (automatic), [topological fields](#topological-fields) (sentence brackets only)
+Corpus | Time period | #Tokens | Annotations  | License 
+:------ | :-----------: | -------: | :------------ | :------
+[DTAmedical](#dtamedical-and-dtatheological) | 17th-20th century | 1,083,720 | sentences (automatic), tokens (automatic), lemmas (automatic), STTS-POS (automatic/manually corrected), [antecedents](#antecedents), [citations](#citations), [moving elements](#moving-elements), orthographic correction (automatic), [topological fields](#topological-fields) (sentence brackets only) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+[DTAtheological](#dtamedical-and-dtatheological) | 17th-20th century | 778,976 | sentences (automatic), tokens (automatic), lemmas (automatic), STTS-POS (automatic/manually corrected), [antecedents](#antecedents), [citations](#citations), [moving elements](#moving-elements), orthographic correction (automatic), [topological fields](#topological-fields) (sentence brackets only) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 ### DTAmedical and DTAtheological
 
