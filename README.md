@@ -12,8 +12,9 @@ Manually annotated data sets from project C6 (SFB 1102)
    3.3 [Citations](#citations)  
    3.4 [Moving elements](#moving-elements)  
    3.5 [Phrases](#phrases)  
-   3.6 [Topological fields](#topological-fields)  
-4. [References](#references)  
+   3.6 [Topological fields](#topological-fields) 
+4. [License](#license) 
+5. [References](#references)  
 
 - - - - - - - - - - - - - - - - 
 
@@ -237,6 +238,12 @@ NF | Nachfeld (*post-field*)
 The annotations are derived from the annotation scheme of the TüBa-D/Z corpus (Telljohann et al., 2017). For more information, cf. [Ortmann (2020)](https://aclanthology.org/2020.latechclfl-1.2.pdf)
 
 For data sets that only contain sentence bracket annotations, the remaining tokens are labeled with `_` instead of `O`.
+
+- - - - - - - - - - - - - - - - 
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 - - - - - - - - - - - - - - - - 
 
