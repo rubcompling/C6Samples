@@ -36,8 +36,12 @@ To date, POS tags are manually corrected for the following texts:
 
 *Medical*
 - abel_leibmedicus_1699
+- blumenbach_anatomie_1824
 - braeuner_pest_1714
+- carus_gynaekologie02_1820_1
+- gall_untersuchungen_1791_1
 - purmann_feldscher_1680
+- reil_curmethode_1803
 - unzer_gedanken_1746
 
 *Theological*
@@ -46,8 +50,10 @@ To date, POS tags are manually corrected for the following texts:
 - dilger_arndes_1620_1
 - hanssen_grundfragen_1731
 - nividandts_schwerd_1708
+- pahl_simpertus_1799
 - rotth_bedencken_1692
 - spener_piadesideria_1676
+- strauss_jesus01_1835_1
 
 In addition, the sentences are manually annotated with the following linguistic information:
 

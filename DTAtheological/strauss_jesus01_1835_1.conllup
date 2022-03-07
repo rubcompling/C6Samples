@@ -37,7 +37,7 @@
 33	Geschichte	Geschichte	_	NN	_	_	_	_	_	_	_	_	_	_	_
 34	Jesu	Jesu	_	NE	_	_	_	_	_	_	_	_	_	_	_
 35	eine	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
-36	neue	neu	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+36	neue	neu	_	NN	_	_	_	_	_	_	_	_	_	_	_
 37	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
 38	setzen	setzen	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
 39	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -103,7 +103,7 @@
 15	früher	früh	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 16	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
 17	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-18	rationalistische	rationalistisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+18	rationalistische	rationalistisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 19	überlebt	überleben	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 20	gehabt	haben	_	VAPP	_	_	_	_	_	_	_	_	_	_	I-RK
 21	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -156,7 +156,7 @@
 68	welcher	welche	_	PRELS	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
 69	sie	sie	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 70	sich	sich	_	PRF	_	_	_	_	_	_	I-RELC	_	_	_	_
-71	halten	halten	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+71	halten	halten	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 72	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 73	dass	dass	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 74	sie	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -171,7 +171,7 @@
 83	gegenwärtig	gegenwärtig	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 84	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 85	das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-86	Undenkbare	undenkbar	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+86	Undenkbare	undenkbar	_	NN	_	_	_	_	_	_	_	_	_	_	_
 87	denkbar	denkbar	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 88	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
 89	machen	machen	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
@@ -189,13 +189,13 @@
 7	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 8	Stelle	Stelle	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 9	der	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-10	bezeichneten	bezeichnet	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+10	bezeichneten	bezeichnet	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 11	treten	treten	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 12	soll	sollen	_	VMFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 13	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 14	ist	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 15	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-16	mythische	mythisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+16	mythische	mythisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 17	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 5
@@ -209,13 +209,13 @@
 6	bewusst	bewußt	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 7	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 8	dass	dass	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
-9	viele	viel	_	PIS	_	_	_	_	_	_	_	_	_	_	_
+9	viele	viel	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 10	Andere	andere	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 11	ein	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 12	solches	solch	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 13	Werk	Werk	_	NN	_	_	_	_	_	_	_	_	_	_	_
 14	ungleich	ungleich	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
-15	gelehrter	gelehrt	_	ADJA	_	_	_	_	_	B-Antec-1	_	_	_	_	_
+15	gelehrter	gelehrt	_	PIS	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 16	auszustatten	ausstatten	_	VVIZU	_	_	_	_	_	_	_	_	_	_	_
 17	im	im	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 18	Stande	Stand	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -246,7 +246,7 @@
 15	dieses	diese	_	PDAT	_	_	_	_	_	_	I-RELC	_	_	_	_
 16	Geschäftes	Geschäft	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 17	vor	vor	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-18	Andern	ander	_	ADJA	_	_	_	_	_	_	I-RELC	Anderen	replace	*	_
+18	Andern	ander	_	PIS	_	_	_	_	_	_	I-RELC	Anderen	replace	*	_
 19	befähigte	befähigen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 20	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
@@ -304,7 +304,7 @@
 49	durch	durch	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 50	philosophische	philosophisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 51	Studien	Studie	_	NN	_	_	_	_	_	_	_	_	_	_	_
-52	frühe	früh	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+52	frühe	früh	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 53	zu	zu	_	APPR	_	_	_	_	_	_	_	_	_	_	B-RK
 54	Theil	Teil	_	NN	_	_	_	_	_	_	_	Teil	replace	*	I-RK
 55	geworden	werden	_	VAPP	_	_	_	_	_	_	_	_	_	_	I-RK
@@ -406,12 +406,12 @@
 46	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 47	dass	dass	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 48	alles	alle	_	PIS	_	_	_	_	_	_	_	_	_	_	_
-49	das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
+49	das	d	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 50	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 51	christlichen	christlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 52	Glauben	Glauben	_	NN	_	_	_	_	_	_	_	_	_	_	_
 53	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
-54	verlezt	verletzen	_	VVPP	_	_	_	_	_	_	_	verletzt	replace	*	B-RK
+54	verlezt	verletzen	_	VVFIN	_	_	_	_	_	_	_	verletzt	replace	*	B-RK
 55	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 10
@@ -434,7 +434,7 @@
 15	das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 16	Heilmittel	Heilmittel	_	NN	_	_	_	_	_	_	_	_	_	_	_
 17	für	für	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-18	dergleichen	dergleichen	_	PIS	_	_	_	_	_	B-Antec-1	_	_	_	_	_
+18	dergleichen	dergleichen	_	PIAT	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 19	Verwundungen	Verwundung	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 20	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 21	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-ambig-1	_	_	_	B-LK
@@ -481,13 +481,13 @@
 62	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 63	Ungelehrten	Ungelehrte	_	NN	_	_	_	_	_	_	_	_	_	_	_
 64	unter	unter	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-65	denselben	denselben	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+65	denselben	denselben	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 66	bald	bald	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 67	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 68	oft	oft	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 69	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	_
 70	merken	merken	_	VVINF	_	_	_	_	_	_	_	_	_	_	_
-71	bekommen	bekommen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+71	bekommen	bekommen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 72	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 73	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 74	Schrift	Schrift	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -544,7 +544,7 @@
 125	sie	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 126	das	die	_	PDS	_	_	_	_	_	B-Antec-2	_	_	_	_	_
 127	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
-128	verstehen	verstehen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+128	verstehen	verstehen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 129	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 130	worüber	worüber	_	PWAV	_	_	_	_	_	_	B-RELC-extrap-2	_	_	_	B-LK
 131	sie	sie	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -566,7 +566,7 @@
 8	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 9	Stelle	Stelle	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 10	von	von	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-11	älteren	alt	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+11	älteren	alt	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 12	setzen	setzen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 13	will	wollen	_	VMFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 14	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -575,7 +575,7 @@
 17	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 18	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
 19	mit	mit	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-20	diesen	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+20	diesen	diese	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 21	vollständig	vollständig	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 22	auseinanderzusetzen	auseinandersetzen	_	VVIZU	_	_	_	_	_	_	_	_	_	_	B-RK
 23	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -603,7 +603,7 @@
 18	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 19	für	für	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 20	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-21	orthodoxe	orthodox	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+21	orthodoxe	orthodox	_	NN	_	_	_	_	_	_	_	_	_	_	_
 22	war	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 23	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 24	Commentar	Kommentar	_	NN	_	_	_	_	_	_	_	Kommentar	replace	*	_
@@ -640,7 +640,7 @@
 55	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 56	Commentare	Kommentar	_	NN	_	_	_	_	_	_	_	Kommentare	replace	*	_
 57	von	von	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-58	Fritzsche	Fritzsche	_	NN	_	_	_	_	_	_	_	_	_	_	_
+58	Fritzsche	Fritzsche	_	NE	_	_	_	_	_	_	_	_	_	_	_
 59	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 60	trefflichste	trefflich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 61	Vorarbeit	Vorarbeit	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -662,7 +662,7 @@
 77	Resultate	Resultat	_	NN	_	_	_	_	_	I-Antec	_	_	_	_	_
 78	und	und	_	KON	_	_	_	_	_	I-Antec	_	_	_	_	_
 79	Consequenzen	Konsequenz	_	NN	_	_	_	_	_	I-Antec	_	Konsequenzen	replace	*	_
-80	zeigen	zeigen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+80	zeigen	zeigen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 81	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 82	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 83	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -712,7 +712,7 @@
 31	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 32	Vollendung	Vollendung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 33	dieses	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
-34	ersten	erst	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+34	ersten	erst	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 35	unter	unter	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 36	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 37	Presse	Presse	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -746,7 +746,7 @@
 23	,	,	_	$,	_	_	_	_	_	_	I-PP	_	_	_	_
 24	welche	welche	_	PRELS	_	_	_	_	_	_	I-PP|B-RELC-ambig-1	_	_	_	B-LK
 25	an	an	_	APPR	_	_	_	_	_	_	I-PP|I-RELC	_	_	_	_
-26	dieselben	dieselbe	_	PDAT	_	_	_	_	_	_	I-PP|I-RELC	_	_	_	_
+26	dieselben	dieselbe	_	PDS	_	_	_	_	_	_	I-PP|I-RELC	_	_	_	_
 27	als	als	_	KOKOM	_	_	_	_	_	_	I-PP|I-RELC	_	_	_	_
 28	an	an	_	APPR	_	_	_	_	_	_	I-PP|I-RELC	_	_	_	_
 29	heilige	heilig	_	ADJA	_	_	_	_	_	_	I-PP|I-RELC	_	_	_	_
@@ -774,7 +774,7 @@
 14	allgemein	allgemein	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 15	zum	zum	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 16	Bewuſstsein	Bewußtsein	_	NN	_	_	_	_	_	_	_	Bewusstsein	replace	*	_
-17	kommen	kommen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+17	kommen	kommen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 18	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 19	um	um	_	KOUI	_	_	_	_	_	_	_	_	_	_	_
 20	eine	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -785,7 +785,7 @@
 25	Urkunden	Urkunde	_	NN	_	_	_	_	_	_	_	_	_	_	_
 26	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 27	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
-28	heiligen	heilig	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+28	heiligen	heilig	_	NN	_	_	_	_	_	_	_	_	_	_	_
 29	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 30	herbeizuführen	herbeiführen	_	VVIZU	_	_	_	_	_	_	_	_	_	_	B-RK
 31	:	:	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -797,10 +797,10 @@
 37	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 38	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 39	sich	sich	_	PRF	_	_	_	_	_	_	I-RELC	_	_	_	_
-40	derselben	dieselbe	_	PDAT	_	_	_	_	_	_	I-RELC	_	_	_	_
-41	heller	hell	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+40	derselben	dieselbe	_	PDS	_	_	_	_	_	_	I-RELC	_	_	_	_
+41	heller	hell	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
 42	oder	oder	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
-43	dunkler	dunkel	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+43	dunkler	dunkel	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
 44	bewuſst	bewußt	_	ADJD	_	_	_	_	_	_	I-RELC	bewusst	replace	*	_
 45	geworden	werden	_	VAPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 46	sind	sein	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
@@ -845,15 +845,15 @@
 16	unvermittelt	unvermittelt	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
 17	in	in	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 18	das	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-19	Menschliche	menschlich	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+19	Menschliche	menschlich	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 20	hereintritt	hereintreten	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 21	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 22	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 23	Ideen	Idee	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 24	unmittelbar	unmittelbar	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
 25	sich	sich	_	PRF	_	_	_	_	_	_	I-RELC	_	_	_	_
-26	verkörpert	verkörpern	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	_
-27	zeigen	zeigen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+26	verkörpert	verkörpern	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	_
+27	zeigen	zeigen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 28	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 17
@@ -951,7 +951,7 @@
 29	alten	alt	_	ADJA	_	_	_	_	_	_	I-PP	_	_	_	_
 30	Urkunde	Urkunde	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
 31	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
-32	verblendet	verblenden	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
+32	verblendet	verblenden	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 33	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 34	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 35	nur	nur	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -983,7 +983,7 @@
 61	jene	jen	_	PDAT	_	_	_	_	_	_	I-RELC	_	_	_	_
 62	alten	alt	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 63	Schriftsteller	Schriftsteller	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-64	erzählen	erzählen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+64	erzählen	erzählen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 65	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 66	anders	anders	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 67	ansieht	ansehen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -993,7 +993,7 @@
 71	selbst	selbst	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 72	es	es	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 73	angesehen	ansehen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
-74	haben	haben	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
+74	haben	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 75	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 19
@@ -1067,9 +1067,9 @@
 66	Gedichte	Gedicht	_	NN	_	_	_	_	_	_	_	_	_	_	_
 67	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 68	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-69	ἀρετὴ	Ἀρετὴ	_	NE	_	_	_	_	_	_	_	_	_	_	_
+69	ἀρετὴ	Ἀρετὴ	_	FM	_	_	_	_	_	_	_	_	_	_	_
 70	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-71	δικαιοσύνη	Δικαιοσύνη	_	NE	_	_	_	_	_	_	_	_	_	_	_
+71	δικαιοσύνη	Δικαιοσύνη	_	FM	_	_	_	_	_	_	_	_	_	_	_
 72	bezog	beziehen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 73	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 74	daſs	dass	_	KOUS	_	_	_	_	_	_	_	dass	replace	*	B-LK
@@ -1083,7 +1083,7 @@
 82	Proceſs	Prozeß	_	NN	_	_	_	_	_	_	_	Prozess	replace	*	_
 83	der	d	_	ART	_	_	_	_	_	B-Antec-2	_	_	_	_	_
 84	Naturprinzipien	Naturprinzip	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
-85	verstanden	verstehen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
+85	verstanden	verstehen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 86	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 87	deren	die	_	PRELAT	_	_	_	_	_	_	B-RELC-extrap-2	_	_	_	B-LK
 88	oberste	ober	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -1106,12 +1106,12 @@
 105	seiner	seine	_	PPOSAT	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 106	Weise	Weise	_	NN	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 107	,	,	_	$,	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
-108	der	die	_	PRELS	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
-109	Eine	eine	_	ART	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
+108	der	die	_	ART	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
+109	Eine	eine	_	PIS	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 110	einen	eine	_	ART	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 111	physischen	physisch	_	ADJA	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 112	,	,	_	$,	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
-113	der	die	_	PRELS	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
+113	der	die	_	ART	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 114	Andere	andere	_	PIS	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 115	einen	eine	_	ART	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 116	ethischen	ethisch	_	ADJA	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
@@ -1124,7 +1124,7 @@
 123	aber	aber	_	ADV	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 124	die	d	_	ART	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 125	Form	Form	_	NN	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
-126	derselben	dieselbe	_	PDAT	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
+126	derselben	dieselbe	_	PDS	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 127	,	,	_	$,	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 128	als	als	_	KOKOM	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 129	einer	eine	_	ART	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
@@ -1145,7 +1145,7 @@
 6	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 7	sophistisch-räsonnirenden	sophistisch-räsonnierend	_	ADJA	_	_	_	_	_	_	_	sophistisch-räsonnierenden	replace	*	_
 8	Bildung	Bildung	_	NN	_	_	_	_	_	_	_	_	_	_	_
-9	Anderer	Anderer	_	VVFIN	_	_	_	_	_	_	_	_	_	_	_
+9	Anderer	Anderer	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 10	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 11	wie	wie	_	PWAV	_	_	_	_	_	_	_	_	_	_	B-LK
 12	ihnen	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -1203,7 +1203,7 @@
 64	Euemerus	Euemerus	_	NE	_	_	_	_	_	_	_	_	_	_	_
 65	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 66	Subjecte	Subjekt	_	NN	_	_	_	_	_	_	_	Subjekte	replace	*	_
-67	derselben	dieselbe	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+67	derselben	dieselbe	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 68	aus	aus	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 69	Göttern	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
 70	zu	zu	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -1235,7 +1235,7 @@
 96	zu	zu	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 97	Wege	Weg	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 98	gebracht	bringen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
-99	haben	haben	_	VAINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
+99	haben	haben	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 100	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 101	wenn	wenn	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 102	man	man	_	PIS	_	_	_	_	_	_	_	_	_	_	_
@@ -1260,7 +1260,7 @@
 121	Volks	Volk	_	NN	_	_	_	_	_	_	_	_	_	_	_
 122	ersonnene	ersinnen	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 123	Fabel	Fabel	_	NN	_	_	_	_	_	_	_	_	_	_	_
-124	betrachtete	betrachtet	_	ADJA	_	_	_	_	_	_	_	_	_	_	B-RK
+124	betrachtete	betrachtet	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 125	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 21
@@ -1305,7 +1305,7 @@
 37	die	die	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 38	man	man	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 39	in	in	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-40	demselben	demselben	_	PDAT	_	_	_	_	_	_	I-RELC	_	_	_	_
+40	demselben	demselben	_	PDS	_	_	_	_	_	_	I-RELC	_	_	_	_
 41	fand	finden	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 42	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 43	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -1349,7 +1349,7 @@
 81	historischen	historisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 82	Inhalt	Inhalt	_	NN	_	_	_	_	_	_	_	_	_	_	_
 83	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-84	A.	A.	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
+84	A.	A.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 85	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 86	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 87	wurde	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -1358,13 +1358,13 @@
 90	Interpretationsmethode	Interpretationsmethode	_	NN	_	_	_	_	_	_	_	_	_	_	_
 91	erst	erst	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 92	an	an	_	APPR	_	_	_	_	_	B-Antec-3	_	_	_	_	_
-93	demjenigen	diejenige	_	PDS	_	_	_	_	_	I-Antec	_	_	_	_	_
+93	demjenigen	diejenige	_	PDAT	_	_	_	_	_	I-Antec	_	_	_	_	_
 94	Orte	Ort	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 95	ausgebildet	ausbilden	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 96	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 97	wo	wo	_	PWAV	_	_	_	_	_	_	B-RELC-extrap-3	_	_	_	B-LK
 98	am	am	_	APPRART	_	_	_	_	_	_	I-RELC	_	_	_	_
-99	entschiedensten	entschieden	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
+99	entschiedensten	entschieden	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 100	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 101	jüdische	jüdisch	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 102	Bildung	Bildung	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -1374,7 +1374,7 @@
 106	namentlich	namentlich	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 107	mit	mit	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 108	der	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-109	griechischen	griechisch	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+109	griechischen	griechisch	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 110	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 111	über	über	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 112	sich	sich	_	PRF	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -1416,7 +1416,7 @@
 25	welchen	welchen	_	PWAT	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	I-LK
 26	er	er	_	PPER	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 27	den	d	_	ART	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
-28	ersteren	erstere	_	ADJA	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
+28	ersteren	erstere	_	PIS	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 29	zwar	zwar	_	ADV	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 30	keineswegs	keineswegs	_	ADV	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 31	überhaupt	überhaupt	_	ADV	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
@@ -1496,8 +1496,8 @@
 105	dieser	diese	_	PDAT	_	_	_	_	_	B-Antec-4	_	_	_	_	_
 106	Erklärungsweise	Erklärungsweise	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 107	des	d	_	ART	_	_	_	_	_	I-Antec	_	_	_	_	_
-108	A.	A.	_	APPRART	_	_	_	_	_	I-Antec	_	_	_	_	_
-109	T.	T.	_	NN	_	_	_	_	_	I-Antec	_	_	_	_	_
+108	A.	A.	_	NE	_	_	_	_	_	I-Antec	_	_	_	_	_
+109	T.	T.	_	NE	_	_	_	_	_	I-Antec	_	_	_	_	_
 110	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 111	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-4	_	_	_	B-LK
 112	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -1522,9 +1522,9 @@
 131	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
 132	auch	auch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 133	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-134	entgegengesetzte	entgegengesetzt	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+134	entgegengesetzte	entgegengesetzt	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 135	(	(	_	$(	_	_	_	_	_	_	_	_	_	_	_
-136	euemeristische	Euemeristische	_	NE	_	_	_	_	_	_	_	_	_	_	_
+136	euemeristische	Euemeristische	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 137	)	)	_	$(	_	_	_	_	_	_	_	_	_	_	_
 138	ausbildete	ausbilden	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 139	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -1539,7 +1539,7 @@
 148	sie	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 149	zu	zu	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 150	einer	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
-151	gemein-menschlichen	gemein-menschlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+151	gemein-menschlichen	gemein-menschlich	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 152	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
 153	entgöttern	entgöttern	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
 154	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -1555,7 +1555,7 @@
 164	Juden	Jude	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 165	immer	immer	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 166	festgehalten	festhalten	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
-167	haben	haben	_	VAINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
+167	haben	haben	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 168	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 23
@@ -1578,8 +1578,8 @@
 15	vorwiegend	vorwiegend	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
 16	noch	noch	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 17	des	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-18	A.	A.	_	APPRART	_	_	_	_	_	_	I-RELC	_	_	_	_
-19	T.	T.	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+18	A.	A.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
+19	T.	T.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 20	als	als	_	KOKOM	_	_	_	_	_	_	I-RELC	_	_	_	_
 21	heiliger	heilig	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 22	Urkunde	Urkunde	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -1605,8 +1605,8 @@
 42	Juden	Jude	_	NN	_	_	_	_	_	_	_	_	_	_	_
 43	über	über	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 44	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-45	A.	A.	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
-46	T.	T.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+45	A.	A.	_	NE	_	_	_	_	_	_	_	_	_	_	_
+46	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 47	lichen	Lichen	_	NN	_	_	_	_	_	_	_	Lichen	replace	*	_
 48	Standpunkt	Standpunkt	_	NN	_	_	_	_	_	_	_	_	_	_	_
 49	hinausgeschritten	hinausschreiten	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -1732,17 +1732,17 @@
 84	geschichtlichen	geschichtlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 85	Inhalt	Inhalt	_	NN	_	_	_	_	_	_	_	_	_	_	_
 86	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-87	A.	A.	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
-88	T.	T.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+87	A.	A.	_	NE	_	_	_	_	_	_	_	_	_	_	_
+88	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 89	glaubt	glauben	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 90	Origenes	Origenes	_	NE	_	_	_	_	_	_	_	_	_	_	_
 91	mit	mit	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 92	Philo	Philo	_	NE	_	_	_	_	_	_	_	_	_	_	_
 93	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-94	manche	manche	_	PIS	_	_	_	_	_	_	_	_	_	_	_
+94	manche	manche	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 95	σκάνδαλα	σκάνδαλα	_	FM	_	_	_	_	_	_	_	_	_	_	_
 96	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-97	προσκόμματα	Προσκόμματα	_	NE	_	_	_	_	_	_	_	_	_	_	_
+97	προσκόμματα	Προσκόμματα	_	FM	_	_	_	_	_	_	_	_	_	_	_
 98	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
 99	stoſsen	stoßen	_	VVINF	_	_	_	_	_	_	_	stoßen	replace	*	I-RK
 100	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -1778,7 +1778,7 @@
 130	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 131	daſs	dass	_	KOUS	_	_	_	_	_	_	_	dass	replace	*	B-LK
 132	durch	durch	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-133	dieselben	dieselbe	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+133	dieselben	dieselbe	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 134	uns	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 135	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
 136	alte	alt	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
@@ -1886,7 +1886,7 @@
 12	denjenigen	diejenige	_	PDS	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 13	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 14	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
-15	Gott	Gott	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+15	Gott	Gott	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 16	zu	zu	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 17	sehr	sehr	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 18	zu	zu	_	PTKZU	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -1895,7 +1895,7 @@
 21	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 22	namentlich	namentlich	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 23	auch	auch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-24	solche	solch	_	PIAT	_	_	_	_	_	B-Antec-2	_	_	_	_	_
+24	solche	solch	_	PIS	_	_	_	_	_	B-Antec-2	_	_	_	_	_
 25	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 26	in	in	_	APPR	_	_	_	_	_	_	B-RELC-ambig-2	_	_	_	B-LK
 27	welchen	welchen	_	PWAT	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
@@ -1909,7 +1909,7 @@
 35	genaues	genau	_	ADJA	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 36	Verhältniſs	Verhältnis	_	NN	_	_	_	_	_	_	I-RELC|I-RELC	Verhältnis	replace	*	_
 37	zu	zu	_	APPR	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
-38	Gott	Gott	_	NN	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
+38	Gott	Gott	_	NE	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 39	gesezt	setzen	_	VVPP	_	_	_	_	_	_	I-RELC|I-RELC	gesetzt	replace	*	B-RK
 40	waren	sein	_	VAFIN	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	I-RK
 41	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -1929,7 +1929,7 @@
 5	er	er	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 6	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 7	das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-8	N.	N.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+8	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 9	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 10	Werk	Werk	_	NN	_	_	_	_	_	_	_	_	_	_	_
 11	desselben	desselben	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
@@ -1937,7 +1937,7 @@
 13	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 14	wie	wie	_	PWAV	_	_	_	_	_	_	_	_	_	_	_
 15	das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-16	alte	alt	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+16	alte	alt	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 17	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 18	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 19	dieser	diese	_	PDS	_	_	_	_	_	_	_	_	_	_	_
@@ -1946,14 +1946,14 @@
 22	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 23	Einrichtung	Einrichtung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 24	von	von	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-25	jenem	jen	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+25	jenem	jen	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 26	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
 27	anders	anders	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 28	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
 29	bei	bei	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-30	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
+30	der	d	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 31	von	von	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-32	diesem	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+32	diesem	diese	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 33	verfahren	verfahren	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 34	sein	sein	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
 35	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -1970,7 +1970,7 @@
 46	Sinn	Sinn	_	NN	_	_	_	_	_	_	_	_	_	_	_
 47	hinzuweisen	hinweisen	_	VVIZU	_	_	_	_	_	_	_	_	_	_	B-RK
 48	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
-49	Ja	Ja	_	NN	_	_	_	_	_	_	_	_	_	_	_
+49	Ja	Ja	_	PTKANT	_	_	_	_	_	_	_	_	_	_	_
 50	selbst	selbst	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 51	mit	mit	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 52	theilweise	teilweise	_	ADV	_	_	_	_	_	_	_	teilweise	replace	*	_
@@ -1999,7 +1999,7 @@
 75	Celsum	Celsum	_	NE	_	_	_	_	_	I-Antec	I-PP	_	_	_	_
 76	1	1	_	CARD	_	_	_	_	_	I-Antec	I-PP	_	_	_	_
 77	,	,	_	$,	_	_	_	_	_	I-Antec	I-PP	_	_	_	_
-78	42.	42.	_	ADJA	_	_	_	_	_	I-Antec	I-PP	_	_	_	_
+78	42.	42.	_	CARD	_	_	_	_	_	I-Antec	I-PP	_	_	_	_
 79	,	,	_	$,	_	_	_	_	_	_	I-PP	_	_	_	_
 80	wo	wo	_	PWAV	_	_	_	_	_	_	I-PP|B-RELC-ambig-1	_	_	_	B-LK
 81	er	er	_	PPER	_	_	_	_	_	_	I-PP|I-RELC	_	_	_	_
@@ -2034,7 +2034,7 @@
 110	sie	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 111	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
 112	wirklich	wirklich	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
-113	geschehen	geschehen	_	VVINF	_	_	_	_	_	_	_	_	_	_	_
+113	geschehen	geschehen	_	VVPP	_	_	_	_	_	_	_	_	_	_	_
 114	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
 115	erweisen	erweisen	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
 116	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -2074,8 +2074,8 @@
 30	von	von	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 31	einer	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 32	Meergöttin	Meergottin	_	NN	_	_	_	_	_	_	_	_	_	_	_
-33	u.	u.	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-34	dgl.	Dgl.	_	NE	_	_	_	_	_	_	_	_	_	_	_
+33	u.	u.	_	KON	_	_	_	_	_	_	_	_	_	_	_
+34	dgl.	Dgl.	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 35	—	--	_	$(	_	_	_	_	_	_	_	--	replace	*	_
 36	wie	wie	_	PWAV	_	_	_	_	_	_	_	_	_	_	_
 37	wollten	wollen	_	VMFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -2094,8 +2094,8 @@
 50	wären	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 51	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 52	durch	durch	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-53	die	die	_	PRELS	_	_	_	_	_	B-Antec-1	_	_	_	_	_
-54	offenbaren	offenbaren	_	VVFIN	_	_	_	_	_	I-Antec	_	_	_	_	_
+53	die	die	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
+54	offenbaren	offenbaren	_	ADJA	_	_	_	_	_	I-Antec	_	_	_	_	_
 55	Erdichtungen	Erdichtung	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 56	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 57	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-ambig-1	_	_	_	B-LK
@@ -2116,7 +2116,7 @@
 72	und	und	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
 73	Trojern	Trojern	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 74	verwoben	verweben	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
-75	haben	haben	_	VAINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
+75	haben	haben	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 76	?	?	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 29
@@ -2192,7 +2192,7 @@
 68	welcher	welcher	_	PWAT	_	_	_	_	_	_	_	_	_	_	I-LK
 69	Absicht	Absicht	_	NN	_	_	_	_	_	_	_	_	_	_	_
 70	ein	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
-71	Jedes	jede	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
+71	Jedes	jede	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 72	von	von	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 73	ihnen	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 74	geschrieben	schreiben	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -2216,10 +2216,10 @@
 92	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 93	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 94	neueren	neu	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
-95	mythischen	mythisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+95	mythischen	mythisch	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 96	übergegangen	übergehen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 97	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
-98	That	Tat	_	NN	_	_	_	_	_	_	_	Tat	replace	*	B-LK
+98	That	Tat	_	VVFIN	_	_	_	_	_	_	_	Tat	replace	*	B-LK
 99	nun	nun	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 100	aber	aber	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 101	schon	schon	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -2227,7 +2227,7 @@
 103	Bezug	Bezug	_	NN	_	_	_	_	_	_	_	_	_	_	_
 104	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 105	das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-106	A.	A.	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
+106	A.	A.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 107	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 108	Origenes	Origenes	_	NE	_	_	_	_	_	_	_	_	_	_	_
 109	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -2242,7 +2242,7 @@
 118	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 119	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
 120	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-121	offenbare	offenbaren	_	VVFIN	_	_	_	_	_	_	_	_	_	_	_
+121	offenbare	offenbaren	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 122	Gewalt	Gewalt	_	NN	_	_	_	_	_	_	_	_	_	_	_
 123	an	an	_	PTKVZ	_	_	_	_	_	_	_	_	_	_	B-RK
 124	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -2276,7 +2276,7 @@
 152	buchstäbliche	buchstäblich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 153	Deutung	Deutung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 154	eine	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
-155	geistige	geistig	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+155	geistige	geistig	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 156	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
 157	stellen	stellen	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
 158	:	:	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -2299,7 +2299,7 @@
 13	lasse	lassen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 14	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
 15	unter	unter	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-16	Andrem	Andere	_	NN	_	_	_	_	_	_	_	Anderem	replace	*	_
+16	Andrem	Andere	_	PIS	_	_	_	_	_	_	_	Anderem	replace	*	_
 17	das	die	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 18	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
 19	verstehen	verstehen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -2313,7 +2313,7 @@
 27	einem	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 28	Berge	Berg	_	NN	_	_	_	_	_	_	_	_	_	_	_
 29	alle	alle	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
-30	Reiche	Reiche	_	NE	_	_	_	_	_	_	_	_	_	_	_
+30	Reiche	Reiche	_	NN	_	_	_	_	_	_	_	_	_	_	_
 31	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 32	Welt	Welt	_	NN	_	_	_	_	_	_	_	_	_	_	_
 33	gezeigt	zeigen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -2379,7 +2379,7 @@
 13	Sinn	Sinn	_	NN	_	_	_	_	_	_	_	_	_	_	_
 14	gegen	gegen	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 15	einen	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
-16	geistigen	geistig	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+16	geistigen	geistig	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 17	aufzuopfern	aufopfern	_	VVIZU	_	_	_	_	_	_	_	_	_	_	B-RK
 18	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 19	wie	wie	_	PWAV	_	_	_	_	_	_	_	_	_	_	_
@@ -2437,7 +2437,7 @@
 71	geschichtlicher	geschichtlich	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 72	Auffassung	Auffaßung	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 73	Origenes	Origenes	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
-74	verzweifelte	verzweifelt	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+74	verzweifelte	verzweifelt	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 75	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 76	verräth	verraten	_	VVFIN	_	_	_	_	_	_	_	verrät	replace	*	B-LK
 77	er	er	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -2522,8 +2522,8 @@
 156	Tempel	Tempel	_	NN	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 157	gebaut	bauen	_	VVPP	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	B-RK
 158	habe	haben	_	VAFIN	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	I-RK
-159	u.	u.	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-160	dgl.	Dgl.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
+159	u.	u.	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
+160	dgl.	Dgl.	_	PDS	_	_	_	_	_	_	I-RELC	_	_	_	_
 161	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 162	Gewiſs	gewiß	_	ADJD	_	_	_	_	_	_	_	Gewiss	replace	*	_
 163	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -2624,7 +2624,7 @@
 40	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 41	um	um	_	KOUI	_	_	_	_	_	_	_	_	_	_	_
 42	im	im	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
-43	N.	N.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+43	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 44	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 45	allenthalben	allenthalben	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 46	göttlichen	göttlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
@@ -2686,7 +2686,7 @@
 102	haben	haben	_	VAFIN	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	B-RK
 103	vorgebildet	vorbilden	_	VVPP	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	I-RK
 104	werden	werden	_	VAINF	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	I-RK
-105	sollen	sollen	_	VMFIN	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	I-RK
+105	sollen	sollen	_	VMINF	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	I-RK
 106	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 33
@@ -2699,7 +2699,7 @@
 5	beschriebenen	beschreiben	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 6	Weise	Weise	_	NN	_	_	_	_	_	_	_	_	_	_	_
 7	die	d	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
-8	Eine	eine	_	ART	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
+8	Eine	eine	_	PIS	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 9	der	d	_	ART	_	_	_	_	_	I-Antec	_	_	_	_	_
 10	Auslegungsarten	Auslegungsart	_	NN	_	_	_	_	_	I-Antec	_	_	_	_	_
 11	entwickelt	entwickeln	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -2717,7 +2717,7 @@
 23	so	so	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 24	auch	auch	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 25	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-26	christlichen	christlich	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+26	christlichen	christlich	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 27	in	in	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 28	Bezug	Bezug	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 29	auf	auf	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -2821,7 +2821,7 @@
 127	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 128	Jesus	Jesus	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 129	u.	u.	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
-130	A.	A.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
+130	A.	A.	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 131	erzählt	erzählen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 132	ist	sein	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 133	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -2841,7 +2841,7 @@
 147	gemeinen	gemein	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 148	Beweggründen	Beweggrund	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 149	und	und	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
-150	bewerkstelligt	bewerkstelligen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	_
+150	bewerkstelligt	bewerkstelligen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	_
 151	durch	durch	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 152	groben	grob	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 153	Betrug	Betrug	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -2859,12 +2859,12 @@
 3	Religion	Religion	_	NN	_	_	_	_	_	_	_	_	_	_	_
 4	kann	können	_	VMFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 5	nach	nach	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-6	Chubb	Cup	_	NN	_	_	_	_	_	_	_	Cup	replace	*	_
+6	Chubb	Cup	_	NE	_	_	_	_	_	_	_	Cup	replace	*	_
 7	unmöglich	unmöglich	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 8	eine	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 9	von	von	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 10	Gott	Gott	_	NN	_	_	_	_	_	B-Antec-1	_	_	_	_	_
-11	geoffenbarte	offenbaren	_	VVFIN	_	_	_	_	_	_	_	offenbarte	replace	*	_
+11	geoffenbarte	offenbaren	_	PIS	_	_	_	_	_	_	_	offenbarte	replace	*	_
 12	sein	sein	_	VAINF	_	_	_	_	_	_	_	_	_	_	B-RK
 13	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 14	dessen	die	_	PRELAT	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
@@ -2919,7 +2919,7 @@
 5	Göttlichen	Göttliche	_	NN	_	_	_	_	_	_	_	_	_	_	_
 6	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 7	das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-8	Menschliche	menschlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+8	Menschliche	menschlich	_	NN	_	_	_	_	_	_	_	_	_	_	_
 9	im	im	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 10	Leben	Leben	_	NN	_	_	_	_	_	_	_	_	_	_	_
 11	Jesu	Jesu	_	NE	_	_	_	_	_	_	_	_	_	_	_
@@ -2995,7 +2995,7 @@
 25	Gehalt	Gehalt	_	NN	_	_	_	_	_	_	_	_	_	_	_
 26	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 27	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-28	sinken	sinken	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-LK
+28	sinken	sinken	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 29	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	_
 30	ungereimten	ungereimt	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 31	Streichen	Streiche	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -3049,13 +3049,13 @@
 79	Kirchenvätern	Kirchenvater	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 80	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 81	eines	eine	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-82	Origenes	Origenes	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+82	Origenes	Origenes	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 83	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
-84	Augustinus	Augustinus	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-85	u.	u.	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-86	A.	A.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
+84	Augustinus	Augustinus	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
+85	u.	u.	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
+86	A.	A.	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 87	angeführt	anführen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
-88	werden	werden	_	VAINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
+88	werden	werden	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 89	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 90	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 91	jedoch	jedoch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -3065,7 +3065,7 @@
 95	Woolston	Woolston	_	NE	_	_	_	_	_	_	_	_	_	_	_
 96	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 97	Meinung	Meinung	_	NN	_	_	_	_	_	_	_	_	_	_	_
-98	unterstellt	unterstellen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
+98	unterstellt	unterstellen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 99	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 100	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
 101	wollten	wollen	_	VMFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -3079,7 +3079,7 @@
 109	allegorische	allegorisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 110	Erklärung	Erklärung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 111	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-112	buchstäbliche	buchstäblich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+112	buchstäbliche	buchstäblich	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 113	verdrängen	verdrängen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 114	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 115	während	während	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -3129,7 +3129,7 @@
 22	dessen	die	_	PRELAT	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 23	in	in	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 24	der	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-25	Wolfenbüttelschen	Wolfenbüttelschen	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+25	Wolfenbüttelschen	Wolfenbüttelschen	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 26	Bibliothek	Bibliothek	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 27	aufgefundene	aufgefinden	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 28	Fragmente	Fragment	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -3154,7 +3154,7 @@
 7	was	was	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 8	gegen	gegen	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 9	eine	eine	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-10	geoffenbarte	offenbaren	_	VVFIN	_	_	_	_	_	_	I-RELC	offenbarte	replace	*	_
+10	geoffenbarte	offenbaren	_	ADJA	_	_	_	_	_	_	I-RELC	offenbarte	replace	*	_
 11	Religion	Religion	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 12	überhaupt	überhaupt	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 13	gesagt	sagen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
@@ -3184,19 +3184,19 @@
 9	Männer	Mann	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 10	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 11	welchen	welchen	_	PWAT	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
-12	dasselbe	dasselbe	_	PDAT	_	_	_	_	_	_	I-RELC	_	_	_	_
+12	dasselbe	dasselbe	_	PDS	_	_	_	_	_	_	I-RELC	_	_	_	_
 13	einen	eine	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 14	unmittelbaren	unmittelbar	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 15	Umgang	Umgang	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 16	mit	mit	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-17	Gott	Gott	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+17	Gott	Gott	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 18	zuschreibt	zuschreiben	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 19	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 20	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 21	schlecht	schlecht	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 22	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 23	daſs	dass	_	KOUS	_	_	_	_	_	_	_	dass	replace	*	B-LK
-24	Gott	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+24	Gott	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 25	durch	durch	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 26	ein	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 27	solches	solch	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
@@ -3234,7 +3234,7 @@
 59	daſs	dass	_	KOUS	_	_	_	_	_	_	_	dass	replace	*	B-LK
 60	sie	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 61	unmöglich	unmöglich	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
-62	Gott	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+62	Gott	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 63	zugeschrieben	zuschreiben	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 64	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
 65	können	können	_	VMFIN	_	_	_	_	_	_	_	_	_	_	I-RK
@@ -3257,7 +3257,7 @@
 82	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 83	Umgang	Umgang	_	NN	_	_	_	_	_	_	_	_	_	_	_
 84	mit	mit	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-85	Gott	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+85	Gott	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 86	sei	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 87	nur	nur	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 88	vorgegeben	vorgeben	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -3407,8 +3407,8 @@
 45	nun	nun	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 46	aber	aber	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 47	durch	durch	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-48	das	die	_	PDS	_	_	_	_	_	_	_	_	_	_	_
-49	Hinzukommen	hinkommen	_	VVIZU	_	_	_	_	_	_	_	_	_	_	_
+48	das	die	_	ART	_	_	_	_	_	_	_	_	_	_	_
+49	Hinzukommen	hinkommen	_	NN	_	_	_	_	_	_	_	_	_	_	_
 50	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 51	paar	paar	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 52	Worte	Wort	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -3423,7 +3423,7 @@
 4	ist	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 5	ihm	er	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 6	ein	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
-7	politischer	politisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+7	politischer	politisch	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 8	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 9	sein	sein	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 10	Verhältniſs	Verhältnis	_	NN	_	_	_	_	_	_	_	Verhältnis	replace	*	_
@@ -3435,9 +3435,9 @@
 16	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 17	daſs	dass	_	KOUS	_	_	_	_	_	_	_	dass	replace	*	B-LK
 18	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-19	Eine	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
+19	Eine	eine	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 20	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-21	Andern	ander	_	ADJA	_	_	_	_	_	_	_	Anderen	replace	*	_
+21	Andern	ander	_	PIS	_	_	_	_	_	_	_	Anderen	replace	*	_
 22	dem	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 23	Volk	Volk	_	NN	_	_	_	_	_	_	_	_	_	_	_
 24	empfehlen	empfehlen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -3569,7 +3569,7 @@
 83	der	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 84	Göttlichkeit	Göttlichkeit	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 85	gehüllt	hüllen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
-86	haben	haben	_	VAINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
+86	haben	haben	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 87	:	:	_	$.	_	_	_	_	_	_	_	_	_	_	_
 88	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 89	war	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -3592,7 +3592,7 @@
 106	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 107	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 108	Subjekte	Subjekt	_	NN	_	_	_	_	_	_	_	_	_	_	_
-109	derselben	dieselbe	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+109	derselben	dieselbe	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 110	für	für	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 111	schlechte	schlecht	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 112	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
@@ -3603,7 +3603,7 @@
 117	immer	immer	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 118	noch	noch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 119	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-120	andre	ander	_	ADJA	_	_	_	_	_	_	_	andere	replace	*	_
+120	andre	ander	_	PIS	_	_	_	_	_	_	_	andere	replace	*	_
 121	übrig	übrig	_	PTKVZ	_	_	_	_	_	_	_	_	_	_	_
 122	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 123	jene	jen	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
@@ -3677,7 +3677,7 @@
 18	war	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 19	auf	auf	_	APPR	_	_	_	_	_	_	B-PP-insitu	_	_	_	_
 20	die	d	_	ART	_	_	_	_	_	_	I-PP	_	_	_	_
-21	zweite	zweit	_	ADJA	_	_	_	_	_	_	I-PP	_	_	_	_
+21	zweite	zweit	_	PIS	_	_	_	_	_	_	I-PP	_	_	_	_
 22	der	d	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 23	Rationalismus	Rationalismus	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 24	angewiesen	anweisen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -3719,7 +3719,7 @@
 2	mythologischen	mythologisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 3	Forschungen	Forschung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 4	eines	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
-5	Heyne	Hein	_	NN	_	_	_	_	_	_	_	Heine	replace	*	_
+5	Heyne	Hein	_	NE	_	_	_	_	_	_	_	Heine	replace	*	_
 6	hatten	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 7	seinen	seine	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 8	Gesichtskreis	Gesichtskreis	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -3829,8 +3829,8 @@
 74	Fragmentist	Fragmentist	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 75	gegen	gegen	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 76	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-77	A.	A.	_	APPRART	_	_	_	_	_	_	I-RELC	_	_	_	_
-78	T.	T.	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+77	A.	A.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
+78	T.	T.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 79	liche	liche	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 80	Geschichte	Geschichte	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 81	gewendet	wenden	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
@@ -4046,7 +4046,7 @@
 22	Schein	Schein	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 23	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 24	welcher	welcher	_	PWAT	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
-25	dieselbe	dieselbe	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+25	dieselbe	dieselbe	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 26	umkleidet	umkleiden	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 27	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 28	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
@@ -4076,13 +4076,13 @@
 2	Lichte	Lichte	_	NN	_	_	_	_	_	_	_	_	_	_	_
 3	ihrer	ihr	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 4	Zeit	Zeit	_	NN	_	_	_	_	_	_	_	_	_	_	_
-5	betrachtet	betrachten	_	VVFIN	_	_	_	_	_	_	_	_	_	_	_
+5	betrachtet	betrachten	_	VVPP	_	_	_	_	_	_	_	_	_	_	_
 6	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 7	sei	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 8	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 9	Berufung	Berufung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 10	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-11	Lezteren	Letzteren	_	NN	_	_	_	_	_	_	_	Letzteren	replace	*	_
+11	Lezteren	Letzteren	_	PIS	_	_	_	_	_	_	_	Letzteren	replace	*	_
 12	nichts	nichts	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 13	Andres	andere	_	PIS	_	_	_	_	_	_	_	Anderes	replace	*	_
 14	gewesen	sein	_	VAPP	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -4162,7 +4162,7 @@
 88	das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 89	Leuchten	Leuchte	_	NN	_	_	_	_	_	_	_	_	_	_	_
 90	seines	seine	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
-91	Angesichts	angesichts	_	APPR	_	_	_	_	_	_	_	_	_	_	_
+91	Angesichts	angesichts	_	NN	_	_	_	_	_	_	_	_	_	_	_
 92	endlich	endlich	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 93	war	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 94	eine	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -4181,7 +4181,7 @@
 107	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 108	weil	weil	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 109	er	er	_	PPER	_	_	_	_	_	_	_	_	_	_	_
-110	dessen	die	_	PDS	_	_	_	_	_	_	_	_	_	_	_
+110	dessen	die	_	PRELAT	_	_	_	_	_	_	_	_	_	_	_
 111	wahre	wahr	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 112	Ursache	Ursache	_	NN	_	_	_	_	_	_	_	_	_	_	_
 113	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
@@ -4189,7 +4189,7 @@
 115	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 116	für	für	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 117	etwas	etwas	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
-118	Göttliches	göttlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+118	Göttliches	göttlich	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 119	hielt	halten	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 120	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
@@ -4197,16 +4197,16 @@
 # sent_id(TSV) = 53
 # text = — Sparsamer war Eichhorn in Anwendung dieser Erklärungsweise auf des N. T. , und es waren hauptsächlich nur einige Fakta aus der Apostelgeschichte , welche er derselben zu unterwerfen sich erlaubte , wie das Pfingstwunder , die Bekehrung des Apostels Paulus und die zahlreichen Engelerscheinungen . Auch hier führt er Alles auf die bildliche Sprache der Bibel zurück , in welcher , was z. B. den lezten Punkt betrifft , bald ein glückliches Ungefähr ein rettender , bald eine geistige Freudigkeit ein grüſsender , bald eine innere Beruhigung ein tröstender Engel genannt worden sei .
 1	—	--	_	$(	_	_	_	_	_	_	_	--	replace	*	_
-2	Sparsamer	Sparsame	_	NN	_	_	_	_	_	_	_	_	_	_	_
+2	Sparsamer	Sparsame	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 3	war	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
-4	Eichhorn	Eichhorn	_	NN	_	_	_	_	_	_	_	_	_	_	_
+4	Eichhorn	Eichhorn	_	NE	_	_	_	_	_	_	_	_	_	_	_
 5	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 6	Anwendung	Anwendung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 7	dieser	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
 8	Erklärungsweise	Erklärungsweise	_	NN	_	_	_	_	_	_	_	_	_	_	_
 9	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 10	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-11	N.	N.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+11	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 12	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 13	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 14	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
@@ -4214,8 +4214,8 @@
 16	waren	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 17	hauptsächlich	hauptsächlich	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 18	nur	nur	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-19	einige	einige	_	PIS	_	_	_	_	_	B-Antec-1	_	_	_	_	_
-20	Fakta	faken	_	VVFIN	_	_	_	_	_	I-Antec-Head	_	Fakte	replace	*	_
+19	einige	einige	_	PIAT	_	_	_	_	_	B-Antec-1	_	_	_	_	_
+20	Fakta	faken	_	NN	_	_	_	_	_	I-Antec-Head	_	Fakte	replace	*	_
 21	aus	aus	_	APPR	_	_	_	_	_	I-Antec	_	_	_	_	_
 22	der	d	_	ART	_	_	_	_	_	I-Antec	_	_	_	_	_
 23	Apostelgeschichte	Apostelgeschichte	_	NN	_	_	_	_	_	I-Antec	_	_	_	_	_
@@ -4230,7 +4230,7 @@
 32	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 33	wie	wie	_	PWAV	_	_	_	_	_	_	_	_	_	_	_
 34	das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-35	Pfingstwunder	Pfingstwunder	_	NE	_	_	_	_	_	_	_	_	_	_	_
+35	Pfingstwunder	Pfingstwunder	_	NN	_	_	_	_	_	_	_	_	_	_	_
 36	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 37	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 38	Bekehrung	Bekehrung	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -4341,7 +4341,7 @@
 8	erschienenen	erscheinen	_	ADJA	_	_	_	_	_	_	I-PP	_	_	_	_
 9	Commentar	Kommentar	_	NN	_	_	_	_	_	_	I-PP	Kommentar	replace	*	_
 10	zum	zum	_	APPRART	_	_	_	_	_	_	I-PP	_	_	_	_
-11	N.	N.	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
+11	N.	N.	_	NE	_	_	_	_	_	_	I-PP	_	_	_	_
 12	T.	T.	_	NE	_	_	_	_	_	_	I-PP	_	_	_	_
 13	Gleich	gleich	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 14	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -4464,7 +4464,7 @@
 39	historischen	historisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 40	Sicherheit	Sicherheit	_	NN	_	_	_	_	_	_	_	_	_	_	_
 41	wie	wie	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
-42	dieses	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+42	dieses	diese	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 43	geglaubt	glauben	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 44	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 45	weiter	weiter	_	ADV	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -4483,7 +4483,7 @@
 58	geschichtlichen	geschichtlich	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 59	Büchern	Buch	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 60	des	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-61	N.	N.	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+61	N.	N.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 62	T.	T.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 63	s	s	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 64	zeigt	zeigen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
@@ -4564,8 +4564,8 @@
 47	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 48	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 49	von	von	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-50	diesem	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
-51	aus	aus	_	APPR	_	_	_	_	_	_	_	_	_	_	_
+50	diesem	diese	_	PDS	_	_	_	_	_	_	_	_	_	_	_
+51	aus	aus	_	APPO	_	_	_	_	_	_	_	_	_	_	_
 52	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 53	Erzählung	Erzählung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 54	durch	durch	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -4599,7 +4599,7 @@
 1	Nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
 2	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 3	Sohn	Sohn	_	NN	_	_	_	_	_	_	_	_	_	_	_
-4	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+4	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 5	im	im	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 6	Sinne	Sinn	_	NN	_	_	_	_	_	_	_	_	_	_	_
 7	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -4659,7 +4659,7 @@
 6	von	von	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 7	Paulus	Paulus	_	NE	_	_	_	_	_	_	_	_	_	_	_
 8	besonders	besonders	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-9	Bahrdt	Bart	_	NN	_	_	_	_	_	_	_	Bart	replace	*	_
+9	Bahrdt	Bart	_	NE	_	_	_	_	_	_	_	Bart	replace	*	_
 10	bemerklich	bemerkbar	_	ADJD	_	_	_	_	_	_	_	bemerkbar	replace	*	_
 11	machte	machen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 12	(	(	_	$(	_	_	_	_	_	_	_	_	_	_	_
@@ -4780,8 +4780,8 @@
 9	einigen	einige	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 10	Theilen	Teil	_	NN	_	_	_	_	_	_	_	Teilen	replace	*	_
 11	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-12	A.	A.	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
-13	T.	T.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+12	A.	A.	_	NE	_	_	_	_	_	_	_	_	_	_	_
+13	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 14	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 15	wie	wie	_	PWAV	_	_	_	_	_	_	_	_	_	_	_
 16	z.	z.	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
@@ -4850,7 +4850,7 @@
 13	freilich	freilich	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 14	würde	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 15	nur	nur	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-16	derjenige	diejenige	_	PDS	_	_	_	_	_	B-Antec-1	_	_	_	_	_
+16	derjenige	diejenige	_	PDAT	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 17	Geschichtschreiber	Geschichtesschreiber	_	NN	_	_	_	_	_	I-Antec	_	Geschichtsschreiber	replace	*	_
 18	einen	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 19	glänzenden	glänzend	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
@@ -4881,7 +4881,7 @@
 9	wenn	wenn	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 10	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 11	spätere	spät	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
-12	Concipient	Concipient	_	NE	_	_	_	_	_	_	_	_	_	_	_
+12	Concipient	Concipient	_	NN	_	_	_	_	_	_	_	_	_	_	_
 13	seine	seine	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 14	Erzählung	Erzählung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 15	aus	aus	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -4906,7 +4906,7 @@
 34	dem	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 35	Sohne	Sohn	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 36	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
-37	dieser	diese	_	PDAT	_	_	_	_	_	_	I-RELC	_	_	_	_
+37	dieser	diese	_	PDS	_	_	_	_	_	_	I-RELC	_	_	_	_
 38	dem	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 39	Enkel	Enkel	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 40	in	in	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -4938,11 +4938,11 @@
 66	einem	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 67	Theile	Teil	_	NN	_	_	_	_	_	_	_	Teile	replace	*	_
 68	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-69	A.	A.	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
+69	A.	A.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 70	T.lichen	t.lichen	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 71	Bücher	Buch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 72	glaubte	glauben	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
-73	Eichhorn	Eichhorn	_	NN	_	_	_	_	_	_	_	_	_	_	_
+73	Eichhorn	Eichhorn	_	NE	_	_	_	_	_	_	_	_	_	_	_
 74	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 75	historischen	historisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 76	Boden	Boden	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -4969,7 +4969,7 @@
 97	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 98	natürlichen	natürlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 99	Geschichtsverlauf	Geschichtesverlauf	_	NN	_	_	_	_	_	_	_	_	_	_	_
-100	herausbekommen	herausbekommen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+100	herausbekommen	herausbekommen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 101	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	I-RK
 102	können	können	_	VMINF	_	_	_	_	_	_	_	_	_	_	I-RK
 103	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -4979,8 +4979,8 @@
 # text = Doch bei Einer A. T.lichen Erzählung wenigstens ist der Meister der natürlichen Erklärungsweise für das A. T. über diese zu einer höhern hinausgeschritten , nämlich bei der Geschichte der Schöpfung und des Sündenfalls .
 1	Doch	doch	_	KON	_	_	_	_	_	_	_	_	_	_	_
 2	bei	bei	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-3	Einer	eine	_	PIS	_	_	_	_	_	_	_	_	_	_	_
-4	A.	A.	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
+3	Einer	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
+4	A.	A.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 5	T.lichen	t.lichen	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 6	Erzählung	Erzählung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 7	wenigstens	wenigstens	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -4992,7 +4992,7 @@
 13	Erklärungsweise	Erklärungsweise	_	NN	_	_	_	_	_	_	_	_	_	_	_
 14	für	für	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 15	das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-16	A.	A.	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
+16	A.	A.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 17	T.	T.	_	NN	_	_	_	_	_	_	_	_	_	_	_
 18	über	über	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 19	diese	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
@@ -5095,7 +5095,7 @@
 78	historischer	historisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 79	Erzählungen	Erzählung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 80	eine	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
-81	mythische	mythisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+81	mythische	mythisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 82	stehen	stehen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 83	könnte	können	_	VMFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 84	:	:	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -5166,7 +5166,7 @@
 11	Genes.	Genes.	_	NN	_	_	_	_	_	_	_	_	_	_	_
 12	2	2	_	CARD	_	_	_	_	_	_	_	_	_	_	_
 13	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-14	3.	3.	_	ADV	_	_	_	_	_	_	_	_	_	_	_
+14	3.	3.	_	CARD	_	_	_	_	_	_	_	_	_	_	_
 15	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 16	vielen	viel	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 17	Stücken	Stück	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -5189,7 +5189,7 @@
 34	das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 35	mythisch	mythisch	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 36	eingekleidete	eingekleidet	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
-37	Philosophem	Philosophem	_	NE	_	_	_	_	_	_	_	_	_	_	_
+37	Philosophem	Philosophem	_	NN	_	_	_	_	_	_	_	_	_	_	_
 38	finde	finden	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 39	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 40	wie	wie	_	PWAV	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -5201,7 +5201,7 @@
 46	Zustande	Zustand	_	NN	_	_	_	_	_	_	_	_	_	_	_
 47	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 48	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
-49	der	d	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
+49	der	d	_	PDS	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 50	in	in	_	APPR	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 51	welchem	welche	_	PRELS	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
 52	man	man	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -5275,7 +5275,7 @@
 10	18ten	18ten	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 11	Jahrhunderts	Jahrhundert	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 12	in	in	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-13	reicher	reich	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
+13	reicher	reich	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 14	Fülle	Fülle	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 15	hervorbrachte	hervorbringen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 16	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -5391,10 +5391,10 @@
 7	christlichen	christlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 8	Religionsurkunden	Religionsurkunde	_	NN	_	_	_	_	_	_	_	_	_	_	_
 9	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-10	A.	A.	_	NE	_	_	_	_	_	_	_	_	_	_	_
-11	u.	u.	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-12	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
-13	T.s	T.s	_	NE	_	_	_	_	_	_	_	_	_	_	_
+10	A.	A.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+11	u.	u.	_	KON	_	_	_	_	_	_	_	_	_	_	_
+12	N.	N.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+13	T.s	T.s	_	NN	_	_	_	_	_	_	_	_	_	_	_
 14	durchgängig	durchgängig	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 15	zu	zu	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 16	einem	eine	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
@@ -5435,9 +5435,9 @@
 51	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 52	einer	eine	_	ART	_	_	_	_	_	B-Antec-2	_	_	_	_	_
 53	solchen	solch	_	PIAT	_	_	_	_	_	I-Antec	_	_	_	_	_
-54	buchstäblichen	buchstäblich	_	ADJA	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
+54	buchstäblichen	buchstäblich	_	PIS	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 55	vorgezogen	vorziehen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
-56	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
+56	werden	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 57	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 58	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-2	_	_	_	B-LK
 59	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -5496,7 +5496,7 @@
 20	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 21	wir	wir	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 22	allerdings	allerdings	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
-23	streben	streben	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+23	streben	streben	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 24	müssen	müssen	_	VMFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 25	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 26	nachgerade	nachgerade	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -5513,7 +5513,7 @@
 37	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 38	was	was	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-2	_	_	_	B-LK
 39	im	im	_	APPRART	_	_	_	_	_	_	I-RELC	_	_	_	_
-40	N.	N.	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+40	N.	N.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 41	T.	T.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 42	von	von	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 43	Jesu	Jesu	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -5524,10 +5524,10 @@
 48	seinem	seine	_	PPOSAT	_	_	_	_	_	_	I-RELC	_	_	_	_
 49	Verhältniſs	Verhältnis	_	NN	_	_	_	_	_	_	I-RELC	Verhältnis	replace	*	_
 50	zu	zu	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-51	Gott	Gott	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-52	u.	u.	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-53	s.	s.	_	VVIMP	_	_	_	_	_	_	I-RELC	_	_	_	_
-54	f.	F.	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+51	Gott	Gott	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
+52	u.	u.	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
+53	s.	s.	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
+54	f.	F.	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 55	gesagt	sagen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 56	ist	sein	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 57	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -5576,7 +5576,7 @@
 100	lange	lange	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 101	vor	vor	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 102	diesem	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
-103	lezteren	letztere	_	ADJA	_	_	_	_	_	_	_	letzteren	replace	*	_
+103	lezteren	letztere	_	PIS	_	_	_	_	_	_	_	letzteren	replace	*	_
 104	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 105	Anlage	Anlage	_	NN	_	_	_	_	_	_	_	_	_	_	_
 106	zur	zur	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
@@ -5610,7 +5610,7 @@
 134	jene	jen	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
 135	angeblichen	angeblich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 136	Offenbarungen	Offenbarung	_	NN	_	_	_	_	_	_	_	_	_	_	_
-137	veranlaſst	veranlassen	_	VVPP	_	_	_	_	_	_	_	veranlasst	replace	*	B-RK
+137	veranlaſst	veranlassen	_	VVFIN	_	_	_	_	_	_	_	veranlasst	replace	*	B-RK
 138	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 139	hiedurch	hierdurch	_	PAV	_	_	_	_	_	_	_	hierdurch	replace	*	_
 140	aber	aber	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -5631,7 +5631,7 @@
 155	unvorsäzlich	unvorsätzlich	_	ADJD	_	_	_	_	_	_	_	unvorsätzlich	replace	*	_
 156	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 157	gelegt	legen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
-158	haben	haben	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
+158	haben	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 159	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 74
@@ -5696,7 +5696,7 @@
 57	Möglichkeit	Möglichkeit	_	NN	_	_	_	_	_	_	_	_	_	_	_
 58	an	an	_	PTKVZ	_	_	_	_	_	_	_	_	_	_	B-RK
 59	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-60	dieselben	dieselbe	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+60	dieselben	dieselbe	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 61	auch	auch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 62	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 63	ihre	ihr	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
@@ -5780,7 +5780,7 @@
 5	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 6	Schelling	Schelling	_	NE	_	_	_	_	_	_	_	_	_	_	_
 7	u.	u.	_	KON	_	_	_	_	_	_	_	_	_	_	_
-8	A.	A.	_	NE	_	_	_	_	_	_	_	_	_	_	_
+8	A.	A.	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 9	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 10	Begriff	Begriff	_	NN	_	_	_	_	_	_	_	_	_	_	_
 11	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -5795,9 +5795,9 @@
 20	älteste	alt	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 21	Geschichte	Geschichte	_	NN	_	_	_	_	_	_	_	_	_	_	_
 22	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-23	heilige	heilig	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+23	heilige	heilig	_	NN	_	_	_	_	_	_	_	_	_	_	_
 24	wie	wie	_	KON	_	_	_	_	_	_	_	_	_	_	_
-25	profane	profan	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+25	profane	profan	_	NN	_	_	_	_	_	_	_	_	_	_	_
 26	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 27	gültiger	gültig	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 28	aufgestellt	aufstellen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -5878,8 +5878,8 @@
 33	gab	geben	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 34	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 35	sondern	sondern	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
-36	die	die	_	PDS	_	_	_	_	_	_	I-RELC	_	_	_	_
-37	Fakta	faken	_	VVFIN	_	_	_	_	_	_	I-RELC	Fakte	replace	*	_
+36	die	die	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
+37	Fakta	faken	_	NN	_	_	_	_	_	_	I-RELC	Fakte	replace	*	_
 38	nur	nur	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 39	durch	durch	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 40	mündliche	mündlich	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -5895,7 +5895,7 @@
 50	Gegenstände	Gegenstand	_	NN	_	_	_	_	_	_	_	_	_	_	_
 51	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 52	wie	wie	_	PWAV	_	_	_	_	_	_	_	_	_	_	_
-53	Fakta	faken	_	VVFIN	_	_	_	_	_	_	_	Fakte	replace	*	_
+53	Fakta	faken	_	NN	_	_	_	_	_	_	_	Fakte	replace	*	_
 54	einer	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 55	übersinnlichen	übersinnlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 56	Welt	Welt	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -5903,7 +5903,7 @@
 58	oder	oder	_	KON	_	_	_	_	_	_	_	_	_	_	_
 59	doch	doch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 60	relativ	relativ	_	ADJD	_	_	_	_	_	B-Antec-2	_	_	_	_	_
-61	unerfahrbare	unerfahrbar	_	ADJA	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
+61	unerfahrbare	unerfahrbar	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 62	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 63	bei	bei	_	APPR	_	_	_	_	_	_	B-RELC-insitu-2	_	_	_	B-LK
 64	welchen	welchen	_	PWAT	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
@@ -5919,7 +5919,7 @@
 74	geschichtartiger	geschichteartig	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 75	Weise	Weise	_	NN	_	_	_	_	_	_	_	_	_	_	_
 76	erzählt	erzählen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
-77	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
+77	werden	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 78	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 79	oder	oder	_	KON	_	_	_	_	_	_	_	_	_	_	_
 80	endlich	endlich	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -5943,7 +5943,7 @@
 # sent_id(TSV) = 78
 # text = Die Einen seien historische Mythen , d. h. Erzählungen wirklicher Begebenheiten , nur gefärbt durch die alterthümliche , Göttliches mit Menschlichem , Natürliches mit Übernatürlichem vermengende Denkart ; es gebe aber auch philosophische Mythen , oder solche , welche einen bloſsen Gedanken , eine Speculation oder Zeitidee , in Geschichte einkleiden ; überdieſs aber können beide Arten theils sich mischen , theils durch dichterische Überarbeitung zu poëtischen Mythen werden , bei welchen hinter der phantasiereichen Einkleidung so ursprüngliches Faktum wie Idee beinahe verschwinden .
 1	Die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-2	Einen	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
+2	Einen	eine	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 3	seien	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 4	historische	historisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 5	Mythen	Mythe	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -5992,7 +5992,7 @@
 48	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 49	in	in	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 50	Geschichte	Geschichte	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-51	einkleiden	einkleiden	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+51	einkleiden	einkleiden	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 52	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 53	überdieſs	überdies	_	ADV	_	_	_	_	_	_	_	überdies	replace	*	_
 54	aber	aber	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -6001,7 +6001,7 @@
 57	Arten	Art	_	NN	_	_	_	_	_	_	_	_	_	_	_
 58	theils	teils	_	ADV	_	_	_	_	_	_	_	teils	replace	*	_
 59	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
-60	mischen	mischen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+60	mischen	mischen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 61	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 62	theils	teils	_	ADV	_	_	_	_	_	_	_	teils	replace	*	_
 63	durch	durch	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -6010,7 +6010,7 @@
 66	zu	zu	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 67	poëtischen	poetisch	_	ADJA	_	_	_	_	_	B-Antec-2	_	poetischen	replace	*	_
 68	Mythen	Mythe	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
-69	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	B-RK
+69	werden	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 70	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 71	bei	bei	_	APPR	_	_	_	_	_	_	B-RELC-extrap-2	_	_	_	B-LK
 72	welchen	welchen	_	PWAT	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
@@ -6024,7 +6024,7 @@
 80	wie	wie	_	KOKOM	_	_	_	_	_	_	I-RELC	_	_	_	_
 81	Idee	Idee	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 82	beinahe	beinahe	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
-83	verschwinden	verschwinden	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+83	verschwinden	verschwinden	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 84	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 79
@@ -6063,7 +6063,7 @@
 31	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 32	geschichtlichem	geschichtlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 33	Grunde	Grund	_	NN	_	_	_	_	_	_	_	_	_	_	_
-34	ruhenden	ruhend	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+34	ruhenden	ruhend	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 35	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 36	auftreten	auftreten	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 37	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -6114,12 +6114,12 @@
 8	leztere	letztere	_	ADJA	_	_	_	_	_	_	I-RELC	letztere	replace	*	_
 9	Meinung	Meinung	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 10	umgestoſsen	umstoßen	_	VVPP	_	_	_	_	_	_	I-RELC	umgestoßen	replace	*	B-RK
-11	haben	haben	_	VAINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
+11	haben	haben	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 12	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 13	Vater	Vater	_	NN	_	_	_	_	_	_	_	_	_	_	_
 14	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 15	de	De	_	NE	_	_	_	_	_	_	_	_	_	_	_
-16	Wette	Wette	_	NN	_	_	_	_	_	_	_	_	_	_	_
+16	Wette	Wette	_	NE	_	_	_	_	_	_	_	_	_	_	_
 17	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 18	zugleich	zugleich	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 19	diejenigen	diejenige	_	PDS	_	_	_	_	_	B-Antec-2	_	_	_	_	_
@@ -6184,7 +6184,7 @@
 41	Vorstellungen	Vorstellung	_	NN	_	_	_	_	_	_	B-NP-extrap	_	_	_	_
 42	,	,	_	$,	_	_	_	_	_	_	I-NP	_	_	_	_
 43	wie	wie	_	PWAV	_	_	_	_	_	_	I-NP	_	_	_	_
-44	die	d	_	ART	_	_	_	_	_	_	I-NP	_	_	_	_
+44	die	d	_	PDS	_	_	_	_	_	_	I-NP	_	_	_	_
 45	,	,	_	$,	_	_	_	_	_	_	I-NP	_	_	_	_
 46	daſs	dass	_	KOUS	_	_	_	_	_	_	I-NP	dass	replace	*	B-LK
 47	die	d	_	ART	_	_	_	_	_	_	I-NP	_	_	_	_
@@ -6227,7 +6227,7 @@
 20	er	er	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 21	ergetzen	ergötzen	_	VVINF	_	_	_	_	_	_	_	ergötzen	replace	*	B-RK
 22	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	I-RK
-23	rühren	rühren	_	VVFIN	_	_	_	_	_	_	_	_	_	_	I-RK
+23	rühren	rühren	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
 24	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 25	eine	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 26	philosophische	philosophisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
@@ -6270,7 +6270,7 @@
 19	dem	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 20	historischen	historisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 21	Standpunkt	Standpunkt	_	NN	_	_	_	_	_	_	_	_	_	_	_
-22	stehen	stehen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+22	stehen	stehen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 23	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 24	sondern	sondern	_	KON	_	_	_	_	_	_	_	_	_	_	_
 25	ein	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -6328,7 +6328,7 @@
 27	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 28	natürlichen	natürlich	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 29	Gesetze	Gesetz	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-30	überschreiten	überschreiten	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+30	überschreiten	überschreiten	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 31	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 86
@@ -6339,7 +6339,7 @@
 3	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 4	sagt	sagen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 5	de	De	_	NE	_	_	_	_	_	_	_	_	_	_	_
-6	Wette	Wette	_	NN	_	_	_	_	_	_	_	_	_	_	_
+6	Wette	Wette	_	NE	_	_	_	_	_	_	_	_	_	_	_
 7	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 8	ist	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 9	unkritisch	unkritisch	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
@@ -6370,11 +6370,11 @@
 34	schmeichelt	schmeicheln	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 35	:	:	_	$.	_	_	_	_	_	_	_	_	_	_	_
 36	je	je	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-37	schöner	schön	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+37	schöner	schön	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 38	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-39	ehrenvoller	ehrenvoll	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+39	ehrenvoller	ehrenvoll	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 40	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-41	wunderbarer	wunderbar	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+41	wunderbarer	wunderbar	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 42	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 43	desto	desto	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 44	annehmlicher	annehmlich	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
@@ -6408,8 +6408,8 @@
 5	Bezug	Bezug	_	NN	_	_	_	_	_	_	_	_	_	_	_
 6	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 7	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-8	A.	A.	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
-9	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
+8	A.	A.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+9	T.	T.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 10	liche	Liche	_	NE	_	_	_	_	_	_	_	_	_	_	_
 11	Geschichte	Geschichte	_	NN	_	_	_	_	_	_	_	_	_	_	_
 12	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
@@ -6430,9 +6430,9 @@
 27	wir	wir	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 28	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	I-RELC	_	_	_	_
 29	für	für	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-30	reinhistorische	reinhistorisch	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+30	reinhistorische	reinhistorisch	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 31	erkennen	erkennen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
-32	können	können	_	VMINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
+32	können	können	_	VMFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 33	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 88
@@ -6445,9 +6445,9 @@
 5	ist	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 6	nach	nach	_	APPR	_	_	_	_	_	_	B-PP-insitu	_	_	_	_
 7	de	De	_	NE	_	_	_	_	_	_	I-PP	_	_	_	_
-8	Wette	Wette	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
+8	Wette	Wette	_	NE	_	_	_	_	_	_	I-PP	_	_	_	_
 9	im	im	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
-10	Allgemeinen	allgemein	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+10	Allgemeinen	allgemein	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 11	schon	schon	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 12	durch	durch	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 13	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -6467,8 +6467,8 @@
 27	die	die	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 28	wir	wir	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 29	über	über	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-30	dieselbe	dieselbe	_	PDAT	_	_	_	_	_	_	I-RELC	_	_	_	_
-31	besitzen	besitzen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+30	dieselbe	dieselbe	_	PDS	_	_	_	_	_	_	I-RELC	_	_	_	_
+31	besitzen	besitzen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 32	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 33	und	und	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
 34	über	über	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -6504,8 +6504,8 @@
 18	entweder	entweder	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 19	annehmen	annehmen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 20	oder	oder	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
-21	verwerfen	verwerfen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
-22	können	können	_	VMINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
+21	verwerfen	verwerfen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
+22	können	können	_	VMFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 23	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 24	im	im	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 25	letzteren	letztere	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
@@ -6531,7 +6531,7 @@
 45	erlauben	erlauben	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 46	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 47	einen	eine	_	ART	_	_	_	_	_	B-Antec-2	_	_	_	_	_
-48	natürlichen	natürlich	_	ADJA	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
+48	natürlichen	natürlich	_	PIS	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 49	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
 50	erdichten	erdichten	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
 51	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -6553,7 +6553,7 @@
 3	wenn	wenn	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 4	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 5	Bund	Bund	_	NN	_	_	_	_	_	_	_	_	_	_	_
-6	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+6	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 7	mit	mit	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 8	Abraham	Abraham	_	NE	_	_	_	_	_	_	_	_	_	_	_
 9	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -6574,7 +6574,7 @@
 24	wird	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 25	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 26	nämlich	nämlich	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-27	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
+27	die	d	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 28	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 29	es	es	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 30	habe	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -6583,7 +6583,7 @@
 33	ein	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 34	objektiver	objektiv	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 35	Verkehr	Verkehr	_	NN	_	_	_	_	_	_	_	_	_	_	_
-36	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+36	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 37	mit	mit	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 38	Abraham	Abraham	_	NE	_	_	_	_	_	_	_	_	_	_	_
 39	stattgefunden	stattfinden	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -6614,7 +6614,7 @@
 64	alten	alt	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 65	Welt	Welt	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 66	auf	auf	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-67	Gott	Gott	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+67	Gott	Gott	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 68	zurückgeführt	zurückführen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 69	habe	haben	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 70	:	:	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -6632,7 +6632,7 @@
 82	woher	woher	_	PWAV	_	_	_	_	_	_	_	_	_	_	B-LK
 83	sie	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 84	denn	denn	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-85	wissen	wissen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+85	wissen	wissen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 86	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 87	daſs	dass	_	KOUS	_	_	_	_	_	_	_	dass	replace	*	B-LK
 88	Abraham	Abraham	_	NE	_	_	_	_	_	_	_	_	_	_	_
@@ -6680,7 +6680,7 @@
 30	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 31	Abraham	Abraham	_	NE	_	_	_	_	_	_	_	_	_	_	_
 32	entstehen	entstehen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
-33	können	können	_	VMINF	_	_	_	_	_	_	_	_	_	_	I-RK
+33	können	können	_	VMFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 34	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 35	wohl	wohl	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 36	aber	aber	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -6700,7 +6700,7 @@
 50	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 51	Landes	Land	_	NN	_	_	_	_	_	_	_	_	_	_	_
 52	gekommenen	gekommen	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
-53	Israëliten	Israelit	_	NN	_	_	_	_	_	_	_	Israeliten	replace	*	_
+53	Israëliten	Israelit	_	NE	_	_	_	_	_	_	_	Israeliten	replace	*	_
 54	jenen	jen	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
 55	Bund	Bund	_	NN	_	_	_	_	_	_	_	_	_	_	_
 56	ihrem	ihr	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
@@ -6708,7 +6708,7 @@
 58	zur	zur	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 59	Verherrlichung	Verherrlichung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 60	angedichtet	andichten	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
-61	haben	haben	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
+61	haben	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 62	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 63	—	--	_	$(	_	_	_	_	_	_	_	--	replace	*	_
 64	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -6723,7 +6723,7 @@
 73	immer	immer	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 74	wieder	wieder	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 75	zur	zur	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
-76	mythischen	mythisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+76	mythischen	mythisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 77	hinführe	hinführen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 78	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
@@ -6745,8 +6745,8 @@
 13	Bezug	Bezug	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 14	auf	auf	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 15	das	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-16	A.	A.	_	APPRART	_	_	_	_	_	_	I-RELC	_	_	_	_
-17	T.	T.	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+16	A.	A.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
+17	T.	T.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 18	ausgebildet	ausbilden	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 19	hatte	haben	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 20	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -6819,7 +6819,7 @@
 56	G.	G.	_	NN	_	_	_	_	_	_	I-OTH	_	_	_	_
 57	12	12	_	CARD	_	_	_	_	_	_	I-OTH	_	_	_	_
 58	,	,	_	$,	_	_	_	_	_	_	I-OTH	_	_	_	_
-59	23.	23.	_	ADJA	_	_	_	_	_	_	I-OTH	_	_	_	_
+59	23.	23.	_	CARD	_	_	_	_	_	_	I-OTH	_	_	_	_
 60	die	d	_	ART	_	_	_	_	_	_	I-OTH	_	_	_	_
 61	Erzählung	Erzählung	_	NN	_	_	_	_	_	_	I-OTH	_	_	_	_
 62	des	d	_	ART	_	_	_	_	_	_	I-OTH	_	_	_	_
@@ -6836,7 +6836,7 @@
 5	nur	nur	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 6	unerweisliche	unerweislich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 7	Hypothesen	Hypothese	_	NN	_	_	_	_	_	_	_	_	_	_	_
-8	spinnen	spinnen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+8	spinnen	spinnen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 9	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 10	wenn	wenn	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 11	er	er	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -6868,8 +6868,8 @@
 37	welche	welche	_	PRELS	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
 38	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 39	wie	wie	_	KOKOM	_	_	_	_	_	_	I-RELC	_	_	_	B-LK
-40	Eichhorn	Eichhorn	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-41	erklärt	erklären	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+40	Eichhorn	Eichhorn	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
+41	erklärt	erklären	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 42	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 43	viele	viel	_	PIAT	_	_	_	_	_	_	I-RELC	_	_	_	_
 44	sogenannte	sogenannt	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -6880,7 +6880,7 @@
 49	in	in	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 50	ihre	ihr	_	PPOSAT	_	_	_	_	_	_	I-RELC	_	_	_	_
 51	Nichtigkeit	Nichtigkeit	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-52	hinfallen	hinfallen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+52	hinfallen	hinfallen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 53	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 95
@@ -6935,7 +6935,7 @@
 5	:	:	_	$.	_	_	_	_	_	_	_	_	_	_	_
 6	wie	wie	_	PWAV	_	_	_	_	_	_	_	_	_	_	_
 7	mag	mögen	_	VMFIN	_	_	_	_	_	_	_	_	_	_	B-LK
-8	dies	diese	_	PDS	_	_	_	_	_	B-Antec-1	_	_	_	_	_
+8	dies	diese	_	PDAT	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 9	wundervolle	wundervoll	_	ADJA	_	_	_	_	_	I-Antec	_	_	_	_	_
 10	Ereigniſs	Ereignis	_	NN	_	_	_	_	_	I-Antec-Head	_	Ereignis	replace	*	_
 11	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -6985,7 +6985,7 @@
 5	ersteren	erstere	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 6	Erklärungsart	Erklärungsart	_	NN	_	_	_	_	_	_	_	_	_	_	_
 7	hält	halten	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
-8	Krug	Krug	_	NN	_	_	_	_	_	_	_	_	_	_	_
+8	Krug	Krug	_	NE	_	_	_	_	_	_	_	_	_	_	_
 9	für	für	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 10	fruchtlos	fruchtlos	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 11	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -6994,11 +6994,11 @@
 14	Erklärungen	Erklärung	_	NN	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 15	zum	zum	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 16	Vorschein	Vorschein	_	NN	_	_	_	_	_	_	_	_	_	_	_
-17	bringen	bringen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+17	bringen	bringen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 18	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 19	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 20	noch	noch	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
-21	wunderbarer	wunderbar	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+21	wunderbarer	wunderbar	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
 22	als	als	_	KOKOM	_	_	_	_	_	_	I-RELC	_	_	_	_
 23	das	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 24	zu	zu	_	PTKZU	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -7016,7 +7016,7 @@
 36	indem	indem	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 37	man	man	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 38	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-39	demselben	demselben	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+39	demselben	demselben	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 40	zu	zu	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 41	Resultaten	Resultat	_	NN	_	_	_	_	_	B-Antec-2	_	_	_	_	_
 42	gelange	gelangen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -7027,7 +7027,7 @@
 47	über	über	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 48	sämmtliche	sämtliche	_	PIAT	_	_	_	_	_	_	I-RELC	sämtliche	replace	*	_
 49	Wundererzählungen	Wundererzählung	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-50	verbreiten	verbreiten	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+50	verbreiten	verbreiten	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 51	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 98
@@ -7047,7 +7047,7 @@
 12	Erklärung	Erklärung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 13	seines	seine	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 14	Textes	Text	_	NN	_	_	_	_	_	_	_	_	_	_	_
-15	demselben	demselben	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+15	demselben	demselben	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 16	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
 17	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 18	mindeste	mindest	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
@@ -7105,14 +7105,14 @@
 70	aus	aus	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 71	dem	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 72	Gesichte	Gesicht	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-73	rücken	rücken	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+73	rücken	rücken	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 74	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 75	und	und	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
 76	diesen	diese	_	PDS	_	_	_	_	_	_	I-RELC	_	_	_	_
 77	etwas	etwas	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 78	ganz	ganz	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 79	Andres	andere	_	PIS	_	_	_	_	_	_	I-RELC	Anderes	replace	*	_
-80	unterschieben	unterschieben	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+80	unterschieben	unterschieben	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 81	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 82	als	als	_	KOUS	_	_	_	_	_	_	I-RELC	_	_	_	B-LK
 83	sie	sie	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -7195,13 +7195,13 @@
 19	einzelne	einzeln	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 20	Züge	Zug	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 21	als	als	_	KOKOM	_	_	_	_	_	_	I-RELC	_	_	_	_
-22	unhistorische	unhistorisch	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+22	unhistorische	unhistorisch	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 23	herausnahm	herausnehmen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 24	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 25	und	und	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
-26	andere	ander	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+26	andere	ander	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 27	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
-28	natürliche	natürlich	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+28	natürliche	natürlich	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 29	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 30	an	an	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 31	ihre	ihr	_	PPOSAT	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -7243,7 +7243,7 @@
 9	im	im	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 10	Paulus'schen	paulus'schen	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 11	Commentar	Kommentar	_	NN	_	_	_	_	_	_	_	Kommentar	replace	*	_
-12	culmnire	Culmnire	_	NE	_	_	_	_	_	_	_	_	_	_	B-RK
+12	culmnire	Culmnire	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 13	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 14	sind	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 15	nach	nach	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -7254,12 +7254,12 @@
 20	das	d	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 21	durchaus	durchaus	_	ADV	_	_	_	_	_	I-Antec	_	_	_	_	_
 22	unhistorische	unhistorisch	_	ADJA	_	_	_	_	_	I-Antec	_	_	_	_	_
-23	Vnrfahren	unerfahren	_	ADJD	_	_	_	_	_	I-Antec-Head	_	Unerfahren	replace	*	_
+23	Vnrfahren	unerfahren	_	NN	_	_	_	_	_	I-Antec-Head	_	Unerfahren	replace	*	_
 24	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 25	welches	welche	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 26	sie	sie	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 27	sich	sich	_	PRF	_	_	_	_	_	_	I-RELC	_	_	_	_
-28	erlaubt	erlauben	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+28	erlaubt	erlauben	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 29	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 30	Urkunden	Urkunde	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 31	durch	durch	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -7303,14 +7303,14 @@
 69	biblischen	biblisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 70	Geschichte	Geschichte	_	NN	_	_	_	_	_	_	_	_	_	_	_
 71	von	von	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-72	allem	alle	_	PIS	_	_	_	_	_	_	_	_	_	_	_
+72	allem	alle	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 73	Heiligen	Heilige	_	NN	_	_	_	_	_	_	_	_	_	_	_
 74	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 75	Göttlichen	Göttliche	_	NN	_	_	_	_	_	_	_	_	_	_	_
 76	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 77	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 78	Herabwürdigung	Herabwürdigung	_	NN	_	_	_	_	_	_	_	_	_	_	_
-79	derselben	dieselbe	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+79	derselben	dieselbe	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 80	zur	zur	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 81	eiteln	eitel	_	ADJA	_	_	_	_	_	B-Antec-2	_	eitlen	replace	*	_
 82	Unterhaltungslectüre	Unterhaltungslektüre	_	NN	_	_	_	_	_	I-Antec-Head	_	Unterhaltungslektüre	replace	*	_
@@ -7322,7 +7322,7 @@
 88	der	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 89	Geschichte	Geschichte	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 90	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	I-RELC	_	_	_	_
-91	verdient	verdienen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+91	verdient	verdienen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 92	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 102
@@ -7340,7 +7340,7 @@
 10	doch	doch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 11	bei	bei	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 12	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-13	supranaturalistischen	supranaturalistisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+13	supranaturalistischen	supranaturalistisch	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 14	auch	auch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 15	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
 16	beruhigen	beruhigen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -7435,7 +7435,7 @@
 21	der	die	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 22	bei	bei	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 23	gewissen	gewiß	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
-24	N.	N.	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+24	N.	N.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 25	T.	T.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 26	lichen	Lichen	_	NN	_	_	_	_	_	_	I-RELC	Lichen	replace	*	_
 27	Erzählungen	Erzählung	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -7448,7 +7448,7 @@
 # sent_id(TSV) = 105
 # text = In manchen von diesen Erzählungen nämlich finden sich nicht blos unrichtige Urtheile , wie sie auch von Augenzeugen gefällt werden können , so daſs sich durch deren Berichtigung ein natürlicher Hergang gewinnen lieſse : sondern nicht selten finden sich auch falsche Thatsachen und unmögliche Erfolge angegeben , welche von keinem Augenzeugen so erzählt , sondern nur in der Überlieferung haben fingirt werden können , also mythisch aufgefaſst werden müssen .
 1	In	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-2	manchen	manche	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
+2	manchen	manche	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 3	von	von	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 4	diesen	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
 5	Erzählungen	Erzählung	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -7532,11 +7532,11 @@
 9	Gesichtspunktes	Gesichtspunkt	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 10	aus	aus	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 11	dem	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-12	A.	A.	_	APPRART	_	_	_	_	_	_	I-RELC	_	_	_	_
-13	T.	T.	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+12	A.	A.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
+13	T.	T.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 14	in	in	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 15	das	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-16	neue	neu	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+16	neue	neu	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 17	zu	zu	_	PTKZU	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 18	beseitigen	beseitigen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 19	war	sein	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
@@ -7617,7 +7617,7 @@
 23	Geschichte	Geschichte	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 24	mythisch	mythisch	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 25	genannt	nennen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
-26	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
+26	werden	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 27	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 28	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 29	noch	noch	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -7679,7 +7679,7 @@
 7	allerlei	allerlei	_	PIAT	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 8	Anekdoten	Anekdote	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 9	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
-10	bilden	bilden	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+10	bilden	bilden	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 11	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 12	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 13	unter	unter	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -7692,7 +7692,7 @@
 20	Wunderdingen	Wunderding	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 21	aller	alle	_	PIAT	_	_	_	_	_	_	I-RELC	_	_	_	_
 22	Art	Art	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-23	vergrössert	vergrößern	_	VVPP	_	_	_	_	_	_	I-RELC	vergrößert	replace	*	B-RK
+23	vergrössert	vergrößern	_	VVFIN	_	_	_	_	_	_	I-RELC	vergrößert	replace	*	B-RK
 24	:	:	_	$.	_	_	_	_	_	_	_	_	_	_	_
 25	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 26	wurde	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -7765,7 +7765,7 @@
 36	längere	lang	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 37	Zeit	Zeit	_	NN	_	_	_	_	_	_	_	_	_	_	_
 38	nichts	nichts	_	PIS	_	_	_	_	_	_	_	_	_	_	_
-39	Schriftliches	schriftlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+39	Schriftliches	schriftlich	_	NN	_	_	_	_	_	_	_	_	_	_	_
 40	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 41	sondern	sondern	_	KON	_	_	_	_	_	_	_	_	_	_	_
 42	nur	nur	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -7814,7 +7814,7 @@
 14	mehreren	mehrere	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 15	Erzählungen	Erzählung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 16	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-17	N.	N.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+17	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 18	T.s	T.s	_	NE	_	_	_	_	_	_	_	_	_	_	_
 19	Anwendung	Anwendung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 20	findet	finden	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -7848,9 +7848,9 @@
 48	der	die	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 49	nur	nur	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 50	bei	bei	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-51	Befangenen	befangen	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+51	Befangenen	befangen	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 52	oder	oder	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
-53	Falschberichteten	falschberichtet	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+53	Falschberichteten	falschberichtet	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 54	Anstoſs	Anstoß	_	NN	_	_	_	_	_	_	I-RELC	Anstoss	replace	*	_
 55	erregen	erregen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 56	kann	können	_	VMFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
@@ -7865,8 +7865,8 @@
 3	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 4	Seiten	Seite	_	NN	_	_	_	_	_	_	_	_	_	_	_
 5	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-6	A.	A.	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
-7	T.s	T.s	_	NN	_	_	_	_	_	_	_	_	_	_	_
+6	A.	A.	_	NE	_	_	_	_	_	_	_	_	_	_	_
+7	T.s	T.s	_	NE	_	_	_	_	_	_	_	_	_	_	_
 8	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 9	mythische	mythisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 10	Auffassung	Auffaßung	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -7882,7 +7882,7 @@
 20	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 21	Abfassung	Abfaßung	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 22	der	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-23	A.	A.	_	APPRART	_	_	_	_	_	_	I-RELC	_	_	_	_
+23	A.	A.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 24	T.lichen	t.lichen	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 25	Geschichtsurkunden	Geschichtesurkunde	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 26	durch	durch	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -7909,7 +7909,7 @@
 12	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
 13	blos	bloß	_	ADV	_	_	_	_	_	_	_	bloß	replace	*	_
 14	ein	eine	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
-15	dünner	dünn	_	ADJD	_	_	_	_	_	I-Antec	_	_	_	_	_
+15	dünner	dünn	_	ADJA	_	_	_	_	_	I-Antec	_	_	_	_	_
 16	Faden	Faden	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 17	des	d	_	ART	_	_	_	_	_	I-Antec	_	_	_	_	_
 18	apostolisch	apostolisch	_	ADJD	_	_	_	_	_	I-Antec	_	_	_	_	_
@@ -7981,9 +7981,9 @@
 84	an	an	_	APPR	_	_	_	_	_	_	I-OTH	_	_	_	_
 85	seinem	seine	_	PPOSAT	_	_	_	_	_	_	I-OTH	_	_	_	_
 86	Grabe	Grab	_	NN	_	_	_	_	_	_	I-OTH	_	_	_	_
-87	u.	u.	_	APPR	_	_	_	_	_	_	I-OTH	_	_	_	_
-88	s.	s.	_	VVIMP	_	_	_	_	_	_	I-OTH	_	_	_	_
-89	f.	F.	_	NE	_	_	_	_	_	_	I-OTH	_	_	_	_
+87	u.	u.	_	KON	_	_	_	_	_	_	I-OTH	_	_	_	_
+88	s.	s.	_	ADV	_	_	_	_	_	_	I-OTH	_	_	_	_
+89	f.	F.	_	ADV	_	_	_	_	_	_	I-OTH	_	_	_	_
 90	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 91	Besonders	besonders	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 92	aber	aber	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -8006,7 +8006,7 @@
 109	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 110	sind	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 111	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-112	denselben	denselben	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+112	denselben	denselben	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 113	immer	immer	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 114	mehr	mehr	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 115	theils	teils	_	ADV	_	_	_	_	_	_	_	teils	replace	*	_
@@ -8203,7 +8203,7 @@
 36	er	er	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 37	aus	aus	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 38	dem	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-39	N.	N.	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+39	N.	N.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 40	T.	T.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 41	namhaft	namhaft	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
 42	macht	machen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
@@ -8211,7 +8211,7 @@
 44	nur	nur	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 45	einen	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 46	einzigen	einzig	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
-47	philosophischen	philosophisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+47	philosophischen	philosophisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 48	hat	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 49	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 50	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
@@ -8264,7 +8264,7 @@
 16	wenn	wenn	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 17	er	er	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 18	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
-19	das	die	_	PDS	_	_	_	_	_	_	_	_	_	_	_
+19	das	die	_	ART	_	_	_	_	_	_	_	_	_	_	_
 20	zum	zum	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 21	Grunde	Grund	_	NN	_	_	_	_	_	_	_	_	_	_	_
 22	liegende	liegend	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
@@ -8289,7 +8289,7 @@
 41	habe	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 42	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 43	ein	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
-44	Andrer	Andere	_	NN	_	_	_	_	_	_	_	Anderer	replace	*	_
+44	Andrer	Andere	_	PIS	_	_	_	_	_	_	_	Anderer	replace	*	_
 45	glaubte	glauben	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 46	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 47	mythischen	mythisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
@@ -8374,7 +8374,7 @@
 126	Grunde	Grund	_	NN	_	_	_	_	_	_	_	_	_	_	_
 127	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 128	am	am	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
-129	schreiendsten	schreiend	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+129	schreiendsten	schreiend	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 130	aber	aber	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 131	ist	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 132	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -8386,7 +8386,7 @@
 138	einer	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 139	Mythologie	Mythologie	_	NN	_	_	_	_	_	_	_	_	_	_	_
 140	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-141	N.	N.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+141	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 142	T.s	T.s	_	NE	_	_	_	_	_	_	_	_	_	_	_
 143	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 144	wie	wie	_	PWAV	_	_	_	_	_	_	_	_	_	_	_
@@ -8421,8 +8421,8 @@
 173	Ehe	Ehe	_	NN	_	_	_	_	_	_	_	_	_	_	_
 174	angenommen	annehmen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 175	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-176	die	die	_	PRELS	_	_	_	_	_	_	_	_	_	_	_
-177	Engel	Engel	_	NE	_	_	_	_	_	_	_	_	_	_	_
+176	die	die	_	ART	_	_	_	_	_	_	_	_	_	_	_
+177	Engel	Engel	_	NN	_	_	_	_	_	_	_	_	_	_	_
 178	bei	bei	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 179	Jesu	Jesu	_	NE	_	_	_	_	_	_	_	_	_	_	_
 180	Geburt	Geburt	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -8467,14 +8467,14 @@
 219	weissen	weiß	_	ADJA	_	_	_	_	_	_	_	weißen	replace	*	_
 220	Leintüchern	Leintuch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 221	gemacht	machen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
-222	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
+222	werden	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 223	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 118
 # sent_id(TSV) = 118
 # text = Auch Kaiser , welcher über das Unnatürliche so mancher natürlichen Erklärungen Klage führt , läſst doch mit der Bemerkung , es wäre einseitig , alles Wunderbare im N. T. auf Eine und dieselbe Weise zu erklären , die natürliche Auslegung neben der mythischen stehen .
 1	Auch	auch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-2	Kaiser	Kaiser	_	NN	_	_	_	_	_	B-Antec-1	_	_	_	_	_
+2	Kaiser	Kaiser	_	NE	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 3	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 4	welcher	welche	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 5	über	über	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -8500,7 +8500,7 @@
 25	alles	alle	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 26	Wunderbare	Wunderbare	_	NN	_	_	_	_	_	_	_	_	_	_	_
 27	im	im	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
-28	N.	N.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+28	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 29	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 30	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 31	Eine	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -8628,7 +8628,7 @@
 24	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 25	als	als	_	KOKOM	_	_	_	_	_	_	B-CMPP-extrap-1	_	_	_	_
 26	dem	d	_	ART	_	_	_	_	_	_	I-CMPP	_	_	_	_
-27	philosophischen	philosophisch	_	ADJA	_	_	_	_	_	_	I-CMPP	_	_	_	_
+27	philosophischen	philosophisch	_	NN	_	_	_	_	_	_	I-CMPP	_	_	_	_
 28	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 121
@@ -8641,10 +8641,10 @@
 5	A.	A.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 6	u.	u.	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 7	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
-8	T.s	T.s	_	NE	_	_	_	_	_	_	_	_	_	_	_
+8	T.s	T.s	_	NN	_	_	_	_	_	_	_	_	_	_	_
 9	sind	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 10	nach	nach	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-11	Kaiser	Kaiser	_	NN	_	_	_	_	_	_	_	_	_	_	_
+11	Kaiser	Kaiser	_	NE	_	_	_	_	_	_	_	_	_	_	_
 12	wirkliche	wirklich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 13	Vorfälle	Vorfall	_	NN	_	_	_	_	_	_	_	_	_	_	_
 14	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -8694,8 +8694,8 @@
 58	der	d	_	ART	_	_	_	_	_	_	I-OTH	_	_	_	_
 59	Bethlehemitische	bethlehemitische	_	ADJA	_	_	_	_	_	_	I-OTH	_	_	_	_
 60	Kindermord	Kindermord	_	NN	_	_	_	_	_	_	I-OTH	_	_	_	_
-61	u.	u.	_	APPR	_	_	_	_	_	_	I-OTH	_	_	_	_
-62	dergl	Dergl	_	NE	_	_	_	_	_	_	I-OTH	_	_	_	_
+61	u.	u.	_	KON	_	_	_	_	_	_	I-OTH	_	_	_	_
+62	dergl	Dergl	_	PDS	_	_	_	_	_	_	I-OTH	_	_	_	_
 63	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 122
@@ -8716,8 +8716,8 @@
 13	philosophischen	philosophisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 14	Mythus	Mythos	_	NN	_	_	_	_	_	_	_	Mythos	replace	*	_
 15	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
-16	historischen	historisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
-17	behandelt	behandeln	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
+16	historischen	historisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
+17	behandelt	behandeln	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 18	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 19	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 20	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -8738,9 +8738,9 @@
 35	philosophische	philosophisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 36	Mythen	Mythe	_	NN	_	_	_	_	_	_	_	_	_	_	_
 37	im	im	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
-38	N.	N.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+38	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 39	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
-40	annehmen	annehmen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+40	annehmen	annehmen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 41	als	als	_	KOKOM	_	_	_	_	_	_	B-CMPP-extrap-2	_	_	_	_
 42	lauter	lauter	_	PIAT	_	_	_	_	_	_	I-CMPP	_	_	_	_
 43	historische	historisch	_	ADJA	_	_	_	_	_	_	I-CMPP	_	_	_	_
@@ -8758,7 +8758,7 @@
 55	Inhalts	Inhalt	_	NN	_	_	_	_	_	_	_	_	_	_	_
 56	bald	bald	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 57	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-58	eine	eine	_	PIS	_	_	_	_	_	_	_	_	_	_	_
+58	eine	eine	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 59	bald	bald	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 60	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 61	andre	ander	_	ADJA	_	_	_	_	_	_	_	andere	replace	*	_
@@ -8785,8 +8785,8 @@
 15	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 16	wo	wo	_	PWAV	_	_	_	_	_	_	I-RELC	_	_	_	B-LK
 17	wirkliche	wirklich	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
-18	Fakta	faken	_	VVFIN	_	_	_	_	_	_	I-RELC	Fakte	replace	*	_
-19	durchschimmern	durchschimmern	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+18	Fakta	faken	_	NN	_	_	_	_	_	_	I-RELC	Fakte	replace	*	_
+19	durchschimmern	durchschimmern	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 20	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 21	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
 22	vor	vor	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -8979,7 +8979,7 @@
 19	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
 20	selbst	selbst	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 21	Genossen	Genosse	_	NN	_	_	_	_	_	_	_	_	_	_	_
-22	derselben	dieselbe	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+22	derselben	dieselbe	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 23	gewesen	sein	_	VAPP	_	_	_	_	_	_	_	_	_	_	B-RK
 24	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 25	Joseph	Joseph	_	NE	_	_	_	_	_	_	_	_	_	_	_
@@ -9036,7 +9036,7 @@
 76	nach	nach	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 77	Zeitbegriffen	Zeitbegriff	_	NN	_	_	_	_	_	_	_	_	_	_	_
 78	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-79	A.	A.	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
+79	A.	A.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 80	T.lichen	t.lichen	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 81	Orakeln	Orakel	_	NN	_	_	_	_	_	_	_	_	_	_	_
 82	(	(	_	$(	_	_	_	_	_	_	_	_	_	_	_
@@ -9095,7 +9095,7 @@
 40	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 41	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 42	Jugendgeschichte	Jugendgeschichte	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-43	enthalten	enthalten	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+43	enthalten	enthalten	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 44	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 45	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
 46	unächt	unecht	_	ADJD	_	_	_	_	_	_	_	unecht	replace	*	_
@@ -9103,7 +9103,7 @@
 48	spätere	spät	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 49	Zusätze	Zusatz	_	NN	_	_	_	_	_	_	_	_	_	_	_
 50	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
-51	verwerfen	verwerfen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	I-RK
+51	verwerfen	verwerfen	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
 52	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 128
@@ -9111,7 +9111,7 @@
 # text = Etwas mehr erweitert findet sich die Anwendung des mythischen Gesichtspunktes bei Gabler , wenn er den Unterschied zwischen Wundern , die Jesus that , und solchen , die an ihm vorgiengen , in der Art geltend macht , daſs zwar die letzteren mythisch , die ersteren aber natürlich erklärt werden sollen .
 1	Etwas	etwas	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 2	mehr	mehr	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-3	erweitert	erweitern	_	VVFIN	_	_	_	_	_	_	_	_	_	_	_
+3	erweitert	erweitern	_	VVPP	_	_	_	_	_	_	_	_	_	_	_
 4	findet	finden	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 5	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
 6	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -9154,7 +9154,7 @@
 43	mythisch	mythisch	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 44	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 45	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-46	ersteren	erstere	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+46	ersteren	erstere	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 47	aber	aber	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 48	natürlich	natürlich	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 49	erklärt	erklären	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -9180,7 +9180,7 @@
 13	Jesu	Jesu	_	NE	_	_	_	_	_	_	_	_	_	_	_
 14	scheint	scheinen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 15	auch	auch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-16	Bauer	Bauer	_	NN	_	_	_	_	_	_	_	_	_	_	_
+16	Bauer	Bauer	_	NE	_	_	_	_	_	_	_	_	_	_	_
 17	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 18	seiner	seine	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 19	hebräischen	hebräisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
@@ -9195,7 +9195,7 @@
 28	was	was	_	PWS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 29	er	er	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 30	im	im	_	APPRART	_	_	_	_	_	_	I-RELC	_	_	_	_
-31	N.	N.	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+31	N.	N.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 32	T.	T.	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 33	mythisch	mythisch	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
 34	fassen	fassen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
@@ -9445,7 +9445,7 @@
 43	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 44	Mythe	Mythe	_	NN	_	_	_	_	_	_	_	_	_	_	_
 45	Raum	Raum	_	NN	_	_	_	_	_	_	_	_	_	_	_
-46	geben	geben	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+46	geben	geben	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 47	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 48	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 49	trifft	treffen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -9574,7 +9574,7 @@
 21	besser	gut	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
 22	als	als	_	KOKOM	_	_	_	_	_	_	I-RELC	_	_	_	_
 23	den	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-24	dogmatischen	dogmatisch	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+24	dogmatischen	dogmatisch	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 25	bezeichnet	bezeichnen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 26	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 27	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -9632,7 +9632,7 @@
 7	Rationalisten	Rationalist	_	NN	_	_	_	_	_	_	_	_	_	_	_
 8	sammt	samt	_	APPR	_	_	_	_	_	_	_	samt	replace	*	_
 9	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-10	schmähenden	schmähend	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+10	schmähenden	schmähend	_	NN	_	_	_	_	_	_	_	_	_	_	_
 11	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 12	Naturalisten	Naturalist	_	NN	_	_	_	_	_	_	_	_	_	_	_
 13	der	d	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
@@ -9652,7 +9652,7 @@
 27	leere	leer	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 28	historische	historisch	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 29	Form	Form	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-30	derselben	dieselbe	_	PDAT	_	_	_	_	_	_	I-RELC	_	_	_	_
+30	derselben	dieselbe	_	PDS	_	_	_	_	_	_	I-RELC	_	_	_	_
 31	festhält	festhalten	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 32	:	:	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
@@ -9681,7 +9681,7 @@
 20	zwar	zwar	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 21	etwas	etwas	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 22	scheinbar	scheinbar	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
-23	Historisches	historisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+23	Historisches	historisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 24	:	:	_	$.	_	_	_	_	_	_	_	_	_	_	_
 25	aber	aber	_	KON	_	_	_	_	_	_	_	_	_	_	_
 26	ihm	er	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -9692,7 +9692,7 @@
 31	ein	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 32	höherer	hoch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 33	Geist	Geist	_	NN	_	_	_	_	_	_	_	_	_	_	_
-34	dieſs	diese	_	PDS	_	_	_	_	_	_	_	dies	replace	*	_
+34	dieſs	diese	_	PDAT	_	_	_	_	_	_	_	dies	replace	*	_
 35	Geschichtliche	Geschichtliche	_	NN	_	_	_	_	_	_	_	_	_	_	_
 36	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
 37	bloſse	bloß	_	ADJA	_	_	_	_	_	_	_	bloße	replace	*	_
@@ -9720,18 +9720,18 @@
 59	daſs	dass	_	KOUS	_	_	_	_	_	_	_	dass	replace	*	B-LK
 60	nach	nach	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 61	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-62	allegorischen	allegorisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+62	allegorischen	allegorisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 63	dieser	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
 64	höhere	hoch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 65	Geist	Geist	_	NN	_	_	_	_	_	_	_	_	_	_	_
 66	unmittelbar	unmittelbar	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 67	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-68	göttliche	göttlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+68	göttliche	göttlich	_	NN	_	_	_	_	_	_	_	_	_	_	_
 69	selbst	selbst	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 70	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 71	nach	nach	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 72	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-73	mythischen	mythisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+73	mythischen	mythisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 74	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 75	Geist	Geist	_	NN	_	_	_	_	_	_	_	_	_	_	_
 76	eines	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -9742,11 +9742,11 @@
 81	(	(	_	$(	_	_	_	_	_	_	_	_	_	_	_
 82	nach	nach	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 83	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-84	moralischen	moralisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+84	moralischen	moralisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 85	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 86	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 87	Regel	Regel	_	NN	_	_	_	_	_	_	_	_	_	_	_
-88	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
+88	der	d	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 89	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 90	auslegenden	auslegend	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 91	Subjektes	Subjekt	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -9768,7 +9768,7 @@
 107	herschreibt	herschreiben	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 108	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 109	nach	nach	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-110	der	die	_	PRELS	_	_	_	_	_	_	_	_	_	_	_
+110	der	die	_	ART	_	_	_	_	_	_	_	_	_	_	_
 111	andern	andere	_	PIS	_	_	_	_	_	_	_	anderen	replace	*	_
 112	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 113	dem	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -9792,7 +9792,7 @@
 131	(	(	_	$(	_	_	_	_	_	_	_	_	_	_	_
 132	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 133	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-134	moralische	moralisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+134	moralische	moralisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 135	)	)	_	$(	_	_	_	_	_	_	_	_	_	_	_
 136	mit	mit	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 137	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -9819,7 +9819,7 @@
 158	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 159	wogegen	wogegen	_	PWAV	_	_	_	_	_	_	_	_	_	_	B-LK
 160	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-161	mythische	mythisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+161	mythische	mythisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 162	durch	durch	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 163	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 164	Rücksicht	Rücksicht	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -9881,10 +9881,10 @@
 26	weitere	weit	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 27	Bemerkung	Bemerkung	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 28	überflüssig	überflüssig	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
-29	machen	machen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+29	machen	machen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 30	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 31	ausser	außer	_	APPR	_	_	_	_	_	_	I-RELC|B-PP-extrap	außer	replace	*	_
-32	der	d	_	ART	_	_	_	_	_	_	I-RELC|I-PP	_	_	_	_
+32	der	d	_	PDS	_	_	_	_	_	_	I-RELC|I-PP	_	_	_	_
 33	,	,	_	$,	_	_	_	_	_	_	I-RELC|I-PP	_	_	_	_
 34	daſs	dass	_	KOUS	_	_	_	_	_	_	I-RELC|I-PP	dass	replace	*	B-LK
 35	Hess	Hess	_	NE	_	_	_	_	_	_	I-RELC|I-PP	_	_	_	_
@@ -9945,7 +9945,7 @@
 33	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 34	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 35	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-36	späteren	spät	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+36	späteren	spät	_	NN	_	_	_	_	_	_	_	_	_	_	_
 37	aber	aber	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 38	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
 39	mehr	mehr	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -9981,7 +9981,7 @@
 69	wie	wie	_	PWAV	_	_	_	_	_	_	B-CMPP-extrap-2	_	_	_	_
 70	in	in	_	APPR	_	_	_	_	_	_	I-CMPP	_	_	_	_
 71	den	d	_	ART	_	_	_	_	_	_	I-CMPP	_	_	_	_
-72	frühsten	früh	_	ADJA	_	_	_	_	_	_	I-CMPP	_	_	_	_
+72	frühsten	früh	_	NN	_	_	_	_	_	_	I-CMPP	_	_	_	_
 73	:	:	_	$.	_	_	_	_	_	_	_	_	_	_	_
 74	folglich	folglich	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 75	kann	können	_	VMFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -10039,7 +10039,7 @@
 39	erscheint	erscheinen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 40	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 41	wogegen	wogegen	_	PWAV	_	_	_	_	_	_	_	_	_	_	B-LK
-42	desselben	dieselbe	_	PDS	_	_	_	_	_	_	_	_	_	_	_
+42	desselben	dieselbe	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
 43	Gelehrten	Gelehrte	_	NN	_	_	_	_	_	_	_	_	_	_	_
 44	spätere	spät	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 45	mythische	mythisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
@@ -10048,10 +10048,10 @@
 48	Erzählung	Erzählung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 49	einen	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 50	immerhin	immerhin	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-51	würdigen	würdigen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	_
+51	würdigen	würdigen	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 52	Gedankeninhalt	Gedankeninhalt	_	NN	_	_	_	_	_	_	_	_	_	_	_
 53	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-54	derselben	dieselbe	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+54	derselben	dieselbe	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 55	findet	finden	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 56	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 57	Dennoch	dennoch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -10071,9 +10071,9 @@
 71	sie	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 72	gegen	gegen	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 73	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-74	spätere	spät	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+74	spätere	spät	_	NN	_	_	_	_	_	_	_	_	_	_	_
 75	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-76	mythische	mythisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+76	mythische	mythisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 77	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 78	Schutz	Schutz	_	NN	_	_	_	_	_	_	_	_	_	_	_
 79	:	:	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -10135,9 +10135,9 @@
 6	der	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 7	Bibel	Bibel	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 8	Mythus	Mythos	_	NN	_	_	_	_	_	_	I-RELC	Mythos	replace	*	_
-9	u.	u.	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-10	s.	s.	_	VVIMP	_	_	_	_	_	_	I-RELC	_	_	_	_
-11	f.	F.	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+9	u.	u.	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
+10	s.	s.	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
+11	f.	F.	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 12	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 13	und	und	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
 14	was	was	_	PWS	_	_	_	_	_	_	I-RELC	_	_	_	B-LK
@@ -10217,7 +10217,7 @@
 20	es	es	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 21	war	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 22	ihm	er	_	PPER	_	_	_	_	_	_	_	_	_	_	_
-23	begegnet	begegnen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+23	begegnet	begegnen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 24	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 25	fast	fast	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 26	mit	mit	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -10227,7 +10227,7 @@
 30	den	die	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 31	er	er	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 32	auf	auf	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-33	diese	diese	_	PDAT	_	_	_	_	_	_	I-RELC	_	_	_	_
+33	diese	diese	_	PDS	_	_	_	_	_	_	I-RELC	_	_	_	_
 34	führen	führen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 35	wollte	wollen	_	VMFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 36	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -10254,7 +10254,7 @@
 8	dunkle	dunkel	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 9	Stellen	Stelle	_	NN	_	_	_	_	_	_	_	_	_	_	_
 10	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-11	N.	N.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+11	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 12	T.s	T.s	_	NE	_	_	_	_	_	_	_	_	_	_	_
 13	aufzuklären	aufklären	_	VVIZU	_	_	_	_	_	_	_	_	_	_	B-RK
 14	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -10272,7 +10272,7 @@
 26	Thatsachen	Tatsache	_	NN	_	_	_	_	_	_	_	Tatsachen	replace	*	_
 27	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 28	ihrer	ihr	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
-29	verständigen	verständigen	_	VVINF	_	_	_	_	_	_	_	_	_	_	_
+29	verständigen	verständigen	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 30	Absicht	Absicht	_	NN	_	_	_	_	_	_	_	_	_	_	_
 31	nachtheiliger	nachteilig	_	ADJD	_	_	_	_	_	B-Antec-1	_	nachteiliger	replace	*	_
 32	sein	sein	_	VAINF	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -10332,7 +10332,7 @@
 86	Dichtung	Dichtung	_	NN	_	_	_	_	_	_	I-CMPP	_	_	_	_
 87	erkennend	erkennen	_	VVPP	_	_	_	_	_	_	I-CMPP	_	_	_	_
 88	und	und	_	KON	_	_	_	_	_	_	I-CMPP	_	_	_	_
-89	aufdeckend	aufdeckend	_	ADJD	_	_	_	_	_	_	I-CMPP	_	_	_	_
+89	aufdeckend	aufdeckend	_	VVPP	_	_	_	_	_	_	I-CMPP	_	_	_	_
 90	)	)	_	$(	_	_	_	_	_	_	I-CMPP	_	_	_	_
 91	der	d	_	ART	_	_	_	_	_	_	I-CMPP	_	_	_	_
 92	Geschichtserzählung	Geschichteserzählung	_	NN	_	_	_	_	_	_	I-CMPP	_	_	_	_
@@ -10348,7 +10348,7 @@
 4	die	die	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 5	sich	sich	_	PRF	_	_	_	_	_	_	I-RELC	_	_	_	_
 6	als	als	_	KOKOM	_	_	_	_	_	_	I-RELC	_	_	_	_
-7	solche	solch	_	PIAT	_	_	_	_	_	_	I-RELC	_	_	_	_
+7	solche	solch	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 8	wohl	wohl	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 9	noch	noch	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 10	retten	retten	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
@@ -10397,7 +10397,7 @@
 53	sondern	sondern	_	KON	_	_	_	_	_	_	_	_	_	_	_
 54	mit	mit	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 55	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-56	natürlichen	natürlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+56	natürlichen	natürlich	_	NN	_	_	_	_	_	_	_	_	_	_	_
 57	identisch	identisch	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 58	ist	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 59	)	)	_	$(	_	_	_	_	_	_	_	_	_	_	_
@@ -10546,7 +10546,7 @@
 # sent_id = 148
 # sent_id(TSV) = 148
 # text = Ebendamit fällt das Andere , was Dr. Paulus hinzusezt , es sei nicht begreiflich , wie es dem Pauliner Lukas möglich gewesen wäre , Mythisches in sein Evangelium aufzunehmen , da gerade sein Lehrer Paulus so oft und stark gegen judaisirende Mythen eifere ( 1. Tim. 1 , 4. 4 , 7. Tit. 1 , 14. ) .
-1	Ebendamit	Ebendamit	_	NE	_	_	_	_	_	_	_	_	_	_	_
+1	Ebendamit	Ebendamit	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 2	fällt	fällen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 3	das	d	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 4	Andere	andere	_	PIS	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
@@ -10564,13 +10564,13 @@
 16	wie	wie	_	PWAV	_	_	_	_	_	_	_	_	_	_	B-LK
 17	es	es	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 18	dem	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-19	Pauliner	Bauliner	_	NN	_	_	_	_	_	_	_	Bauliner	replace	*	_
+19	Pauliner	Bauliner	_	ADJA	_	_	_	_	_	_	_	Bauliner	replace	*	_
 20	Lukas	Lukas	_	NE	_	_	_	_	_	_	_	_	_	_	_
 21	möglich	möglich	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 22	gewesen	sein	_	VAPP	_	_	_	_	_	_	_	_	_	_	B-RK
 23	wäre	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 24	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-25	Mythisches	mythisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+25	Mythisches	mythisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 26	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 27	sein	sein	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 28	Evangelium	Evangelium	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -10590,18 +10590,18 @@
 42	Mythen	Mythe	_	NN	_	_	_	_	_	_	_	_	_	_	_
 43	eifere	eifern	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 44	(	(	_	$(	_	_	_	_	_	_	_	_	_	_	_
-45	1.	1.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
-46	Tim.	Tim.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+45	1.	1.	_	CARD	_	_	_	_	_	_	_	_	_	_	_
+46	Tim.	Tim.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 47	1	1	_	CARD	_	_	_	_	_	_	_	_	_	_	_
 48	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-49	4.	4.	_	ADV	_	_	_	_	_	_	_	_	_	_	_
+49	4.	4.	_	CARD	_	_	_	_	_	_	_	_	_	_	_
 50	4	4	_	CARD	_	_	_	_	_	_	_	_	_	_	_
 51	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-52	7.	7.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
-53	Tit.	Tit.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+52	7.	7.	_	CARD	_	_	_	_	_	_	_	_	_	_	_
+53	Tit.	Tit.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 54	1	1	_	CARD	_	_	_	_	_	_	_	_	_	_	_
 55	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-56	14.	14.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+56	14.	14.	_	CARD	_	_	_	_	_	_	_	_	_	_	_
 57	)	)	_	$(	_	_	_	_	_	_	_	_	_	_	_
 58	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
@@ -10683,7 +10683,7 @@
 73	aber	aber	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 74	konnte	können	_	VMFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 75	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-76	Lukas	Lukas	_	NN	_	_	_	_	_	_	_	_	_	_	_
+76	Lukas	Lukas	_	NE	_	_	_	_	_	_	_	_	_	_	_
 77	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 78	paulinische	paulinisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 79	Abneigung	Abneigung	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -10719,7 +10719,7 @@
 8	Bezug	Bezug	_	NN	_	_	_	_	_	_	_	_	_	_	_
 9	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 10	das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-11	N.	N.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+11	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 12	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 13	nur	nur	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 14	eine	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -10732,7 +10732,7 @@
 21	welche	welche	_	PRELS	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
 22	also	also	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 23	auch	auch	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
-24	Lukas	Lukas	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+24	Lukas	Lukas	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 25	bei	bei	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 26	der	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 27	Aufnahme	Aufnahme	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -10753,9 +10753,9 @@
 42	Voraussetzung	Voraussetzung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 43	durch	durch	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 44	eine	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
-45	andre	ander	_	ADJA	_	_	_	_	_	_	_	andere	replace	*	_
+45	andre	ander	_	PIS	_	_	_	_	_	_	_	andere	replace	*	_
 46	noch	noch	_	KON	_	_	_	_	_	_	_	_	_	_	_
-47	verkehrtere	verkehrt	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+47	verkehrtere	verkehrt	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 48	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 151
@@ -10767,7 +10767,7 @@
 4	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 5	Anfänge	Anfang	_	NN	_	_	_	_	_	_	_	_	_	_	_
 6	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-7	N.	N.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+7	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 8	T.lichen	t.lichen	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 9	Geschichte	Geschichte	_	NN	_	_	_	_	_	_	_	_	_	_	_
 10	angewendet	anwenden	_	VVPP	_	_	_	_	_	_	_	_	_	_	_
@@ -10786,7 +10786,7 @@
 23	Bedeutung	Bedeutung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 24	einer	eine	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 25	Einkleidung	Einkleidung	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
-26	haben	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+26	haben	haben	_	VAINF	_	_	_	_	_	_	_	_	_	_	B-RK
 27	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 28	in	in	_	APPR	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 29	welche	welche	_	PRELS	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
@@ -10846,7 +10846,7 @@
 14	von	von	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 15	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 16	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
-17	lichen	Lichen	_	NN	_	_	_	_	_	_	_	Lichen	replace	*	_
+17	lichen	Lichen	_	ADJA	_	_	_	_	_	_	_	Lichen	replace	*	_
 18	Mythen	Mythe	_	NN	_	_	_	_	_	_	_	_	_	_	_
 19	zum	zum	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 20	Grunde	Grund	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -10880,7 +10880,7 @@
 48	heiligen	heilig	_	ADJA	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 49	Geschichte	Geschichte	_	NN	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 50	gehandelt	handeln	_	VVPP	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	B-RK
-51	haben	haben	_	VAINF	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	I-RK
+51	haben	haben	_	VAFIN	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	I-RK
 52	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 53	ausdrücklich	ausdrücklich	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
 54	ausgeschlossen	ausschließen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
@@ -10932,14 +10932,14 @@
 39	wogegen	wogegen	_	PWAV	_	_	_	_	_	_	_	_	_	_	B-LK
 40	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 41	im	im	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
-42	N.	N.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+42	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 43	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 44	angenommenen	angenehmen	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 45	Mythen	Mythe	_	NN	_	_	_	_	_	_	_	_	_	_	_
 46	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 47	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 48	vergangne	vergangen	_	ADJA	_	_	_	_	_	_	_	vergangene	replace	*	_
-49	Fakta	faken	_	VVFIN	_	_	_	_	_	_	_	Fakte	replace	*	_
+49	Fakta	faken	_	NN	_	_	_	_	_	_	_	Fakte	replace	*	_
 50	zurückgetragne	zurückgetragen	_	ADJA	_	_	_	_	_	_	_	zurückgetragene	replace	*	_
 51	Meinung	Meinung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 52	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -10994,8 +10994,8 @@
 32	Götter	Gott	_	NN	_	_	_	_	_	I-Antec	_	_	_	_	_
 33	im	im	_	APPRART	_	_	_	_	_	I-Antec	_	_	_	_	_
 34	Traum	Traum	_	NN	_	_	_	_	_	I-Antec	_	_	_	_	_
-35	u.	u.	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-36	dgl.	Dgl.	_	NE	_	_	_	_	_	_	_	_	_	_	_
+35	u.	u.	_	KON	_	_	_	_	_	_	_	_	_	_	_
+36	dgl.	Dgl.	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 37	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 38	was	was	_	PRELS	_	_	_	_	_	_	B-RELC-ambig-1	_	_	_	B-LK
 39	nur	nur	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -11023,9 +11023,9 @@
 61	vom	vom	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 62	trojischen	trojischen	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 63	Krieg	Krieg	_	NN	_	_	_	_	_	_	_	_	_	_	_
-64	u.	u.	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-65	s.	s.	_	VVIMP	_	_	_	_	_	_	_	_	_	_	_
-66	f.	F.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+64	u.	u.	_	KON	_	_	_	_	_	_	_	_	_	_	_
+65	s.	s.	_	ADV	_	_	_	_	_	_	_	_	_	_	_
+66	f.	F.	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 67	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 68	würde	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 69	ihm	er	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -11071,12 +11071,12 @@
 109	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 110	wer	wer	_	PWS	_	_	_	_	_	_	_	_	_	_	B-LK
 111	im	im	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
-112	N.	N.	_	NN	_	_	_	_	_	_	_	_	_	_	_
+112	N.	N.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 113	T.	T.	_	NE	_	_	_	_	_	_	_	_	_	_	_
 114	Mythen	Mythe	_	NN	_	_	_	_	_	_	_	_	_	_	_
 115	anerkennt	anerkennen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 116	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 117	mit	mit	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-118	diesen	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+118	diesen	diese	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 119	verfährt	verfahren	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 120	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_

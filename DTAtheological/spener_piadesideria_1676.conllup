@@ -4491,8 +4491,8 @@
 44	fragen	fragen	_	NN	_	_	_	_	_	_	_	_	_	_	_
 45	auff	auf	_	PTKVZ	_	_	_	_	_	_	_	auf	replace	*	B-RK
 46	/	/	_	$(	_	_	_	_	_	_	_	_	_	_	_
-47	mehr	mehr	_	ADV	_	_	_	_	_	B-Antec-3	B-CMPP-extrap-3	_	_	_	_
-48	dañ	dann	_	ADV	_	_	_	_	_	_	I-CMPP	dann	replace	*	_
+47	mehr	mehr	_	ADV	_	_	_	_	_	B-Antec-3	_	_	_	_	_
+48	dañ	dann	_	ADV	_	_	_	_	_	_	B-CMPP-extrap-3	dann	replace	*	_
 49	beſſerung	Besserung	_	NN	_	_	_	_	_	_	I-CMPP	Besserung	replace	*	_
 50	zu	zu	_	APPR	_	_	_	_	_	_	I-CMPP	_	_	_	_
 51	GOtt	Gott	_	NN	_	_	_	_	_	_	I-CMPP	Gott	replace	*	_
