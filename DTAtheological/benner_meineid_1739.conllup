@@ -3078,10 +3078,10 @@
 9	Gericht	Gericht	_	NN	_	_	_	_	_	_	_	_	_	_	_
 10	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 11	ſowol	sowohl	_	KON	_	_	_	_	_	_	_	sowohl	replace	*	_
-12	das	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-13	Recht	Recht	_	NN	_	_	_	_	_	_	_	_	_	_	_
-14	einer	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
-15	Parthie	Partie	_	NN	_	_	_	_	_	_	_	Partie	replace	*	_
+12	das	d	_	ART	_	_	_	_	_	_	B-NP-insitu	_	_	_	_
+13	Recht	Recht	_	NN	_	_	_	_	_	_	I-NP	_	_	_	_
+14	einer	eine	_	ART	_	_	_	_	_	_	I-NP	_	_	_	_
+15	Parthie	Partie	_	NN	_	_	_	_	_	_	I-NP	Partie	replace	*	_
 16	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 17	als	als	_	KOUS	_	_	_	_	_	_	_	_	_	_	_
 18	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -3492,8 +3492,8 @@
 8	iſt	sein	_	VAFIN	_	_	_	_	_	_	_	ist	replace	*	B-RK
 9	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 10	muß	müssen	_	VMFIN	_	_	_	_	_	_	_	_	_	_	B-LK
-11	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-12	Suͤnder	Sünder	_	NN	_	_	_	_	_	_	_	Sünder	replace	*	_
+11	den	d	_	ART	_	_	_	_	_	_	B-NP-insitu	_	_	_	_
+12	Suͤnder	Sünder	_	NN	_	_	_	_	_	_	I-NP	Sünder	replace	*	_
 13	antreiben	antreiben	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 14	zu	zu	_	PTKZU	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
 15	moͤglichſter	möglichst	_	ADJA	_	_	_	_	_	_	I-PP	möglichster	replace	*	_
