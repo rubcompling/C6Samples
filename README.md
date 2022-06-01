@@ -40,6 +40,7 @@ To date, POS tags are manually corrected for the following texts:
 - braeuner_pest_1714
 - carus_gynaekologie02_1820_1
 - gall_untersuchungen_1791_1
+- ludwig_physiologie02_1856
 - purmann_feldscher_1680
 - reil_curmethode_1803
 - unzer_gedanken_1746
@@ -49,6 +50,7 @@ To date, POS tags are manually corrected for the following texts:
 - benner_meineid_1739
 - dilger_arndes_1620_1
 - hanssen_grundfragen_1731
+- loehe_evangelium_1847
 - nividandts_schwerd_1708
 - pahl_simpertus_1799
 - rotth_bedencken_1692
