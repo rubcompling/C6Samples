@@ -64,7 +64,7 @@ In addition, the sentences are manually annotated with the following linguistic 
 Label | Element | Annotation
 :---: | :------ | :---------
 NP  | noun phrase | Every extraposed `NP` + one comparable in-situ `NP` with the same length
-PP  | prepositional phrase | Every extraposed `PP` + one comparable in-situ `PP` with the same pronoun and length
+PP  | prepositional phrase | Every extraposed `PP` + one comparable in-situ `PP` with the same length and preposition
 AP  | adjective phrase | Every extraposed `AP` + one comparable in-situ `AP` with the same length
 ADVP | adverb phrase | Every extraposed `ADVP` + one comparable in-situ `ADVP` with the same length
 CMPP | comparative element | All comparative elements with adjectival antecedent (in comparative or superlative)
