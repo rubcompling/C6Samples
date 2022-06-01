@@ -61,9 +61,9 @@
 5	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 6	Vieles	vieles	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 7	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-8	Herrliches	herrlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+8	Herrliches	herrlich	_	NN	_	_	_	_	_	_	_	_	_	_	_
 9	von	von	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-10	dem	d	_	ART	_	_	_	_	_	B-Antec-1-Head	_	_	_	_	_
+10	dem	d	_	PDS	_	_	_	_	_	B-Antec-1-Head	_	_	_	_	_
 11	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 12	was	was	_	PRELS	_	_	_	_	_	_	B-RELC-ambig-1	_	_	_	B-LK
 13	wir	wir	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -73,7 +73,7 @@
 17	Mission	Mission	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 18	zu	zu	_	PTKZU	_	_	_	_	_	_	I-RELC	_	_	_	_
 19	bezeichnen	bezeichnen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	_
-20	pflegen	pflegen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+20	pflegen	pflegen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 21	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 22	daß	daß	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 23	man	man	_	PIS	_	_	_	_	_	_	_	_	_	_	_
@@ -87,7 +87,7 @@
 31	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 32	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 33	wie	wie	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
-34	einem	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
+34	einem	eine	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 35	nur	nur	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 36	erst	erst	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 37	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -115,7 +115,7 @@
 13	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 14	sich	sich	_	PRF	_	_	_	_	_	_	I-RELC	_	_	_	_
 15	daraus	daraus	_	PAV	_	_	_	_	_	_	I-RELC	_	_	_	_
-16	beziehen	beziehen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+16	beziehen	beziehen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 17	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 18	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 19	würden	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -151,11 +151,11 @@
 49	zu	zu	_	PTKA	_	_	_	_	_	_	_	_	_	_	_
 50	gering	gering	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 51	geachtet	achten	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
-52	haben	haben	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
+52	haben	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 53	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 54	von	von	_	APPR	_	_	_	_	_	_	B-RELC-extrap-3	_	_	_	B-LK
 55	welcher	welcher	_	PWAT	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
-56	Gottes	Gott	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+56	Gottes	Gott	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 57	Wort	Wort	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 58	so	so	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 59	Vieles	vieles	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -196,13 +196,13 @@
 27	dem	die	_	PRELS	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
 28	alle	alle	_	PIAT	_	_	_	_	_	_	I-RELC	_	_	_	_
 29	Strahlen	Strahl	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-30	auslaufen	auslaufen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	_
+30	auslaufen	auslaufen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	_
 31	und	und	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
 32	zu	zu	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 33	dem	die	_	PRELS	_	_	_	_	_	_	I-RELC	_	_	_	_
 34	sie	sie	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 35	wieder	wieder	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
-36	heimkommen	heimkommen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+36	heimkommen	heimkommen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 37	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 38	–	-	_	$(	_	_	_	_	_	_	_	-	replace	*	_
 39	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
@@ -224,7 +224,7 @@
 55	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 56	Geschichte	Geschichte	_	NN	_	_	_	_	_	_	_	_	_	_	_
 57	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-58	Reiches	Reich	_	NN	_	_	_	_	_	_	_	_	_	_	_
+58	Reiches	Reich	_	NE	_	_	_	_	_	_	_	_	_	_	_
 59	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
 60	im	im	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 61	Neuen	neu	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
@@ -234,7 +234,7 @@
 # sent_id = 5
 # sent_id(TSV) = 5
 # text = Dies kurze Wort , das in keinen Mund paßt , als in den Mund dessen , dem alle Gewalt gegeben ist im Himmel und auf Erden , dieser mächtige Befehl über alle Creatur , dieser reiche Segen über alle Creatur – sei nun bei dem , was ich sagen möchte , meine Sonne , die mich erleuchtet , – sei , bitt ich Gott , der zusammenfassende , göttliche Ausdruck für alle meine Deutung und am Ende der Gesammteindruck , welchen die Beantwortung der folgenden Fragen auf euch machen möchte .
-1	Dies	diese	_	PDS	_	_	_	_	_	B-Antec-1	_	_	_	_	_
+1	Dies	diese	_	PDAT	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 2	kurze	kurz	_	ADJA	_	_	_	_	_	I-Antec	_	_	_	_	_
 3	Wort	Wort	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 4	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -278,7 +278,7 @@
 42	sei	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 43	nun	nun	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 44	bei	bei	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-45	dem	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
+45	dem	d	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 46	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 47	was	was	_	PRELS	_	_	_	_	_	_	_	_	_	_	B-LK
 48	ich	ich	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -290,14 +290,14 @@
 54	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 55	die	die	_	PRELS	_	_	_	_	_	_	B-RELC-ambig-4	_	_	_	B-LK
 56	mich	ich	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
-57	erleuchtet	erleuchten	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+57	erleuchtet	erleuchten	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 58	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 59	–	-	_	$(	_	_	_	_	_	_	_	-	replace	*	_
 60	sei	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 61	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 62	bitt	bitten	_	VVFIN	_	_	_	_	_	_	_	bitte	replace	*	B-LK
 63	ich	ich	_	PPER	_	_	_	_	_	_	_	_	_	_	_
-64	Gott	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+64	Gott	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 65	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 66	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 67	zusammenfassende	zusammenfaßend	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
@@ -386,7 +386,7 @@
 55	er	er	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 56	unsre	unsere	_	PPOSAT	_	_	_	_	_	_	_	unsere	replace	*	_
 57	Geister	Geist	_	NN	_	_	_	_	_	_	_	_	_	_	_
-58	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	B-RK
+58	auf	auf	_	PTKVZ	_	_	_	_	_	_	_	_	_	_	B-RK
 59	unter	unter	_	APPR	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
 60	die	d	_	ART	_	_	_	_	_	_	I-PP	_	_	_	_
 61	Geister	Geist	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
@@ -411,7 +411,7 @@
 80	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 81	entschlafene	entschlafen	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 82	Menschheit	Menschheit	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-83	grünen	grün	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+83	grünen	grün	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 84	wird	werden	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 85	wie	wie	_	KOKOM	_	_	_	_	_	_	I-RELC|B-CMPP-extrap-2	_	_	_	_
 86	das	d	_	ART	_	_	_	_	_	_	I-RELC|I-CMPP	_	_	_	_
@@ -450,7 +450,7 @@
 17	seiner	seine	_	PPOSAT	_	_	_	_	_	_	I-RELC	_	_	_	_
 18	Treue	Treue	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 19	nichts	nichts	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
-20	erfahren	erfahren	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+20	erfahren	erfahren	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 21	!	!	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 8
@@ -473,7 +473,7 @@
 15	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 16	laß	lassen	_	VVIMP	_	_	_	_	_	_	_	_	_	_	B-LK
 17	sie	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
-18	weise	weisen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	_
+18	weise	weisen	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 19	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 20	klug	klug	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 21	sein	sein	_	VAINF	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -505,7 +505,7 @@
 47	treu	treu	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 48	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	B-RK
 49	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-50	denke	denken	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
+50	denke	denken	_	VVIMP	_	_	_	_	_	_	_	_	_	_	B-LK
 51	dir	du	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 52	es	es	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 53	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -546,13 +546,13 @@
 27	Christenheit	Christenheit	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 28	auch	auch	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 29	der	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-30	Aermste	arm	_	ADJA	_	_	_	_	_	_	I-RELC	Ärmste	replace	*	_
+30	Aermste	arm	_	NN	_	_	_	_	_	_	I-RELC	Ärmste	replace	*	_
 31	genießt	genießen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 32	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 33	keiner	keine	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
-34	einzigen	einzig	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+34	einzigen	einzig	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 35	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
-36	erfreuen	erfreuen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+36	erfreuen	erfreuen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 37	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 10
@@ -588,7 +588,7 @@
 28	Weg	Weg	_	NN	_	_	_	_	_	_	_	_	_	_	_
 29	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 30	kein	keine	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
-31	h.	h.	_	VVFIN	_	_	_	_	_	_	_	_	_	_	_
+31	h.	h.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 32	Mahl	Mal	_	NN	_	_	_	_	_	_	_	Mal	replace	*	_
 33	speist	speisen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 34	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	I-LK
@@ -735,11 +735,11 @@
 39	ist	sein	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 40	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 41	ertragen	ertragen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
-42	können	können	_	VMINF	_	_	_	_	_	_	_	_	_	_	I-RK
+42	können	können	_	VMFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 43	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 44	ohne	ohne	_	KOUI	_	_	_	_	_	_	_	_	_	_	_
 45	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
-46	versinken	versinken	_	VVFIN	_	_	_	_	_	_	_	_	_	_	I-RK
+46	versinken	versinken	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
 47	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 13
@@ -853,7 +853,7 @@
 58	Blut	Blut	_	NN	_	_	_	_	_	_	I-NP	_	_	_	_
 59	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 60	geben	geben	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-LK
-61	dürfen	dürfen	_	VMINF	_	_	_	_	_	_	_	_	_	_	B-RK
+61	dürfen	dürfen	_	VMFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 62	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 63	was	was	_	PWS	_	_	_	_	_	_	_	_	_	_	B-LK
 64	wir	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -866,12 +866,12 @@
 71	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 72	Wohlgefallens	Wohlgefallen	_	NN	_	_	_	_	_	_	_	_	_	_	_
 73	an	an	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-74	dem	d	_	ART	_	_	_	_	_	B-Antec-2-Head	_	_	_	_	_
+74	dem	d	_	PDS	_	_	_	_	_	B-Antec-2-Head	_	_	_	_	_
 75	hätten	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 76	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 77	was	was	_	PWS	_	_	_	_	_	_	B-RELC-ambig-2	_	_	_	B-LK
 78	wir	wir	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
-79	wünschen	wünschen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+79	wünschen	wünschen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 80	und	und	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 81	wollen	wollen	_	VMFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 82	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -962,14 +962,14 @@
 62	ersehntesten	ersehnt	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 63	Eigenschaft	Eigenschaft	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 64	in	in	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-65	Gottes	Gott	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+65	Gottes	Gott	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 66	Herzen	Herz	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 67	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 16
 # sent_id(TSV) = 16
 # text = Dies Gesetz verhält sich zu dem großen , uralten und doch immer neuen Gebote der Liebe , welches der Herr in der Nacht , da er verrathen war , feierlich wiederholt hat , wie zum Feuer das Licht und zum Glanze der Abglanz , – es ist eine erweiternde Deutung jenes Liebesgebotes , die schönste Verklärung der Bruderliebe zur allgemeinen Liebe , darum daß es alle Menschen zu Jesu Brüdern und Gottes Kindern machen will .
-1	Dies	diese	_	PDS	_	_	_	_	_	_	_	_	_	_	_
+1	Dies	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
 2	Gesetz	Gesetz	_	NN	_	_	_	_	_	_	_	_	_	_	_
 3	verhält	verhalten	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 4	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
@@ -1040,7 +1040,7 @@
 69	Jesu	Jesu	_	NE	_	_	_	_	_	_	_	_	_	_	_
 70	Brüdern	Bruder	_	NN	_	_	_	_	_	_	_	_	_	_	_
 71	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-72	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+72	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 73	Kindern	Kind	_	NN	_	_	_	_	_	_	_	_	_	_	_
 74	machen	machen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 75	will	wollen	_	VMFIN	_	_	_	_	_	_	_	_	_	_	I-RK
@@ -1049,7 +1049,7 @@
 # sent_id = 17
 # sent_id(TSV) = 17
 # text = Dies Gesetz hat der hochgelobte Herr gesprochen vor seinem letzten Segen , ehe er auffuhr zum Throne seines Vaters , in dem herrlichsten Augenblick , den die Erde bis jetzt gehabt hat : – es ist der letzte , majestätisch erklärte Wille dessen , der wieder kommen und nach dem Gehorsam forschen wird .
-1	Dies	diese	_	PDS	_	_	_	_	_	_	_	_	_	_	_
+1	Dies	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
 2	Gesetz	Gesetz	_	NN	_	_	_	_	_	_	_	_	_	_	_
 3	hat	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 4	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -1089,7 +1089,7 @@
 38	letzte	letzte	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 39	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 40	majestätisch	majestätisch	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
-41	erklärte	erklären	_	VVFIN	_	_	_	_	_	_	_	_	_	_	_
+41	erklärte	erklären	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 42	Wille	Wille	_	NN	_	_	_	_	_	_	_	_	_	_	_
 43	dessen	die	_	PDS	_	_	_	_	_	B-Antec-2-Head	_	_	_	_	_
 44	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -1129,7 +1129,7 @@
 20	welches	welche	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 21	alle	alle	_	PIAT	_	_	_	_	_	_	I-RELC	_	_	_	_
 22	Kinder	Kind	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-23	Gottes	Gott	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+23	Gottes	Gott	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 24	treiben	treiben	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 25	soll	sollen	_	VMFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 26	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -1200,7 +1200,7 @@
 30	uns	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 31	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
 32	der	d	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
-33	willkommenste	willkommen	_	ADJA	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
+33	willkommenste	willkommen	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 34	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 35	welcher	welche	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 36	gegeben	geben	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
@@ -1249,9 +1249,9 @@
 29	Befehl	Befehl	_	NN	_	_	_	_	_	_	_	_	_	_	_
 30	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 31	je	je	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-32	herrlicher	herrlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+32	herrlicher	herrlich	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 33	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-34	heilsamer	heilsam	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+34	heilsamer	heilsam	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 35	er	er	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 36	ist	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 37	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -1312,7 +1312,7 @@
 # text = Seine Segenskräfte umgeben uns und keiner unter uns kann sagen , er könne nicht , wenn ihm der Herr befiehlt .
 1	Seine	seine	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 2	Segenskräfte	Segenskraft	_	NN	_	_	_	_	_	_	_	_	_	_	_
-3	umgeben	umgeben	_	VVPP	_	_	_	_	_	_	_	_	_	_	_
+3	umgeben	umgeben	_	VVFIN	_	_	_	_	_	_	_	_	_	_	_
 4	uns	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 5	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 6	keiner	keine	_	PIS	_	_	_	_	_	_	_	_	_	_	_
@@ -1340,7 +1340,7 @@
 3	nun	nun	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 4	seinen	seine	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 5	Befehl	Befehl	_	NN	_	_	_	_	_	_	_	_	_	_	_
-6	hören	hören	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+6	hören	hören	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 7	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 8	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 9	Heiden	Heide	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -1436,13 +1436,13 @@
 30	bis	bis	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 31	zu	zu	_	APPR	_	_	_	_	_	_	B-PP-insitu	_	_	_	_
 32	der	d	_	ART	_	_	_	_	_	B-Antec-1	I-PP	_	_	_	_
-33	Anfurt	anfahren	_	VVFIN	_	_	_	_	_	I-Antec-Head	I-PP	Anfuhrt	replace	*	_
+33	Anfurt	anfahren	_	NN	_	_	_	_	_	I-Antec-Head	I-PP	Anfuhrt	replace	*	_
 34	treiben	treiben	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 35	lassen	lassen	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
 36	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 37	der	die	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 38	wir	wir	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
-39	begehren	begehren	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+39	begehren	begehren	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 40	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 26
@@ -1503,13 +1503,13 @@
 5	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 6	bevor	bevor	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 7	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-8	letzte	letzte	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+8	letzte	letzte	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 9	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 10	Patriarchen	Patriarch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 11	zu	zu	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 12	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 13	Ruhe	Ruhe	_	NN	_	_	_	_	_	_	_	_	_	_	_
-14	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+14	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 15	eingegangen	eingehen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 16	war	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 17	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -1595,7 +1595,7 @@
 18	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 19	am	am	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 20	Throne	Thron	_	NN	_	_	_	_	_	_	_	_	_	_	_
-21	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+21	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 22	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 23	denen	die	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 24	das	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -1750,7 +1750,7 @@
 23	wir	wir	_	PPER	_	_	_	_	_	_	I-CMPP	_	_	_	_
 24	uns	uns	_	PRF	_	_	_	_	_	_	I-CMPP	_	_	_	_
 25	träumen	träumen	_	VVINF	_	_	_	_	_	_	I-CMPP	_	_	_	B-RK
-26	lassen	lassen	_	VVINF	_	_	_	_	_	_	I-CMPP	_	_	_	I-RK
+26	lassen	lassen	_	VVFIN	_	_	_	_	_	_	I-CMPP	_	_	_	I-RK
 27	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 33
@@ -1766,7 +1766,7 @@
 8	Confessionen	Konfession	_	NN	_	_	_	_	_	_	_	Konfessionen	replace	*	_
 9	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 10	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-11	römische	römisch	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+11	römische	römisch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 12	mit	mit	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 13	nichten	nichte	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 14	ausgeschlossen	ausschließen	_	VVPP	_	_	_	_	_	_	_	_	_	_	_
@@ -1816,7 +1816,7 @@
 # sent_id = 35
 # sent_id(TSV) = 35
 # text = Oder geht uns allein der letzte Befehl des Herrn nicht an , haben wir allein in unsrer Kirche eine Aufgabe empfangen , durch welche wir von dem Gehorsam befreit wären , den ihm alle Confessionen widmen ?
-1	Oder	Oder	_	NE	_	_	_	_	_	_	_	_	_	_	_
+1	Oder	Oder	_	KON	_	_	_	_	_	_	_	_	_	_	_
 2	geht	gehen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 3	uns	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 4	allein	allein	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -1851,7 +1851,7 @@
 33	ihm	er	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 34	alle	alle	_	PIAT	_	_	_	_	_	_	I-RELC	_	_	_	_
 35	Confessionen	Konfession	_	NN	_	_	_	_	_	_	I-RELC	Konfessionen	replace	*	_
-36	widmen	widmen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+36	widmen	widmen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 37	?	?	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 36
@@ -1868,14 +1868,14 @@
 9	ohne	ohne	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 10	Recht	Recht	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 11	–	-	_	$(	_	_	_	_	_	_	I-RELC	-	replace	*	_
-12	rühmen	rühmen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+12	rühmen	rühmen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 13	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 14	das	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 15	Evangelium	Evangelium	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 16	Christi	Christi	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
-17	reiner	rein	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+17	reiner	rein	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
 18	und	und	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
-19	völliger	völlig	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+19	völliger	völlig	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
 20	als	als	_	KOKOM	_	_	_	_	_	_	I-RELC	_	_	_	_
 21	andere	andere	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 22	zu	zu	_	PTKZU	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
@@ -1965,7 +1965,7 @@
 14	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 15	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
 16	daß	daß	_	KOUS	_	_	_	_	_	_	_	_	_	_	_
-17	alle	alle	_	PIS	_	_	_	_	_	_	_	_	_	_	_
+17	alle	alle	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 18	seine	seine	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 19	Schafe	Schaf	_	NN	_	_	_	_	_	_	_	_	_	_	_
 20	zu	zu	_	APPR	_	_	_	_	_	_	B-PP-insitu	_	_	_	_
@@ -2012,7 +2012,7 @@
 33	noch	noch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 34	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 35	dazu	dazu	_	PAV	_	_	_	_	_	_	_	_	_	_	_
-36	geduldet	gedulden	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-LK
+36	geduldet	gedulden	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 37	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
 38	noch	noch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 39	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -2025,7 +2025,7 @@
 46	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 47	Bosheit	Bosheit	_	NN	_	_	_	_	_	_	_	_	_	_	_
 48	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-49	Boshaftigen	boshaft	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+49	Boshaftigen	boshaft	_	NN	_	_	_	_	_	_	_	_	_	_	_
 50	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 51	dazu	dazu	_	PAV	_	_	_	_	_	_	_	_	_	_	_
 52	schiebt	schieben	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -2068,7 +2068,7 @@
 5	wohl	wohl	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 6	an	an	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 7	das	die	_	PDS	_	_	_	_	_	_	_	_	_	_	_
-8	erinnert	erinnern	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+8	erinnert	erinnern	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 9	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 10	was	was	_	PWS	_	_	_	_	_	_	_	_	_	_	B-LK
 11	uns	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -2089,7 +2089,7 @@
 26	gesagt	sagen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 27	wurde	werden	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 28	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-29	beurkundet	beurkunden	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-LK
+29	beurkundet	beurkunden	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 30	unsre	unsere	_	PPOSAT	_	_	_	_	_	_	_	unsere	replace	*	_
 31	Behauptung	Behauptung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 32	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -2131,7 +2131,7 @@
 23	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 24	welches	welche	_	PRELS	_	_	_	_	_	_	I-RELC|B-RELC-ambig-3	_	_	_	B-LK
 25	mit	mit	_	APPR	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
-26	dem	d	_	ART	_	_	_	_	_	B-Antec-4	I-RELC|I-RELC	_	_	_	_
+26	dem	d	_	PDS	_	_	_	_	_	B-Antec-4	I-RELC|I-RELC	_	_	_	_
 27	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 28	stimmte	stimmen	_	VVFIN	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	B-RK
 29	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -2195,7 +2195,7 @@
 48	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 49	die	d	_	ART	_	_	_	_	_	B-Antec-2	_	_	_	_	_
 50	Aufgabe	Aufgabe	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
-51	erkennen	erkennen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+51	erkennen	erkennen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 52	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 53	die	die	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-2	_	_	_	B-LK
 54	der	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -2206,7 +2206,7 @@
 59	gerecht	gerecht	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 60	seien	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 61	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	I-RK
-62	bleiben	bleiben	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
+62	bleiben	bleiben	_	VVFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 63	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 64	wenn	wenn	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 65	es	es	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -2232,7 +2232,7 @@
 # sent_id = 43
 # sent_id(TSV) = 43
 # text = Scheinen wir damit auf Geringeres einzugehen , als wir schon verhandelt haben , so scheint es doch nur so , und wir werden uns damit nur gürten , desto richtiger und mächtiger zu thun , was wir sollen , und dem Ziele , das uns aus diesem Wege heller und kenntlicher wird , sicherern Fußes und entschlosseneren , geduldigeren Muthes nachzueilen .
-1	Scheinen	Schein	_	NN	_	_	_	_	_	_	_	_	_	_	B-LK
+1	Scheinen	Schein	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 2	wir	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 3	damit	damit	_	PAV	_	_	_	_	_	_	_	_	_	_	_
 4	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -2243,7 +2243,7 @@
 9	wir	wir	_	PPER	_	_	_	_	_	_	I-CMPP	_	_	_	_
 10	schon	schon	_	ADV	_	_	_	_	_	_	I-CMPP	_	_	_	_
 11	verhandelt	verhandeln	_	VVPP	_	_	_	_	_	_	I-CMPP	_	_	_	B-RK
-12	haben	haben	_	VAINF	_	_	_	_	_	_	I-CMPP	_	_	_	I-RK
+12	haben	haben	_	VAFIN	_	_	_	_	_	_	I-CMPP	_	_	_	I-RK
 13	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 14	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 15	scheint	scheinen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -2261,9 +2261,9 @@
 27	gürten	gürten	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 28	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 29	desto	desto	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-30	richtiger	richtig	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+30	richtiger	richtig	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 31	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-32	mächtiger	mächtig	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+32	mächtiger	mächtig	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 33	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
 34	thun	tun	_	VVINF	_	_	_	_	_	_	_	tun	replace	*	I-RK
 35	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -2303,7 +2303,7 @@
 3	dürfen	dürfen	_	VMFIN	_	_	_	_	_	_	_	_	_	_	_
 4	wir	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 5	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
-6	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+6	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 7	Werk	Werk	_	NN	_	_	_	_	_	_	_	_	_	_	_
 8	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 9	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -2368,7 +2368,7 @@
 13	Arbeit	Arbeit	_	NN	_	_	_	_	_	_	_	_	_	_	_
 14	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 15	Knechte	Knecht	_	NN	_	_	_	_	_	_	_	_	_	_	_
-16	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+16	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 17	gebraucht	gebrauchen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-LK
 18	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 19	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -2383,10 +2383,10 @@
 28	doch	doch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 29	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 30	Arbeit	Arbeit	_	NN	_	_	_	_	_	_	_	_	_	_	_
-31	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+31	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 32	groß	groß	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 33	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-34	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
+34	die	d	_	PRELS	_	_	_	_	_	_	_	_	_	_	_
 35	seiner	seine	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 36	Knechte	Knecht	_	NN	_	_	_	_	_	_	_	_	_	_	_
 37	klein	klein	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
@@ -2399,13 +2399,13 @@
 44	das	die	_	PDS	_	_	_	_	_	B-Antec-1-Head	_	_	_	_	_
 45	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 46	was	was	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
-47	Gottes	Gott	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+47	Gottes	Gott	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 48	ist	sein	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 49	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 50	eben	eben	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 51	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 52	wenig	wenig	_	PIS	_	_	_	_	_	_	_	_	_	_	_
-53	verlangen	verlangen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+53	verlangen	verlangen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 54	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 55	als	als	_	KOUS	_	_	_	_	_	_	_	_	_	_	_
 56	man	man	_	PIS	_	_	_	_	_	_	_	_	_	_	_
@@ -2443,7 +2443,7 @@
 23	gläubig	gläubig	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 24	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 25	selig	selig	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
-26	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	B-RK
+26	werden	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 27	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 28	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 29	gebührt	gebühren	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -2499,19 +2499,19 @@
 30	er	er	_	PPER	_	_	_	_	_	_	I-ADVC	_	_	_	_
 31	ist	sein	_	VAFIN	_	_	_	_	_	_	I-ADVC-Head	_	_	_	B-LK
 32	ganz	ganz	_	ADV	_	_	_	_	_	_	I-ADVC	_	_	_	_
-33	derselbe	dieselbe	_	PDAT	_	_	_	_	_	_	I-ADVC	_	_	_	_
+33	derselbe	dieselbe	_	PDS	_	_	_	_	_	_	I-ADVC	_	_	_	_
 34	wie	wie	_	KOKOM	_	_	_	_	_	_	I-ADVC	_	_	_	_
 35	dann	dann	_	ADV	_	_	_	_	_	_	I-ADVC	_	_	_	_
 36	,	,	_	$,	_	_	_	_	_	_	I-ADVC	_	_	_	_
 37	wenn	wenn	_	KOUS	_	_	_	_	_	_	I-ADVC	_	_	_	B-LK
 38	ihn	er	_	PPER	_	_	_	_	_	_	I-ADVC	_	_	_	_
-39	Gott	Gott	_	NN	_	_	_	_	_	_	I-ADVC	_	_	_	_
+39	Gott	Gott	_	NE	_	_	_	_	_	_	I-ADVC	_	_	_	_
 40	segnet	segnen	_	VVFIN	_	_	_	_	_	_	I-ADVC	_	_	_	B-RK
 41	und	und	_	KON	_	_	_	_	_	_	I-ADVC	_	_	_	_
 42	die	d	_	ART	_	_	_	_	_	_	I-ADVC	_	_	_	_
 43	Menschen	Mensch	_	NN	_	_	_	_	_	_	I-ADVC	_	_	_	_
 44	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	I-ADVC	_	_	_	_
-45	widerstreben	widerstreben	_	VVINF	_	_	_	_	_	_	I-ADVC	_	_	_	B-RK
+45	widerstreben	widerstreben	_	VVFIN	_	_	_	_	_	_	I-ADVC	_	_	_	B-RK
 46	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 49
@@ -2520,7 +2520,7 @@
 1	Es	es	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 2	ist	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 3	dem	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-4	h.	h.	_	VVFIN	_	_	_	_	_	_	_	_	_	_	_
+4	h.	h.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 5	Timotheus	Timotheus	_	NE	_	_	_	_	_	_	_	_	_	_	_
 6	wohl	wohl	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 7	verheißen	verheißen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -2585,7 +2585,7 @@
 66	Dienst	Dienst	_	NN	_	_	_	_	_	_	_	_	_	_	_
 67	eines	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 68	Evangelisten	Evangelist	_	NN	_	_	_	_	_	_	_	_	_	_	_
-69	erfüllt	erfüllen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
+69	erfüllt	erfüllen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 70	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 50
@@ -2604,7 +2604,7 @@
 11	befiehlt	befehlen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 12	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 13	daß	daß	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
-14	die	d	_	ART	_	_	_	_	_	B-Antec-1-Head	_	_	_	_	_
+14	die	d	_	PDS	_	_	_	_	_	B-Antec-1-Head	_	_	_	_	_
 15	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 16	welche	welche	_	PWAT	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 17	Jünger	Jünger	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -2616,7 +2616,7 @@
 23	getauft	taufen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 24	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	I-RK
 25	gelehrt	lehren	_	VVPP	_	_	_	_	_	_	_	_	_	_	I-RK
-26	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
+26	werden	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 27	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 28	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
 29	halten	halten	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
@@ -2705,10 +2705,10 @@
 4	erkennt	erkennen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 5	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
 6	ein	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
-7	solcher	solch	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
+7	solcher	solch	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 8	nur	nur	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 9	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	_
-10	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+10	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 11	Werkzeug	Werkzeug	_	NN	_	_	_	_	_	_	_	_	_	_	_
 12	zu	zu	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 13	Predigt	Predigt	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -2743,7 +2743,7 @@
 # sent_id = 53
 # sent_id(TSV) = 53
 # text = Erkennen wir auch schon , daß zwischen den ersten Aposteln und Evangelisten einerseits und unsern heutigen Missionaren der große Unterschied ist , daß die Apostel allgemeine Lehrer aller Völker waren und in verschiedenen Landen wirkten , während sich unsre Missionare je nach ihrer Fähigkeit und Tüchtigkeit ein bestimmtes Land und eine bestimmte Gegend zum Ackerfeld erwählen , auf dem sie nicht bloß predigen und taufen , sondern auch hernachmals selbst Hirten und Lehrer sein wollen ; gestehen wir gleich gerne zu , daß die Ausdehnung der Arbeit auf alle Creaturen d. i. alle Heiden nicht unsre einzelnen Heidenprediger , sondern die ganze Kirche angeht ; so ist doch auch in einem und demselben Volke gar mancherlei Creatur des Herrn und es ist nicht so etwas Leichtes , den verschiedenen Menschen in einem Lande das Evangelium in der Weise zu predigen , die ihnen am segenbringendsten werden kann .
-1	Erkennen	Erkennen	_	NN	_	_	_	_	_	_	_	_	_	_	B-LK
+1	Erkennen	Erkennen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 2	wir	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 3	auch	auch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 4	schon	schon	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -2798,7 +2798,7 @@
 53	Gegend	Gegend	_	NN	_	_	_	_	_	_	_	_	_	_	_
 54	zum	zum	_	APPRART	_	_	_	_	_	_	_	_	_	_	_
 55	Ackerfeld	Ackerfeld	_	NN	_	_	_	_	_	B-Antec-1-Head	_	_	_	_	_
-56	erwählen	erwählen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+56	erwählen	erwählen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 57	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 58	auf	auf	_	APPR	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 59	dem	die	_	PRELS	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
@@ -2833,8 +2833,8 @@
 88	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 89	alle	alle	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 90	Creaturen	Kreatur	_	NN	_	_	_	_	_	_	_	Kreaturen	replace	*	_
-91	d.	d.	_	ART	_	_	_	_	_	_	_	_	_	_	_
-92	i.	I.	_	NE	_	_	_	_	_	_	_	_	_	_	_
+91	d.	d.	_	PDS	_	_	_	_	_	_	_	_	_	_	_
+92	i.	I.	_	VAFIN	_	_	_	_	_	_	_	_	_	_	_
 93	alle	alle	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 94	Heiden	Heide	_	NN	_	_	_	_	_	_	_	_	_	_	_
 95	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
@@ -2855,7 +2855,7 @@
 110	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 111	einem	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 112	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-113	demselben	demselben	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+113	demselben	demselben	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
 114	Volke	Volk	_	NN	_	_	_	_	_	_	_	_	_	_	_
 115	gar	gar	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 116	mancherlei	mancherlei	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
@@ -2868,7 +2868,7 @@
 123	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
 124	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 125	etwas	etwas	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-126	Leichtes	leicht	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+126	Leichtes	leicht	_	NN	_	_	_	_	_	_	_	_	_	_	_
 127	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 128	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 129	verschiedenen	verschieden	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
@@ -2887,7 +2887,7 @@
 142	die	die	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-2	_	_	_	B-LK
 143	ihnen	sie	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 144	am	am	_	APPRART	_	_	_	_	_	_	I-RELC	_	_	_	_
-145	segenbringendsten	segenbringend	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+145	segenbringendsten	segenbringend	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 146	werden	werden	_	VAINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 147	kann	können	_	VMFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 148	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -3018,7 +3018,7 @@
 5	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 6	eine	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 7	Kraft	Kraft	_	NN	_	_	_	_	_	_	_	_	_	_	_
-8	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+8	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 9	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 10	selig	selig	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 11	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
@@ -3033,7 +3033,7 @@
 20	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-ambig-1	_	_	_	B-LK
 21	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 22	Lüge	Lüge	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-23	vertreiben	vertreiben	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+23	vertreiben	vertreiben	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 24	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 25	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 26	Seelen	Seele	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -3062,14 +3062,14 @@
 8	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 9	Taufe	Taufe	_	NN	_	_	_	_	_	_	_	_	_	_	_
 10	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-11	dies	diese	_	PDS	_	_	_	_	_	_	_	_	_	_	_
-12	Bad	Bad	_	NE	_	_	_	_	_	_	_	_	_	_	_
+11	dies	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
+12	Bad	Bad	_	NN	_	_	_	_	_	_	_	_	_	_	_
 13	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 14	Wiedergeburt	Wiedergeburt	_	NN	_	_	_	_	_	_	_	_	_	_	_
 15	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 16	Erneuerung	Erneuerung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 17	des	d	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
-18	h.	h.	_	VVFIN	_	_	_	_	_	I-Antec	_	_	_	_	_
+18	h.	h.	_	ADJA	_	_	_	_	_	I-Antec	_	_	_	_	_
 19	Geistes	Geist	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 20	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 21	von	von	_	APPR	_	_	_	_	_	_	B-RELC-ambig-1	_	_	_	B-LK
@@ -3100,7 +3100,7 @@
 10	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 11	als	als	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 12	es	es	_	PPER	_	_	_	_	_	_	_	_	_	_	_
-13	irrsame	Irrsame	_	NN	_	_	_	_	_	_	_	Irrsame	replace	*	_
+13	irrsame	Irrsame	_	ADJA	_	_	_	_	_	_	_	Irrsame	replace	*	_
 14	Menschen	Mensch	_	NN	_	_	_	_	_	_	_	_	_	_	_
 15	vermögen	vermögen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 16	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -3111,7 +3111,7 @@
 21	sie	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 22	ihren	ihr	_	PPOSAT	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 23	Segen	Segen	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
-24	bringen	bringen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+24	bringen	bringen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 25	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 26	zu	zu	_	APPR	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 27	dem	die	_	PRELS	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
@@ -3169,14 +3169,14 @@
 44	der	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 45	evangelischen	evangelisch	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 46	Predigt	Predigt	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-47	erfahren	erfahren	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+47	erfahren	erfahren	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 48	und	und	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
 49	zum	zum	_	APPRART	_	_	_	_	_	_	I-RELC	_	_	_	_
 50	Theile	Teil	_	NN	_	_	_	_	_	_	I-RELC	Teile	replace	*	_
 51	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 52	Taufe	Taufe	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 53	empfangen	empfangen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
-54	haben	haben	_	VAINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
+54	haben	haben	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 55	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 61
@@ -3206,7 +3206,7 @@
 22	Evangeliums	Evangelium	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 23	anscheinend	anscheinend	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
 24	langsam	langsam	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
-25	vorwärtsschreiten	vorwärtsschreiten	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+25	vorwärtsschreiten	vorwärtsschreiten	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 26	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 62
@@ -3236,20 +3236,20 @@
 22	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	I-RELC	_	_	_	_
 23	sieglosen	sieglos	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 24	Kampf	Kampf	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-25	kämpfen	kämpfen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+25	kämpfen	kämpfen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 26	und	und	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
 27	ein	eine	_	ART	_	_	_	_	_	B-Antec-2	I-RELC	_	_	_	_
 28	Werk	Werk	_	NN	_	_	_	_	_	I-Antec-Head	I-RELC	_	_	_	_
 29	des	d	_	ART	_	_	_	_	_	I-Antec	I-RELC	_	_	_	_
-30	h.	h.	_	VVFIN	_	_	_	_	_	I-Antec	I-RELC	_	_	_	_
+30	h.	h.	_	ADJA	_	_	_	_	_	I-Antec	I-RELC	_	_	_	_
 31	Geistes	Geist	_	NN	_	_	_	_	_	I-Antec	I-RELC	_	_	_	_
 32	in	in	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 33	sich	sich	_	PRF	_	_	_	_	_	_	I-RELC	_	_	_	_
-34	verbergen	verbergen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+34	verbergen	verbergen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 35	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 36	das	die	_	PRELS	_	_	_	_	_	_	I-RELC|B-RELC-ambig-2	_	_	_	B-LK
 37	vor	vor	_	APPR	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
-38	Gott	Gott	_	NN	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
+38	Gott	Gott	_	NE	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 39	mehr	mehr	_	ADV	_	_	_	_	_	B-Antec-3	I-RELC|I-RELC	_	_	_	_
 40	leuchtet	leuchten	_	VVFIN	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	B-RK
 41	,	,	_	$,	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
@@ -3298,7 +3298,7 @@
 31	müssen	müssen	_	VMFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 32	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 33	um	um	_	KOUI	_	_	_	_	_	_	_	_	_	_	B-LK
-34	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+34	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 35	Thaten	Tat	_	NN	_	_	_	_	_	_	_	Taten	replace	*	_
 36	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 37	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -3349,7 +3349,7 @@
 82	wenn	wenn	_	KOUS	_	_	_	_	_	_	I-RELC	_	_	_	B-LK
 83	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	I-RELC	_	_	_	_
 84	des	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
-85	Heilands	heiland	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
+85	Heilands	heiland	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 86	Treue	Treue	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 87	und	und	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
 88	Langmuth	Langmut	_	NN	_	_	_	_	_	_	I-RELC	Langmut	replace	*	_
@@ -3457,7 +3457,7 @@
 10	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 11	daß	daß	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 12	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-13	Aeltesten	alt	_	ADJA	_	_	_	_	_	_	_	ältesten	replace	*	_
+13	Aeltesten	alt	_	NN	_	_	_	_	_	_	_	ältesten	replace	*	_
 14	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 15	daß	daß	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 16	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -3466,14 +3466,14 @@
 19	daß	daß	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 20	Evangelisten	Evangelist	_	NN	_	_	_	_	_	_	_	_	_	_	_
 21	gepredigt	predigen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
-22	haben	haben	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
+22	haben	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 23	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 24	aber	aber	_	KON	_	_	_	_	_	_	_	_	_	_	_
 25	wir	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 26	finden	finden	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 27	auch	auch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 28	ausdrücklich	ausdrücklich	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
-29	bezeugt	bezeugen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	_
+29	bezeugt	bezeugen	_	VVPP	_	_	_	_	_	_	_	_	_	_	_
 30	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 31	daß	daß	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 32	nach	nach	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -3494,7 +3494,7 @@
 47	zerstreuten	zerstreut	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 48	Christen	Christ	_	NN	_	_	_	_	_	_	_	_	_	_	_
 49	gepredigt	predigen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
-50	haben	haben	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
+50	haben	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 51	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 67
@@ -3527,7 +3527,7 @@
 25	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-ambig-2	_	_	_	B-LK
 26	mit	mit	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 27	Heiden	Heide	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-28	zusammentreffen	zusammentreffen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+28	zusammentreffen	zusammentreffen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 29	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 68
@@ -3559,7 +3559,7 @@
 24	anwesend	anwesend	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 25	sind	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 26	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-27	reisen	reisen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+27	reisen	reisen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 28	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 29	sollten	sollen	_	VMFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 30	sie	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -3588,8 +3588,8 @@
 53	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	B-RK
 54	soll	sollen	_	VMFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 55	von	von	_	APPR	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
-56	Gottes	Gott	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
-57	wegen	wegen	_	APPR	_	_	_	_	_	_	I-PP	_	_	_	_
+56	Gottes	Gott	_	NE	_	_	_	_	_	_	I-PP	_	_	_	_
+57	wegen	wegen	_	APPO	_	_	_	_	_	_	I-PP	_	_	_	_
 58	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 69
@@ -3625,7 +3625,7 @@
 28	Reisen	Reise	_	NN	_	_	_	_	_	_	_	_	_	_	_
 29	etwas	etwas	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 30	viel	viel	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
-31	leichteres	leicht	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+31	leichteres	leicht	_	NN	_	_	_	_	_	_	_	_	_	_	_
 32	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 33	als	als	_	KOKOM	_	_	_	_	_	_	_	_	_	_	B-LK
 34	ehedem	ehedem	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -3648,7 +3648,7 @@
 51	Gebot	Gebot	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 52	des	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 53	Herrn	Herr	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-54	reisen	reisen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+54	reisen	reisen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 55	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 56	thäten	tun	_	VVFIN	_	_	_	_	_	_	_	täten	replace	*	B-RK
 57	was	was	_	PWS	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -3660,7 +3660,7 @@
 63	anders	anders	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 64	würde	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 65	es	es	_	PPER	_	_	_	_	_	_	_	_	_	_	_
-66	stehen	stehen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+66	stehen	stehen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 67	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 70
@@ -3737,7 +3737,7 @@
 37	Völker	Volk	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 38	so	so	_	ADV	_	_	_	_	_	_	I-RELC	_	_	_	_
 39	weit	weit	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
-40	überragen	überragen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+40	überragen	überragen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 41	?	?	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 72
@@ -3775,18 +3775,18 @@
 30	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 31	fernsten	fern	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 32	Küsten	Küste	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-33	betreten	betreten	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+33	betreten	betreten	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 34	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 35	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 36	gar	gar	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 37	ihres	ihr	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 38	Berufes	Beruf	_	NN	_	_	_	_	_	_	_	_	_	_	_
-39	vergessen	vergessen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
+39	vergessen	vergessen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 40	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 41	aller	alle	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 42	Creatur	Kreatur	_	NN	_	_	_	_	_	_	_	Kreatur	replace	*	_
 43	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
-44	predigen	predigen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	I-RK
+44	predigen	predigen	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
 45	?	?	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 73
@@ -3814,13 +3814,13 @@
 20	die	die	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 21	Christum	Christus	_	NE	_	_	_	_	_	_	I-RELC	Christus	replace	*	_
 22	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	I-RELC	_	_	_	_
-23	kennen	kennen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+23	kennen	kennen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 24	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 25	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-26	besseren	gut	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+26	besseren	gut	_	NN	_	_	_	_	_	_	_	_	_	_	_
 27	unter	unter	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 28	ihnen	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
-29	seufzen	seufzen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+29	seufzen	seufzen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 30	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 31	daß	daß	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 32	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -3829,7 +3829,7 @@
 35	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 36	wo	wo	_	PWAV	_	_	_	_	_	_	B-RELC-insitu-2	_	_	_	B-LK
 37	sie	sie	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
-38	verweilen	verweilen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+38	verweilen	verweilen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 39	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 40	keine	keine	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 41	Diener	Diener	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -3851,15 +3851,15 @@
 57	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 58	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 59	Nähe	Nähe	_	NN	_	_	_	_	_	_	_	_	_	_	_
-60	schauen	schauen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+60	schauen	schauen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 61	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 62	um	um	_	KOUI	_	_	_	_	_	_	_	_	_	_	B-LK
 63	es	es	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 64	nach	nach	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 65	Kräften	Kraft	_	NN	_	_	_	_	_	_	_	_	_	_	_
 66	selbst	selbst	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-67	zu	zu	_	APPR	_	_	_	_	_	_	_	_	_	_	B-RK
-68	mildern	mild	_	ADJA	_	_	_	_	_	_	_	milderen	replace	*	I-RK
+67	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	B-RK
+68	mildern	mild	_	ADJD	_	_	_	_	_	_	_	milderen	replace	*	I-RK
 69	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 74
@@ -3869,7 +3869,7 @@
 2	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 3	wenn	wenn	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 4	alle	alle	_	PIS	_	_	_	_	_	B-Antec-1	_	_	_	_	_
-5	die	d	_	ART	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
+5	die	d	_	PDS	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 6	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 7	welche	welche	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 8	unter	unter	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -3925,7 +3925,7 @@
 5	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 6	der	die	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 7	zu	zu	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
-8	allen	alle	_	PIAT	_	_	_	_	_	_	I-RELC	_	_	_	_
+8	allen	alle	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 9	Sein	sein	_	PPOSAT	_	_	_	_	_	_	I-RELC	_	_	_	_
 10	letztes	letzte	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 11	Wort	Wort	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -3949,14 +3949,14 @@
 29	des	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 30	Evangeliums	Evangelium	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 31	gelassen	lassen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
-32	haben	haben	_	VAINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
+32	haben	haben	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 33	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 34	da	da	_	KOUS	_	_	_	_	_	_	B-ADVC-VL	_	_	_	B-LK
 35	sie	sie	_	PPER	_	_	_	_	_	_	I-ADVC	_	_	_	_
 36	doch	doch	_	ADV	_	_	_	_	_	_	I-ADVC	_	_	_	_
 37	hätten	haben	_	VAFIN	_	_	_	_	_	_	I-ADVC	_	_	_	B-RK
 38	irgendwie	irgendwie	_	ADV	_	_	_	_	_	_	I-ADVC	_	_	_	I-RK
-39	predigen	predigen	_	VVFIN	_	_	_	_	_	_	I-ADVC	_	_	_	I-RK
+39	predigen	predigen	_	VVINF	_	_	_	_	_	_	I-ADVC	_	_	_	I-RK
 40	können	können	_	VMINF	_	_	_	_	_	_	I-ADVC-Head	_	_	_	I-RK
 41	!	!	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
@@ -4095,12 +4095,12 @@
 61	die	die	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-3	_	_	_	B-LK
 62	an	an	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 63	Orten	Ort	_	NN	_	_	_	_	_	B-Antec-4	I-RELC	_	_	_	_
-64	leben	leben	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+64	leben	leben	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 65	,	,	_	$,	_	_	_	_	_	_	I-RELC|B-RELC-ambig-4	_	_	_	_
 66	wo	wo	_	PWAV	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	B-LK
 67	ihn	er	_	PPER	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
 68	niemand	niemand	_	PIS	_	_	_	_	_	_	I-RELC|I-RELC	_	_	_	_
-69	predigt	Predigt	_	NN	_	_	_	_	_	_	I-RELC|I-RELC	Predigt	replace	*	B-RK
+69	predigt	Predigt	_	VVFIN	_	_	_	_	_	_	I-RELC|I-RELC	Predigt	replace	*	B-RK
 70	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 79
@@ -4134,8 +4134,8 @@
 26	Cap.	Cap.	_	NN	_	_	_	_	_	_	_	_	_	_	_
 27	aber	aber	_	KON	_	_	_	_	_	_	_	_	_	_	_
 28	dem	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-29	heil.	Heil.	_	NN	_	_	_	_	_	_	_	_	_	_	_
-30	Petrus	petrus	_	FM	_	_	_	_	_	_	_	_	_	_	_
+29	heil.	Heil.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
+30	Petrus	petrus	_	NE	_	_	_	_	_	_	_	_	_	_	_
 31	zeigte	zeigen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 32	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 33	daß	daß	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -4156,7 +4156,7 @@
 48	Segnungen	Segnung	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 49	über	über	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 50	alle	alle	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
-51	verbreitet	verbreiten	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+51	verbreitet	verbreiten	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 52	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 53	zeige	zeigen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 54	uns	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -4171,7 +4171,7 @@
 63	sein	sein	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 64	letztes	letzte	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 65	Gebot	Gebot	_	NN	_	_	_	_	_	_	_	_	_	_	_
-66	allen	alle	_	PIAT	_	_	_	_	_	B-Antec-3	_	_	_	_	_
+66	allen	alle	_	PIS	_	_	_	_	_	B-Antec-3	_	_	_	_	_
 67	gegeben	geben	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 68	sei	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 69	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -4182,7 +4182,7 @@
 74	den	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 75	Fall	Fall	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 76	kommen	kommen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
-77	können	können	_	VMINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
+77	können	können	_	VMFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 78	,	,	_	$,	_	_	_	_	_	_	I-RELC	_	_	_	_
 79	es	es	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 80	zu	zu	_	PTKZU	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
@@ -4276,7 +4276,7 @@
 6	unberufen	unberufen	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 7	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 8	ausgeschlossen	ausgeschließen	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
-9	halten	halten	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+9	halten	halten	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 10	vom	vom	_	APPRART	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
 11	letzten	letzte	_	ADJA	_	_	_	_	_	_	I-PP	_	_	_	_
 12	Befehle	Befehl	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
@@ -4298,7 +4298,7 @@
 10	zu	zu	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 11	den	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 12	Heiden	Heide	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-13	gehen	gehen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+13	gehen	gehen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 14	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 15	–	-	_	$(	_	_	_	_	_	_	_	-	replace	*	_
 16	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
@@ -4317,7 +4317,7 @@
 1	Was	was	_	PWS	_	_	_	_	_	_	_	_	_	_	_
 2	wir	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 3	daheim	daheim	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-4	thun	tun	_	VVINF	_	_	_	_	_	_	_	tun	replace	*	B-RK
+4	thun	tun	_	VVFIN	_	_	_	_	_	_	_	tun	replace	*	B-RK
 5	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 6	thun	tun	_	VVFIN	_	_	_	_	_	_	_	tun	replace	*	B-LK
 7	wir	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -4336,7 +4336,7 @@
 20	was	was	_	PWS	_	_	_	_	_	_	_	_	_	_	B-LK
 21	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 22	Heidenprediger	Heidenprediger	_	NN	_	_	_	_	_	_	_	_	_	_	_
-23	verrichten	verrichten	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+23	verrichten	verrichten	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 24	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 25	ist	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 26	zugleich	zugleich	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -4407,7 +4407,7 @@
 30	von	von	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 31	besonderen	besondere	_	ADJA	_	_	_	_	_	_	I-RELC	_	_	_	_
 32	Gaben	Gabe	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-33	abhangen	abhangen	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+33	abhangen	abhangen	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 34	–	-	_	$(	_	_	_	_	_	_	_	-	replace	*	_
 35	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 36	gerade	gerade	_	ADV	_	_	_	_	_	_	_	_	_	_	_
@@ -4422,7 +4422,7 @@
 45	Werk	Werk	_	NN	_	_	_	_	_	I-Antec-Head|I-Antec-Head	_	_	_	_	_
 46	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 47	das	die	_	PRELS	_	_	_	_	_	_	B-RELC-ambig-2	_	_	_	B-LK
-48	allen	alle	_	PIAT	_	_	_	_	_	_	I-RELC	_	_	_	_
+48	allen	alle	_	PIS	_	_	_	_	_	_	I-RELC	_	_	_	_
 49	geboten	gebieten	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 50	ist	sein	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 51	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -4471,9 +4471,9 @@
 2	wir	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 3	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
 4	alle	alle	_	PIS	_	_	_	_	_	_	_	_	_	_	_
-5	gehen	gehen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+5	gehen	gehen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 6	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	I-RK
-7	predigen	predigen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	I-RK
+7	predigen	predigen	_	VVINF	_	_	_	_	_	_	_	_	_	_	I-RK
 8	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 9	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 10	würde	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -4644,13 +4644,13 @@
 # sent_id(TSV) = 89
 # text = Was Gott verbunden , kann kein Mensch scheiden und keiner darf es : in Christo leben und für seines Reiches Mehrung ein brünstiges Verlangen , das hat Gott verbunden , wer das von einander scheidet , scheidet sich selber von der rechten Liebe Christi und ergibt sich in eine innere Abgeschiedenheit der Seele , in eine Selbstzufriedenheit , die den Samen eines schrecklichen Selbstbetrugs , ja eines geistlichen Todes in sich trägt .
 1	Was	was	_	PWS	_	_	_	_	_	_	_	_	_	_	B-LK
-2	Gott	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+2	Gott	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 3	verbunden	verbinden	_	VVPP	_	_	_	_	_	_	_	_	_	_	_
 4	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 5	kann	können	_	VMFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 6	kein	keine	_	PIAT	_	_	_	_	_	_	_	_	_	_	_
 7	Mensch	Mensch	_	NN	_	_	_	_	_	_	_	_	_	_	_
-8	scheiden	scheiden	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+8	scheiden	scheiden	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 9	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 10	keiner	keine	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 11	darf	dürfen	_	VMFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -4670,7 +4670,7 @@
 25	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 26	das	die	_	PDS	_	_	_	_	_	_	_	_	_	_	_
 27	hat	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
-28	Gott	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+28	Gott	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 29	verbunden	verbinden	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
 30	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 31	wer	wer	_	PWS	_	_	_	_	_	_	_	_	_	_	_
@@ -4829,7 +4829,7 @@
 26	dem	d	_	ART	_	_	_	_	_	_	I-ADVC	_	_	_	_
 27	Herrn	Herr	_	NN	_	_	_	_	_	_	I-ADVC	_	_	_	_
 28	darbringen	darbringen	_	VVINF	_	_	_	_	_	_	I-ADVC	_	_	_	B-RK
-29	dürfen	dürfen	_	VMINF	_	_	_	_	_	_	I-ADVC-Head	_	_	_	I-RK
+29	dürfen	dürfen	_	VMFIN	_	_	_	_	_	_	I-ADVC-Head	_	_	_	I-RK
 30	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 94
@@ -4880,7 +4880,7 @@
 14	Geschäfte	Geschäft	_	NN	_	_	_	_	_	_	_	_	_	_	_
 15	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 16	Heidenbekehrung	Heidenbekehrung	_	NN	_	_	_	_	_	_	_	_	_	_	_
-17	dies	diese	_	PDS	_	_	_	_	_	_	_	_	_	_	_
+17	dies	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
 18	dreifache	dreifach	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 19	Opfer	Opfer	_	NN	_	_	_	_	_	_	_	_	_	_	_
 20	:	:	_	$.	_	_	_	_	_	_	_	_	_	_	_
@@ -4922,7 +4922,7 @@
 56	ist	sein	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 57	angenehm	angenehm	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 58	vor	vor	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-59	Gott	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+59	Gott	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 60	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 96
@@ -4958,7 +4958,7 @@
 28	dem	d	_	ART	_	_	_	_	_	_	I-ADVC	_	_	_	_
 29	Herrn	Herr	_	NN	_	_	_	_	_	_	I-ADVC	_	_	_	_
 30	gewidmet	widmen	_	VVPP	_	_	_	_	_	_	I-ADVC	_	_	_	B-RK
-31	haben	haben	_	VAINF	_	_	_	_	_	_	I-ADVC-Head	_	_	_	I-RK
+31	haben	haben	_	VAFIN	_	_	_	_	_	_	I-ADVC-Head	_	_	_	I-RK
 32	;	;	_	$.	_	_	_	_	_	_	_	_	_	_	_
 33	aber	aber	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 34	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -4986,15 +4986,15 @@
 56	vollbracht	vollbringen	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 57	wird	werden	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 58	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-59	darbringen	darbringen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+59	darbringen	darbringen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 60	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 97
 # sent_id(TSV) = 97
 # text = Betet , betet , und auf die Altäre des angebeteten Gottes leget dar die Opfer eurer zeitlichen Güter und Gaben , je nach dem Vermögen und guten Willen , welche der Herr darreicht .
-1	Betet	beten	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
+1	Betet	beten	_	VVIMP	_	_	_	_	_	_	_	_	_	_	B-LK
 2	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	I-LK
-3	betet	beten	_	VVFIN	_	_	_	_	_	_	_	_	_	_	I-LK
+3	betet	beten	_	VVIMP	_	_	_	_	_	_	_	_	_	_	I-LK
 4	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 5	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 6	auf	auf	_	APPR	_	_	_	_	_	_	_	_	_	_	_
@@ -5002,8 +5002,8 @@
 8	Altäre	Altar	_	NN	_	_	_	_	_	_	_	_	_	_	_
 9	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 10	angebeteten	angebetet	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
-11	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
-12	leget	legen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
+11	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
+12	leget	legen	_	VVIMP	_	_	_	_	_	_	_	_	_	_	B-LK
 13	dar	dar	_	PTKVZ	_	_	_	_	_	_	_	_	_	_	B-RK
 14	die	d	_	ART	_	_	_	_	_	_	B-NP-extrap	_	_	_	_
 15	Opfer	Opfer	_	NN	_	_	_	_	_	_	I-NP	_	_	_	_
@@ -5070,7 +5070,7 @@
 7	Judäa	Judäa	_	NE	_	_	_	_	_	_	_	_	_	_	_
 8	sammelte	sammeln	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 9	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-10	Gott	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+10	Gott	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 11	ein	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 12	Opfer	Opfer	_	NN	_	_	_	_	_	_	_	_	_	_	_
 13	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
@@ -5096,7 +5096,7 @@
 33	erlöster	erlöst	_	ADJA	_	_	_	_	_	I-Antec	_	_	_	_	_
 34	Seelen	Seele	_	NN	_	_	_	_	_	I-Antec	_	_	_	_	_
 35	gegeben	geben	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
-36	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
+36	werden	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 37	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 38	die	die	_	PRELS	_	_	_	_	_	_	B-RELC-extrap-1	_	_	_	B-LK
 39	reich	reich	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -5108,16 +5108,16 @@
 45	ihre	ihr	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 46	Freude	Freude	_	NN	_	_	_	_	_	_	_	_	_	_	_
 47	dran	daran	_	PAV	_	_	_	_	_	_	_	_	_	_	_
-48	finden	finden	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+48	finden	finden	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 49	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 50	arm	arm	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
 51	zu	zu	_	PTKZU	_	_	_	_	_	_	_	_	_	_	_
 52	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	B-RK
 53	um	um	_	APPR	_	_	_	_	_	_	_	_	_	_	_
-54	Gottes	Gott	_	NN	_	_	_	_	_	_	_	_	_	_	_
+54	Gottes	Gott	_	NE	_	_	_	_	_	_	_	_	_	_	_
 55	willen	Willen	_	NN	_	_	_	_	_	_	_	Willen	replace	*	_
 56	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-57	dem	d	_	ART	_	_	_	_	_	B-Antec-2	_	_	_	_	_
+57	dem	d	_	PDS	_	_	_	_	_	B-Antec-2	_	_	_	_	_
 58	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 59	von	von	_	APPR	_	_	_	_	_	_	B-RELC-insitu-2	_	_	_	B-LK
 60	dem	die	_	PRELS	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
@@ -5137,7 +5137,7 @@
 # sent_id(TSV) = 100
 # text = Aber vergesset auch nicht , daß es ein schöneres und seligeres Gebet gibt , als das im Kämmerlein !
 1	Aber	aber	_	KON	_	_	_	_	_	_	_	_	_	_	_
-2	vergesset	vergessen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	_
+2	vergesset	vergessen	_	VVIMP	_	_	_	_	_	_	_	_	_	_	_
 3	auch	auch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 4	nicht	nicht	_	PTKNEG	_	_	_	_	_	_	_	_	_	_	_
 5	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -5162,7 +5162,7 @@
 1	Wenn	wenn	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 2	uns	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 3	der	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
-4	h.	h.	_	VVFIN	_	_	_	_	_	_	_	_	_	_	_
+4	h.	h.	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 5	Apostel	Apostel	_	NN	_	_	_	_	_	_	_	_	_	_	_
 6	befiehlt	befehlen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 7	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -5248,7 +5248,7 @@
 38	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 39	Herrn	Herr	_	NN	_	_	_	_	_	_	_	_	_	_	_
 40	Herrn	Herr	_	NN	_	_	_	_	_	_	_	_	_	_	_
-41	bitten	bitten	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+41	bitten	bitten	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 42	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 43	was	was	_	PWS	_	_	_	_	_	_	_	_	_	_	B-LK
 44	Er	er	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -5259,7 +5259,7 @@
 # sent_id = 103
 # sent_id(TSV) = 103
 # text = Denket daran , wenn ihr im Hause des Herrn zusammenkommet – und weil ihr nicht hinausgehen und den Heiden predigen könnet , so werdet eins und entschließet euch , dem Herrn in gemeinsamen Gebeten seine Verheißungen für die Heiden vorzuhalten und prediget in kindlichem Flehen dem Herrn Herrn von seinem gnädigen Willen und der Offenbarung Seiner Hirtenliebe , auf die wir warten .
-1	Denket	denken	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
+1	Denket	denken	_	VVIMP	_	_	_	_	_	_	_	_	_	_	B-LK
 2	daran	daran	_	PAV	_	_	_	_	_	_	_	_	_	_	_
 3	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 4	wenn	wenn	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -5278,14 +5278,14 @@
 17	und	und	_	KON	_	_	_	_	_	_	I-ADVC	_	_	_	_
 18	den	d	_	ART	_	_	_	_	_	_	I-ADVC	_	_	_	_
 19	Heiden	Heide	_	NN	_	_	_	_	_	_	I-ADVC	_	_	_	_
-20	predigen	predigen	_	VVFIN	_	_	_	_	_	_	I-ADVC	_	_	_	B-RK
+20	predigen	predigen	_	VVINF	_	_	_	_	_	_	I-ADVC	_	_	_	B-RK
 21	könnet	können	_	VMFIN	_	_	_	_	_	_	I-ADVC-Head	_	_	_	I-RK
 22	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 23	so	so	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-24	werdet	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
+24	werdet	werden	_	VAIMP	_	_	_	_	_	_	_	_	_	_	B-LK
 25	eins	eins	_	PIS	_	_	_	_	_	_	_	_	_	_	_
 26	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-27	entschließet	entschließen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
+27	entschließet	entschließen	_	VVIMP	_	_	_	_	_	_	_	_	_	_	B-LK
 28	euch	ihr	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 29	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 30	dem	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -5300,7 +5300,7 @@
 39	Heiden	Heide	_	NN	_	_	_	_	_	_	_	_	_	_	_
 40	vorzuhalten	vorhalten	_	VVIZU	_	_	_	_	_	_	_	_	_	_	B-RK
 41	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
-42	prediget	predigen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
+42	prediget	predigen	_	VVIMP	_	_	_	_	_	_	_	_	_	_	B-LK
 43	in	in	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 44	kindlichem	kindlich	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 45	Flehen	Flehen	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -5320,7 +5320,7 @@
 59	auf	auf	_	APPR	_	_	_	_	_	_	B-RELC-ambig-1	_	_	_	B-LK
 60	die	die	_	PRELS	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
 61	wir	wir	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
-62	warten	warten	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+62	warten	warten	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
 63	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 104
@@ -5336,7 +5336,7 @@
 8	unsern	unsere	_	PPOSAT	_	_	_	_	_	_	I-RELC	unseren	replace	*	_
 9	Versammlungen	Versammlung	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 10	gebetet	beten	_	VVPP	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
-11	werden	werden	_	VAINF	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
+11	werden	werden	_	VAFIN	_	_	_	_	_	_	I-RELC	_	_	_	I-RK
 12	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 
 # sent_id = 105
@@ -5361,7 +5361,7 @@
 17	Wortes	Wort	_	NN	_	_	_	_	_	I-Antec	I-PP	_	_	_	_
 18	,	,	_	$,	_	_	_	_	_	_	I-PP	_	_	_	_
 19	die	d	_	ART	_	_	_	_	_	_	I-PP|B-RELC-ambig-1	_	_	_	B-LK
-20	Gott	Gott	_	NN	_	_	_	_	_	_	I-PP|I-RELC	_	_	_	_
+20	Gott	Gott	_	NE	_	_	_	_	_	_	I-PP|I-RELC	_	_	_	_
 21	in	in	_	APPR	_	_	_	_	_	_	I-PP|I-RELC	_	_	_	_
 22	Seine	seine	_	PPOSAT	_	_	_	_	_	_	I-PP|I-RELC	_	_	_	_
 23	Aernte	Ernte	_	NN	_	_	_	_	_	_	I-PP|I-RELC	Ernte	replace	*	_
@@ -5385,9 +5385,9 @@
 5	wo	wo	_	PWAV	_	_	_	_	_	_	_	_	_	_	B-LK
 6	diese	diese	_	PDAT	_	_	_	_	_	_	_	_	_	_	_
 7	Bitte	Bitte	_	NN	_	_	_	_	_	_	_	_	_	_	_
-8	erschallt	erschallen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
+8	erschallt	erschallen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 9	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-10	harre	harren	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
+10	harre	harren	_	VVIMP	_	_	_	_	_	_	_	_	_	_	B-LK
 11	die	d	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 12	Gemeine	Gemeine	_	NN	_	_	_	_	_	I-Antec-Head	_	_	_	_	_
 13	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -5404,7 +5404,7 @@
 24	wenn	wenn	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 25	sie	sie	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 26	nun	nun	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-27	erschallt	erschallen	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
+27	erschallt	erschallen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 28	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 29	da	da	_	KOUS	_	_	_	_	_	_	_	_	_	_	_
 30	wollen	wollen	_	VMFIN	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -5450,16 +5450,16 @@
 70	einmüthig	einmütig	_	ADJD	_	_	_	_	_	_	I-RELC	einmütig	replace	*	_
 71	und	und	_	KON	_	_	_	_	_	_	I-RELC	_	_	_	_
 72	einhellig	einhellig	_	ADJD	_	_	_	_	_	_	I-RELC	_	_	_	_
-73	thun	tun	_	VVINF	_	_	_	_	_	_	I-RELC	tun	replace	*	B-RK
+73	thun	tun	_	VVFIN	_	_	_	_	_	_	I-RELC	tun	replace	*	B-RK
 74	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-75	aufnehmen	aufnehmen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+75	aufnehmen	aufnehmen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 76	in	in	_	APPR	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
 77	Gnaden	Gnade	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
 78	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 79	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 80	wir	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 81	selbst	selbst	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-82	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	B-LK
+82	werden	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 83	spüren	spüren	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 84	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 85	daß	daß	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
@@ -5478,7 +5478,7 @@
 98	heilsame	heilsam	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 99	That	Tat	_	NN	_	_	_	_	_	_	_	Tat	replace	*	_
 100	gethan	tun	_	VVPP	_	_	_	_	_	_	_	getan	replace	*	B-RK
-101	haben	haben	_	VAINF	_	_	_	_	_	_	_	_	_	_	I-RK
+101	haben	haben	_	VAFIN	_	_	_	_	_	_	_	_	_	_	I-RK
 102	.	.	_	$.	_	_	_	_	_	_	_	_	_	_	_
 103	–	-	_	$(	_	_	_	_	_	_	_	-	replace	*	_
 
@@ -5494,7 +5494,7 @@
 7	sich	sich	_	PRF	_	_	_	_	_	_	_	_	_	_	_
 8	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 9	Gemeine	Gemeine	_	NN	_	_	_	_	_	_	_	_	_	_	_
-10	versammelt	versammeln	_	VVPP	_	_	_	_	_	_	_	_	_	_	B-RK
+10	versammelt	versammeln	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 11	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 12	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 13	den	d	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
@@ -5565,7 +5565,7 @@
 21	Gemeinschaft	Gemeinschaft	_	NN	_	_	_	_	_	_	_	_	_	_	_
 22	des	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 23	Gebetes	Gebet	_	NN	_	_	_	_	_	_	_	_	_	_	_
-24	kennen	kennen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+24	kennen	kennen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 25	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 26	üben	üben	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 27	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
@@ -5593,7 +5593,7 @@
 49	auf	auf	_	APPR	_	_	_	_	_	_	I-RELC	_	_	_	_
 50	die	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
 51	Altäre	Altar	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
-52	Gottes	Gott	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
+52	Gottes	Gott	_	NE	_	_	_	_	_	_	I-RELC	_	_	_	_
 53	zum	zum	_	APPRART	_	_	_	_	_	_	I-RELC	_	_	_	_
 54	Heile	Heile	_	NN	_	_	_	_	_	_	I-RELC	_	_	_	_
 55	der	d	_	ART	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -5640,7 +5640,7 @@
 # sent_id(TSV) = 110
 # text = Ein betend Herz kennt den wahren Reichthum und hat Freude daran , um Christi willen arm zu werden , welcher selbst arm geworden ist , um viele reich zu machen .
 1	Ein	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
-2	betend	beten	_	VVPP	_	_	_	_	_	_	_	_	_	_	_
+2	betend	beten	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 3	Herz	Herz	_	NN	_	_	_	_	_	_	_	_	_	_	_
 4	kennt	kennen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 5	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -5674,7 +5674,7 @@
 # sent_id = 111
 # sent_id(TSV) = 111
 # text = Der , welcher Seinen heiligen Geist in unser Herz gibt , auf daß er uns beten lehre , schenkt uns denselben Geist auch dazu , daß wir frei werden von der Sclaverei des irdischen Besitzes und dem Herrn mit allem dienen , was wir haben und vermögen .
-1	Der	d	_	ART	_	_	_	_	_	B-Antec-1	_	_	_	_	_
+1	Der	d	_	PDS	_	_	_	_	_	B-Antec-1	_	_	_	_	_
 2	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 3	welcher	welche	_	PRELS	_	_	_	_	_	_	B-RELC-insitu-1	_	_	_	B-LK
 4	Seinen	seine	_	PPOSAT	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -5689,8 +5689,8 @@
 13	daß	daß	_	KOUS	_	_	_	_	_	_	I-RELC	_	_	_	I-LK
 14	er	er	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
 15	uns	wir	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
-16	beten	beten	_	VVFIN	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
-17	lehre	Lehre	_	NN	_	_	_	_	_	_	I-RELC	Lehre	replace	*	I-RK
+16	beten	beten	_	VVINF	_	_	_	_	_	_	I-RELC	_	_	_	B-RK
+17	lehre	Lehre	_	VVFIN	_	_	_	_	_	_	I-RELC	Lehre	replace	*	I-RK
 18	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 19	schenkt	schenken	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 20	uns	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
@@ -5702,7 +5702,7 @@
 26	daß	daß	_	KOUS	_	_	_	_	_	_	_	_	_	_	B-LK
 27	wir	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 28	frei	frei	_	ADJD	_	_	_	_	_	_	_	_	_	_	_
-29	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	B-RK
+29	werden	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 30	von	von	_	APPR	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
 31	der	d	_	ART	_	_	_	_	_	_	I-PP	_	_	_	_
 32	Sclaverei	Sklaverei	_	NN	_	_	_	_	_	_	I-PP	Sklaverei	replace	*	_
@@ -5714,7 +5714,7 @@
 38	Herrn	Herr	_	NN	_	_	_	_	_	_	_	_	_	_	_
 39	mit	mit	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 40	allem	alle	_	PIS	_	_	_	_	_	B-Antec-2	_	_	_	_	_
-41	dienen	dienen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+41	dienen	dienen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 42	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
 43	was	was	_	PWS	_	_	_	_	_	_	B-RELC-extrap-2	_	_	_	B-LK
 44	wir	wir	_	PPER	_	_	_	_	_	_	I-RELC	_	_	_	_
@@ -5738,8 +5738,8 @@
 10	an	an	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 11	ein	eine	_	ART	_	_	_	_	_	_	_	_	_	_	_
 12	Glas	Glas	_	NN	_	_	_	_	_	_	_	_	_	_	_
-13	Narden	Narden	_	NE	_	_	_	_	_	_	_	_	_	_	_
-14	wenden	wenden	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+13	Narden	Narden	_	NN	_	_	_	_	_	_	_	_	_	_	_
+14	wenden	wenden	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
 15	für	für	_	APPR	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
 16	Jesu	Jesu	_	NE	_	_	_	_	_	_	I-PP	_	_	_	_
 17	Haupt	Haupt	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
@@ -5777,7 +5777,7 @@
 2	würde	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-LK
 3	gute	gut	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 4	Zeit	Zeit	_	NN	_	_	_	_	_	_	_	_	_	_	_
-5	werden	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+5	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	B-RK
 6	auf	auf	_	APPR	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
 7	Erden	Erde	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
 8	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
@@ -5811,7 +5811,7 @@
 13	es	es	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 14	doch	doch	_	ADV	_	_	_	_	_	_	_	_	_	_	_
 15	also	also	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-16	werden	werden	_	VAFIN	_	_	_	_	_	_	_	_	_	_	B-RK
+16	werden	werden	_	VAINF	_	_	_	_	_	_	_	_	_	_	B-RK
 17	im	im	_	APPRART	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
 18	Kreise	Kreis	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
 19	der	d	_	ART	_	_	_	_	_	_	I-PP	_	_	_	_
@@ -5823,7 +5823,7 @@
 25	die	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 26	Deinen	deine	_	PPOSAT	_	_	_	_	_	_	_	_	_	_	_
 27	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
-28	o	o	_	FM	_	_	_	_	_	_	_	_	_	_	_
+28	o	o	_	ITJ	_	_	_	_	_	_	_	_	_	_	_
 29	Herr	Herr	_	NN	_	_	_	_	_	_	_	_	_	_	_
 30	Jesu	Jesu	_	NE	_	_	_	_	_	_	_	_	_	_	_
 31	,	,	_	$,	_	_	_	_	_	_	_	_	_	_	_
@@ -5836,7 +5836,7 @@
 # sent_id(TSV) = 115
 # text = da gönne den irrenden Schwalben ihr Nest , bis wir von dannen fliegen und zu den Deinigen kommen und Dir ewiglich Opfer und Anbetung bringen mit allen erlöseten Heiden aus allen Landen und aus allen Völkern .
 1	da	da	_	ADV	_	_	_	_	_	_	_	_	_	_	_
-2	gönne	gönnen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-LK
+2	gönne	gönnen	_	VVIMP	_	_	_	_	_	_	_	_	_	_	B-LK
 3	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
 4	irrenden	irrend	_	ADJA	_	_	_	_	_	_	_	_	_	_	_
 5	Schwalben	Schwalbe	_	NN	_	_	_	_	_	_	_	_	_	_	_
@@ -5847,7 +5847,7 @@
 10	wir	wir	_	PPER	_	_	_	_	_	_	_	_	_	_	_
 11	von	von	_	APPR	_	_	_	_	_	_	B-PP-insitu	_	_	_	_
 12	dannen	dannen	_	ADV	_	_	_	_	_	_	I-PP	_	_	_	_
-13	fliegen	fliegen	_	VVINF	_	_	_	_	_	_	_	_	_	_	B-RK
+13	fliegen	fliegen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 14	und	und	_	KON	_	_	_	_	_	_	_	_	_	_	_
 15	zu	zu	_	APPR	_	_	_	_	_	_	_	_	_	_	_
 16	den	d	_	ART	_	_	_	_	_	_	_	_	_	_	_
@@ -5861,8 +5861,8 @@
 24	Anbetung	Anbetung	_	NN	_	_	_	_	_	_	_	_	_	_	_
 25	bringen	bringen	_	VVFIN	_	_	_	_	_	_	_	_	_	_	B-RK
 26	mit	mit	_	APPR	_	_	_	_	_	_	B-PP-extrap	_	_	_	_
-27	allen	alle	_	PIS	_	_	_	_	_	_	I-PP	_	_	_	_
-28	erlöseten	erlösen	_	VVFIN	_	_	_	_	_	_	I-PP	erlösten	replace	*	_
+27	allen	alle	_	PIAT	_	_	_	_	_	_	I-PP	_	_	_	_
+28	erlöseten	erlösen	_	ADJA	_	_	_	_	_	_	I-PP	erlösten	replace	*	_
 29	Heiden	Heide	_	NN	_	_	_	_	_	_	I-PP	_	_	_	_
 30	aus	aus	_	APPR	_	_	_	_	_	_	I-PP	_	_	_	_
 31	allen	alle	_	PIAT	_	_	_	_	_	_	I-PP	_	_	_	_
