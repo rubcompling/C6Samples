@@ -8,11 +8,9 @@ Manually annotated data sets from project C6 (SFB 1102)
 2. [Data format](#data-format)  
 3. [Span annotations](#span-annotations)  
    3.1 [Antecedents](#antecedents)  
-   3.2 [Chunks](#chunks)  
-   3.3 [Citations](#citations)  
-   3.4 [Moving elements](#moving-elements)  
-   3.5 [Phrases](#phrases)  
-   3.6 [Topological fields](#topological-fields) 
+   3.2 [Citations](#citations)  
+   3.3 [Moving elements](#moving-elements)  
+   3.4 [Topological fields](#topological-fields) 
 4. [License](#license) 
 5. [References](#references)  
 
@@ -29,7 +27,7 @@ Corpus | Time period | #Tokens | Annotations  | License
 
 ### DTAmedical and DTAtheological
 
-The sample contains sentences from 11 medical texts and 13 theological texts from the [DTA](http://www.deutschestextarchiv.de/ "Deutsches Textarchiv (German Text Archive)").
+The sample contains sentences from 11 medical texts and 14 theological texts from the [DTA](http://www.deutschestextarchiv.de/ "Deutsches Textarchiv (German Text Archive)").
 
 Sentence boundaries, tokens, lemmas, orthographic normalization, and POS tags are taken from the automatic annotations of the [DTA](http://www.deutschestextarchiv.de/ "Deutsches Textarchiv (German Text Archive)").
 To date, POS tags are manually corrected for the following texts:
@@ -120,11 +118,9 @@ A span can also include one or more other spans. In this case, annotations are o
 For more complex annotations, the BIO-tags can also be extended with more information, e.g., `B-RELC-extrap-1`. For details on the different annotations, cf. the sections below.
 
 1. [Antecedents](#antecedents)
-2. [Chunks](#chunks)
-3. [Citations](#citations)
-4. [Moving elements](#moving-elements)
-5. [Phrases](#phrases)
-6. [Topological fields](#topological-fields)
+2. [Citations](#citations)
+3. [Moving elements](#moving-elements)
+4. [Topological fields](#topological-fields)
 
 - - - - - - - - - - - - - - - - 
 
@@ -145,23 +141,6 @@ Additional remarks:
 - `IDs` are unique within a given sentence, starting at index 1. They always refer unambiguously to a [moving element](#moving-elements) in the same sentence.
 - If the same token span serves as antecedent for multiple moving elements, this is annotated as if there were two distinct antecedents, e.g. `B-Antec-1|B-Antec-2`.
 - Tokens that are not part of an antecedent are labeled with `_`.
-
-- - - - - - - - - - - - - - - - 
-
-### Chunks
-
-Chunks are non-recursive, non-overlapping constituents from a sentence's parse tree. Chunk annotations are included in the `CHUNK` column. The following chunk labels are used:
-
-Label | Chunk 
-:---: | :----
-NC | Noun chunk
-PC | Prepositional chunk
-AC | Adjective chunk
-ADVC | Adverb chunk
-sNC | Stranded noun chunk
-sPC | Stranded prepositional chunk
-
-Stranded chunks occur when the beginning of a chunk is separated from the rest of the chunk by pre-modifying elements. For more information, cf. [Ortmann (2021)](https://aclanthology.org/2021.nodalida-main.19/).
 
 - - - - - - - - - - - - - - - - 
 
@@ -214,38 +193,16 @@ Additional remarks:
 
 - - - - - - - - - - - - - - - - 
 
-### Phrases
-
-In the context of this project, phrases are understood as non-overlapping constituents from a sentence's parse tree. They are annotated in the `PHRASE` column. Only the highest non-terminal nodes of the following types are included:
-
-Label | Phrase 
-:---: | :----
-NP | Noun phrase
-PP | Prepositional phrase
-AP | Adjective phrase
-ADVP | Adverb phrase
-
-Phrases are expected to not cross topological field boundaries. This means that they can be located within a field or contain one or more fields, but the may not be part of two neighbouring fields and the fields they contain may not stretch across the boundaries of the phrase. For more information, cf. [Ortmann (2021b)](https://konvens2021.phil.hhu.de/wp-content/uploads/2021/09/2021.KONVENS-1.11.pdf).
-
-- - - - - - - - - - - - - - - - 
-
 ### Topological Fields
 
-The topological field annotation is included in the `TOPF` column. Fields can - and often are - nested, i.e., one filed can encompass one or more (possibly complex) other fields. The following field labels are used:
+The topological field annotation is included in the `TOPF` column. In DTAmedical and DTAtheological, only (some) sentence brackets are annotated. The following labels are used:
 
 Label | Field 
 :---: | :----
-KOORD | Koordinationsfeld (*coordination field*)
-LV | Linksversetzung (*left dislocation*)
-VF | Vorfeld (*pre-field*)
 LK | Linke Satzklammer (*left sentence bracket*)
-MF | Mittelfeld (*middle field*)
 RK | Rechte Satzklammer (*right sentence bracket*)
-NF | Nachfeld (*post-field*)
 
-The annotations are derived from the annotation scheme of the TüBa-D/Z corpus (Telljohann et al., 2017). For more information, cf. [Ortmann (2020)](https://aclanthology.org/2020.latechclfl-1.2.pdf)
-
-For data sets that only contain sentence bracket annotations, the remaining tokens are labeled with `_` instead of `O`.
+The remaining tokens are labeled with `_` instead of `O`.
 
 - - - - - - - - - - - - - - - - 
 
@@ -256,14 +213,6 @@ For data sets that only contain sentence bracket annotations, the remaining toke
 - - - - - - - - - - - - - - - - 
 
 ## References
-BBAW. 2019. Deutsches Textarchiv. Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache. Berlin-Brandenburgische Akademie der Wissenschaften; http://www.deutschestextarchiv.de/.
-
-Katrin Ortmann. 2020. Automatic Topological Field Identification in (Historical) German Texts. In *Proceedings of the The 4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL)*, Barcelona, Spain (online), pp. 10-18. [[PDF]](https://aclanthology.org/2020.latechclfl-1.2.pdf) [[Github]](https://github.com/rubcompling/latech2020)
-
-Katrin Ortmann. 2021. Chunking Historical German. In *Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa)*, Reykjavik, Iceland (online), pp. 190-199. [[PDF]](https://aclanthology.org/2021.nodalida-main.19/) [[Github]](https://github.com/rubcompling/nodalida2021)
-
-Katrin Ortmann. 2021b. Automatic Phrase Recognition in Historical German. In *Proceedings of the Conference on Natural Language Processing (KONVENS)*, Düsseldorf, Germany. [[PDF]](https://konvens2021.phil.hhu.de/wp-content/uploads/2021/09/2021.KONVENS-1.11.pdf) [[Github]](https://github.com/rubcompling/konvens2021)
+BBAW. 2019. Deutsches Textarchiv. Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache. Berlin-Brandenburgische Akademie der Wissenschaften; http://www.deutschestextarchiv.de/.  
 
 Anne Schiller, Simone Teufel, Christine Stöckert, and Christine Thielen. 1999. *Guidelines für das Tagging deutscher Textcorpora mit STTS (Kleines und großes Tagset)*. Retrieved from http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf.
-
-Heike Telljohann, Erhard W. Hinrichs, Sandra Kübler, Heike Zinsmeister, and Kathrin Beck. 2017. *Stylebook for the Tübingen Treebank of Written German (TüBa-D/Z)*. Seminar fur Sprachwissenschaft, Universität Tübingen, Germany.
